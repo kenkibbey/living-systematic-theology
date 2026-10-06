@@ -7,6 +7,22 @@ Scripture does not change when LST changes. This file records corrections to a f
 
 Each entry names the chapter, the earlier formulation, the reason the change was required, and whether the revision strengthens, qualifies, lowers confidence in, or abandons what stood before. Where a change came out of a public examination, that is said plainly rather than presented as internal refinement.
 
+
+=================================================
+GOVERNING DOCUMENT FORMAT AND REFERENCE SYNCHRONIZATION
+October 6, 2026
+=================================================
+
+Repository and workflow maintenance only. No LST doctrine changed and no new Systematic revision number was assigned.
+
+The current Living Systematic Theology Version 1.10 was migrated from .txt to Markdown (.md) for improved human readability in the public repository. Its theological wording is unchanged. The Creed was also migrated to Markdown. During that migration, its preamble was found still to say that Creed Version 1.7 summarized Systematic Version 1.9. Because that statement was now factually stale after Revision 21, the Creed was synchronized as Version 1.8 so it correctly states that it summarizes Systematic Version 1.10. No doctrinal proposition in the Creed was changed.
+
+T.A.I.T. Prompt Version 1.6 likewise still hard-coded Systematic Version 1.9 and Creed Version 1.7 as the governing filenames. It was synchronized as T.A.I.T. Prompt Version 1.7 to point to LIVING_SYSTEMATIC_THEOLOGY_V1_10.md and LST_CREED_V1_8.md. No theological rule in the prompt was changed.
+
+The bootstrap was updated to the new filenames and now records the repository convention that human-facing LST documents should use Markdown when Markdown materially improves readability and navigation. Machine-oriented, archival, or format-specific files may remain in another appropriate format.
+
+Effect: presentation and governing-file reference synchronization only. Systematic Version 1.10 remains the governing theology. Creed Version 1.8 remains subordinate to it. Engagement Module Version 1.3 remains unchanged. T.A.I.T. Prompt Version 1.7 governs operating instructions. Scripture remains final authority.
+
 =================================================
 VERSION 1.10
 October 6, 2026
@@ -33,20 +49,6 @@ Weighting of the timing evidence. Cornelius remains the decisive canonical count
 What was not changed. Revision 19's doctrinal destination remains. Baptism is Christ's commanded initiatory act for believing disciples and belongs integrally to the apostolic conversion response. Scripture directly joins it to forgiveness, washing away sins, baptism into Christ, putting on Christ, burial and resurrection with Christ, and salvation. It therefore must not be reduced to a bare outward picture of saving benefits necessarily completed beforehand. At the same time, Scripture has not demonstrated that physical water is a meritorious or magical cause or that water baptism is universally the exact temporal instant at which regeneration, justification, forgiveness, or saving union first occurs. Christ's blood remains the sole meritorious ground, the Spirit gives life, faith is indispensable, and the exact causal and temporal relation among these realities remains not demonstrated. Immersion remains LST's ordinary and strongly preferred mode, while the exclusive invalidity of every non-immersive administration remains not demonstrated.
 
 Matching changes. The bootstrap now identifies Version 1.10 as the current Systematic and surfaces Revision 21 as the newest high-priority state. Creed Version 1.7, Engagement Module Version 1.3, and T.A.I.T. Prompt Version 1.6 require no new version because their present wording is already compatible with this narrower synchronization repair.
-
-
-=================================================
-REPOSITORY MARKDOWN FORMAT MIGRATION - IN-PLACE WORKFLOW MAINTENANCE
-October 6, 2026
-=================================================
-
-Formatting and repository workflow only. No LST doctrine changed and no governing theological version number changed.
-
-The current Living Systematic Theology Version 1.10 and LST Creed Version 1.7 were migrated from .txt files to Markdown (.md) for easier human reading and navigation in the public repository. Their theological wording and authority relationship were not changed by the format migration.
-
-The permanent bootstrap was synchronized to the new filenames. Going forward, human-facing LST documents should use Markdown when Markdown materially improves repository readability, while machine-oriented, archival, or format-specific files may remain in another appropriate format.
-
-Effect: changes presentation and repository convention only. Systematic Version 1.10 remains the governing theology, Creed Version 1.7 remains subordinate to it, and Scripture remains final authority.
 
 
 =================================================
