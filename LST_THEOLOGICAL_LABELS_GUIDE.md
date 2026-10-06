@@ -80,6 +80,6 @@ They are dangerous only when the map is mistaken for the territory.
 
 This guide exists so a new reader can understand LST's theological location at a glance without requiring the full Systematic to become a catalog of denominational comparisons.
 
-For the actual doctrine, arguments, qualifications, confidence levels, and unresolved questions, read the current [Living Systematic Theology](LIVING_SYSTEMATIC_THEOLOGY_V1_7.txt) and [LST Creed](LST_CREED_V1_5.txt).
+For the actual doctrine, arguments, qualifications, confidence levels, and unresolved questions, read the current [Living Systematic Theology](LIVING_SYSTEMATIC_THEOLOGY_V1_10.md) and [LST Creed](LST_CREED_V1_7.md).
 
 If you believe one of these labels misdescribes the actual LST position, or you believe the underlying position is biblically wrong, open an Issue and choose **Challenge an LST Position**.
