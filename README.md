@@ -20,6 +20,16 @@ The goal is not caution for its own sake, compromise between theological camps, 
 
 The goal is **faithfulness**.
 
+## Start Here
+
+If you are new to Living Systematic Theology, begin with the Creed for a shorter overview of what LST presently teaches.
+
+- **[LST Creed](LST_CREED_V1_5.txt)** — A concise summary of LST's current theological positions and confidence levels.
+- **[Living Systematic Theology](LIVING_SYSTEMATIC_THEOLOGY_V1_7.txt)** — The full current systematic theology, including biblical arguments, qualifications, counterevidence, and unresolved questions.
+- **[Revision Record](LST_REVISION_RECORD.txt)** — The documented history of significant changes to LST, including what changed and why.
+
+If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an Issue and choose **Challenge an LST Position**.
+
 ## Why This Project Exists
 
 Christians have spent centuries studying Scripture, building theological systems, debating difficult passages, preserving important insights, and correcting serious errors.
