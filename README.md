@@ -27,6 +27,7 @@ If you are new to Living Systematic Theology, begin with the Creed for a shorter
 - **[LST Creed](LST_CREED_V1_5.txt)** — A concise summary of LST's current theological positions and confidence levels.
 - **[Living Systematic Theology](LIVING_SYSTEMATIC_THEOLOGY_V1_7.txt)** — The full current systematic theology, including biblical arguments, qualifications, counterevidence, and unresolved questions.
 - **[Revision Record](LST_REVISION_RECORD.txt)** — The documented history of significant changes to LST, including what changed and why.
+- **[How Challenges and Changes Work](CONTRIBUTING.md)** — How public challenges are examined, how revisions are approved, and how GitHub relates to the private LST working repository.
 
 If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an Issue and choose **Challenge an LST Position**.
 
