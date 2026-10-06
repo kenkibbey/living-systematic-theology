@@ -11,56 +11,39 @@ body:
 
         You do not need to agree with LST, belong to a particular tradition, or be a theologian.
 
-        The purpose of this issue is simple: identify something you believe LST gets wrong, overstates, understates, or has not adequately demonstrated, and show why from Scripture.
+        The goal is simple: if you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, make the strongest biblical case you can.
 
-        Opening an issue does not automatically mean LST should change. Every challenge should be tested against Scripture, including the strongest biblical case for retaining the current position.
+        **Submit one coherent argument. You do not need to answer five separate boxes.**
 
-        If Scripture requires correction, LST should change. If the challenge fails, the present position may stand or be strengthened.
+        Please make sure your challenge includes all five of these elements:
 
-        Challenges receive a public disposition: Sustained, Partially Sustained, Not Sustained, or Unresolved. The final issue response will explain whether LST changed and why.
+        1. **The exact LST position you are challenging.** Quote it if possible, or identify the doctrine or chapter.
+        2. **What you believe LST gets wrong.** Explain whether it is false, overstated, understated, misunderstood, or insufficiently demonstrated.
+        3. **Your strongest biblical case.** Give the Scripture passages and explain how they support your challenge.
+        4. **What you believe LST should say instead.** You do not need perfect wording. State the conclusion you believe Scripture requires.
+        5. **What would convince you the current LST position should remain.** Tell us what biblical evidence or argument would change your mind.
 
-  - type: textarea
-    id: position
-    attributes:
-      label: What LST position are you challenging?
-      description: Quote the sentence if possible, or identify the doctrine or chapter.
-      placeholder: Identify the exact LST claim you want examined.
-    validations:
-      required: true
+        You may appeal to theologians, confessions, church traditions, historical sources, linguistic work, or other research as evidence and context. None of those replaces the biblical case.
 
-  - type: textarea
-    id: objection
-    attributes:
-      label: What do you believe LST has wrong?
-      description: Explain your objection in your own words.
-      placeholder: Explain where you believe LST has overstated, understated, misunderstood, or failed to demonstrate something.
-    validations:
-      required: true
+        Opening an issue does not automatically mean LST should change. The challenge will be tested against Scripture, including the strongest biblical case for retaining the current position.
+
+        Challenges receive a public disposition: **Sustained, Partially Sustained, Not Sustained, or Unresolved.** The final issue response will explain whether LST changed and why.
 
   - type: textarea
-    id: scripture
+    id: challenge
     attributes:
-      label: Which Scripture passage or passages make your strongest case?
-      description: Give the references and explain how you believe they challenge the LST position.
-      placeholder: List the passages and explain the argument from them.
-    validations:
-      required: true
+      label: Submit your challenge
+      description: Present your complete biblical challenge here as one coherent argument. Include all five elements listed above.
+      placeholder: |
+        Identify the LST position you are challenging.
 
-  - type: textarea
-    id: alternative
-    attributes:
-      label: What do you believe LST should say instead?
-      description: You do not need perfect wording. Explain the conclusion you believe Scripture requires.
-      placeholder: State the position you believe better fits Scripture.
-    validations:
-      required: true
+        Explain what you believe is wrong with it.
 
-  - type: textarea
-    id: falsification
-    attributes:
-      label: What would convince you that the current LST position should remain?
-      description: This helps make the challenge testable rather than simply placing two opinions beside one another.
-      placeholder: What biblical evidence or argument would change your mind?
+        Give your strongest Scripture passages and explain the argument from them.
+
+        State what you believe LST should say instead.
+
+        Explain what biblical evidence or argument would convince you the current LST position should remain.
     validations:
       required: true
 
@@ -71,4 +54,4 @@ body:
 
         You are welcome to explain how Calvinism, Arminianism, Dispensationalism, Covenant Theology, Catholicism, Orthodoxy, or another tradition understands the issue, but the tradition itself is not the final argument.
 
-        Scripture is.
+        **Scripture is.**
