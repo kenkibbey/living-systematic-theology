@@ -28,7 +28,7 @@ The goal is **faithfulness**.
 
 If you are new to Living Systematic Theology, begin with the Creed for a shorter overview of what LST presently teaches.
 
-- **[LST Creed](LST_CREED_V1_7.md)** — A concise summary of LST's current theological positions and confidence levels.
+- **[LST Creed](LST_CREED_V1_8.md)** — A concise summary of LST's current theological positions and confidence levels.
 - **[Living Systematic Theology](LIVING_SYSTEMATIC_THEOLOGY_V1_10.md)** — The full current systematic theology, including biblical arguments, qualifications, counterevidence, and unresolved questions.
 - **[Revision Record](LST_REVISION_RECORD.txt)** — The documented history of significant changes to LST, including what changed and why.
 - **[Theological Labels Guide](LST_THEOLOGICAL_LABELS_GUIDE.md)** — A quick comparison showing which familiar theological traditions LST most closely resembles in each major area, without making those labels authoritative.
