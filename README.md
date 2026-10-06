@@ -37,6 +37,26 @@ If you are new to Living Systematic Theology, begin with the Creed for a shorter
 
 If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an Issue and choose **Challenge an LST Position**.
 
+## How to Challenge LST
+
+If you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, you are invited to challenge it.
+
+Open an Issue and choose **Challenge an LST Position**.
+
+You do not need to write five separate essays. Submit **one coherent biblical argument**, but make sure your challenge gives us these five things:
+
+1. **The exact LST position you are challenging.** Quote it if possible, or identify the doctrine or chapter.
+2. **What you believe LST gets wrong.** Explain whether you think it is false, overstated, understated, misunderstood, or insufficiently demonstrated.
+3. **Your strongest biblical case.** Give the Scripture passages and explain how they support your challenge.
+4. **What you believe LST should say instead.** You do not need perfect wording. State the conclusion you believe Scripture requires.
+5. **What would convince you the current LST position should remain.** Make the challenge testable by explaining what biblical evidence or argument would change your mind.
+
+You may bring historical theology, confessions, linguistic research, commentaries, or other supporting material, but those do not replace the biblical case.
+
+**You do not need to be a theologian. You do not need technical language. You do need to show why you believe Scripture requires LST to change.**
+
+Every serious challenge receives a public disposition explaining whether it was **Sustained, Partially Sustained, Not Sustained, or Unresolved**, and whether LST changed as a result.
+
 ## Why This Project Exists
 
 Christians have spent centuries studying Scripture, building theological systems, debating difficult passages, preserving important insights, and correcting serious errors.
