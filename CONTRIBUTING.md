@@ -45,6 +45,27 @@ The normal process is:
 
 When possible, the GitHub issue that prompted a change should remain part of the public record so readers can see what was challenged, how it was examined, and why LST changed or did not change.
 
+## Challenge Status and Public Verdict
+
+Every submitted challenge should have a visible status.
+
+The normal lifecycle is:
+
+1. **SUBMITTED** — The issue has been opened and is awaiting review.
+2. **UNDER REVIEW** — The challenge is being examined against the current governing LST documents and Scripture. The issue title may be updated to show this status.
+3. **SUSTAINED** — The challenge requires a material LST change.
+4. **PARTIALLY SUSTAINED** — The challenge exposes a real defect, but does not establish the challenger’s entire proposed conclusion.
+5. **NOT SUSTAINED** — The present LST position survives the challenge at its current doctrinal level, though its wording or argument may still be clarified or strengthened.
+6. **UNRESOLVED** — The challenge creates substantial biblical pressure that cannot yet be responsibly settled in either direction.
+
+The final result should be posted publicly on the GitHub issue using the [LST Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md).
+
+The public verdict should identify the controlling passages, summarize the strongest case on both sides, state the Revision Resistance result, explain whether LST changed, and point to any resulting revision or version number.
+
+The person who submitted the challenge should therefore be able to see how the objection was handled. GitHub will provide issue notifications according to that user’s own notification settings.
+
+New challenge Issues may be monitored and surfaced to the maintainer automatically, but the theological verdict itself is not automatic. A challenge must actually be examined, and no governing document changes without maintainer approval.
+
 ## Pull Requests
 
 For now, theological revisions should begin as Issues rather than direct Pull Requests.
