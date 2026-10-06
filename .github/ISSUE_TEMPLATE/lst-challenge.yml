@@ -17,6 +17,8 @@ body:
 
         If Scripture requires correction, LST should change. If the challenge fails, the present position may stand or be strengthened.
 
+        Challenges receive a public disposition: Sustained, Partially Sustained, Not Sustained, or Unresolved. The final issue response will explain whether LST changed and why.
+
   - type: textarea
     id: position
     attributes:
