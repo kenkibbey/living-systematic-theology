@@ -1,2 +1,57 @@
-# living-systematic-theology
-A Christ-centered, Scripture-governed, continuously reforming systematic theology open to public biblical challenge and refinement.
+# Living Systematic Theology
+
+**A Christ-centered, Scripture-governed, continuously reforming systematic theology**
+
+Living Systematic Theology, or **LST**, is a fallible attempt to state the theology of Scripture as faithfully and accurately as possible.
+
+It is not built around loyalty to Calvinism, Arminianism, Covenant Theology, Dispensationalism, or any other theological camp. Those traditions may contain important truths and important arguments, but none of them is allowed to decide beforehand what Scripture must say.
+
+**Scripture has the final word.**
+
+## The Governing Maxim
+
+> **Living Systematic Theology seeks to state the theology of Scripture as nearly as fallible interpreters can, speaking with the certainty Scripture gives, refusing certainty Scripture does not give, adding nothing the text cannot sustain, and surrendering nothing the text requires us to confess.**
+
+Where Scripture speaks clearly, LST should speak clearly.
+
+Where Scripture does not settle a question, LST should not pretend that it has.
+
+The goal is not caution for its own sake, compromise between theological camps, or a permanent middle position.
+
+The goal is **faithfulness**.
+
+## Why This Project Exists
+
+Christians have spent centuries studying Scripture, building theological systems, debating difficult passages, preserving important insights, and correcting serious errors.
+
+Living Systematic Theology does not dismiss that history. We stand downstream from an enormous amount of faithful human work.
+
+What has changed is the **scale and speed of the tools now available to us**.
+
+Modern artificial intelligence can search and compare enormous amounts of biblical, linguistic, historical, and theological material. It can place competing interpretations beside one another, locate neglected passages, expose hidden assumptions, trace arguments across Scripture, and deliberately construct strong challenges to an existing theological position in a fraction of the time such work once required.
+
+That creates an opportunity previous generations did not possess.
+
+Not an opportunity to let AI decide theology.
+
+An opportunity to **test theology harder than ever before**.
+
+AI has no theological authority.
+
+Neither does any individual theologian, church tradition, confession, denomination, or version of LST itself.
+
+The authority remains the written Word of God.
+
+LST seeks to use modern tools alongside the accumulated work of the historic Church to subject a systematic theology to continual examination under Scripture.
+
+If a Calvinist, Arminian, Catholic, Orthodox Christian, Lutheran, Baptist, dispensationalist, covenant theologian, scholar, pastor, ordinary believer, skeptic, or AI system can expose an error in LST from Scripture, that challenge deserves to be heard.
+
+If Scripture requires LST to change, **LST should change**.
+
+If a challenge fails after its strongest biblical case has been examined, the existing position should emerge better understood and better defended.
+
+The aim is not to create another theological tribe.
+
+It is to keep asking one question:
+
+> **What did God actually reveal, and how closely can our theology conform to it?**
