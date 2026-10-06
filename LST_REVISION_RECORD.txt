@@ -8,6 +8,48 @@ Scripture does not change when LST changes. This file records corrections to a f
 Each entry names the chapter, the earlier formulation, the reason the change was required, and whether the revision strengthens, qualifies, lowers confidence in, or abandons what stood before. Where a change came out of a public examination, that is said plainly rather than presented as internal refinement.
 
 =================================================
+VERSION 1.10
+October 6, 2026
+Supersedes Version 1.9
+=================================================
+
+One narrow synchronization revision to the baptism material. Revision 19's doctrinal destination survives re-examination. Version 1.10 does not adopt baptismal regeneration as a universal timing formula and does not retreat to the earlier bare-sign formulation. It repairs one residual Chapter 9 sentence that still located saving union categorically through faith alone, qualifies a disputed lexical point in 1 Peter 3:21, and makes explicit that Cornelius carries the decisive counterexample to a universal baptismal-timing rule while Ephesians 1:13 and 1 Corinthians 1:14-17 supply supporting pressure only.
+
+REVISION 21
+Chapters 9 and 20
+Baptism synchronization: union with Christ, 1 Peter 3:21, and the weighting of timing evidence
+Effect: preserves Revision 19's baptism doctrine while removing residual pre-Revision-19 assumptions and tightening the exegetical claims to the strength of the texts
+
+What stood in Version 1.9. Chapter 20 already refused both opposite reductions: baptism could not be reduced to a bare picture of saving benefits necessarily completed beforehand, and water baptism could not be made a magical or meritorious cause or a universal exact-moment rule for regeneration, justification, forgiveness, or saving union. It explicitly left the exact causal and temporal relation among faith, repentance, baptism, the Spirit's life-giving work, forgiveness, justification, and saving union unresolved. Chapter 9, however, still said without qualification, "By the Spirit believers are joined to the risen Lord through faith." Read beside the revised baptism chapter, that sentence could quietly restore the earlier assumption that faith creates saving union and baptism necessarily follows only as its sign.
+
+Why synchronization was required. Romans 6:3-4 speaks of baptism into Christ Jesus and into His death. Galatians 3:26-27 places sonship through faith immediately beside being baptized into Christ and putting on Christ. Those texts do not permit LST to settle in Chapter 9 what Chapter 20 correctly leaves unresolved. At the same time, Romans 3-4 and the wider faith-text file strongly establish justification through faith apart from meritorious works. That faith-language must retain its full force without being made to answer by itself the distinct question of baptism's precise causal or temporal relation to the reception and application of the saving benefit.
+
+What Version 1.10 says instead. Chapter 9 now says that the Spirit joins believers to the risen Christ, that Scripture directly joins this saving relation to faith and also speaks of believers as baptized into Christ and putting on Christ in baptism, that faith is indispensable and receives Christ, and that baptism belongs integrally to the apostolic conversion and initiation complex. It expressly leaves the exact causal and temporal relation of faith and baptism to saving union not demonstrated. The justification paragraph continues to confess justification through faith apart from meritorious works while adding that this does not by itself settle baptism's precise causal or temporal relation to the reception and application of that benefit.
+
+First Peter 3:21. Version 1.9 said Peter "identifies the saving relation with an appeal to God for a good conscience." The underlying term eperōtēma is disputed and can be rendered along the lines of appeal, response, or pledge. Version 1.10 therefore does not make one English gloss carry the doctrine. It retains Peter's explicit statement that baptism now saves, retains his denial that mere bodily dirt-removal is the point, and describes the eperōtēma of a good conscience toward God as variously understood as an appeal, response, or pledge, through the resurrection of Jesus Christ.
+
+Weighting of the timing evidence. Cornelius remains the decisive canonical counterexample to a universal rule making water baptism the first temporal moment of every saving benefit. He hears the gospel, receives the Holy Spirit before water baptism, and Peter later says God gave the Gentiles the Spirit and cleansed their hearts by faith (Acts 10:43-48; 11:15-18; 15:7-9). Ephesians 1:13 and 1 Corinthians 1:14-17 remain relevant supporting pressure, but neither passage independently proves that baptism is temporally inactive. Silence about baptism in Ephesians 1:13 is not itself a timing doctrine, and Paul's distinction between preaching and his personal administration of baptism does not by itself locate the moment of forgiveness or saving union.
+
+What was not changed. Revision 19's doctrinal destination remains. Baptism is Christ's commanded initiatory act for believing disciples and belongs integrally to the apostolic conversion response. Scripture directly joins it to forgiveness, washing away sins, baptism into Christ, putting on Christ, burial and resurrection with Christ, and salvation. It therefore must not be reduced to a bare outward picture of saving benefits necessarily completed beforehand. At the same time, Scripture has not demonstrated that physical water is a meritorious or magical cause or that water baptism is universally the exact temporal instant at which regeneration, justification, forgiveness, or saving union first occurs. Christ's blood remains the sole meritorious ground, the Spirit gives life, faith is indispensable, and the exact causal and temporal relation among these realities remains not demonstrated. Immersion remains LST's ordinary and strongly preferred mode, while the exclusive invalidity of every non-immersive administration remains not demonstrated.
+
+Matching changes. The bootstrap now identifies Version 1.10 as the current Systematic and surfaces Revision 21 as the newest high-priority state. Creed Version 1.7, Engagement Module Version 1.3, and T.A.I.T. Prompt Version 1.6 require no new version because their present wording is already compatible with this narrower synchronization repair.
+
+
+=================================================
+REPOSITORY MARKDOWN FORMAT MIGRATION - IN-PLACE WORKFLOW MAINTENANCE
+October 6, 2026
+=================================================
+
+Formatting and repository workflow only. No LST doctrine changed and no governing theological version number changed.
+
+The current Living Systematic Theology Version 1.10 and LST Creed Version 1.7 were migrated from .txt files to Markdown (.md) for easier human reading and navigation in the public repository. Their theological wording and authority relationship were not changed by the format migration.
+
+The permanent bootstrap was synchronized to the new filenames. Going forward, human-facing LST documents should use Markdown when Markdown materially improves repository readability, while machine-oriented, archival, or format-specific files may remain in another appropriate format.
+
+Effect: changes presentation and repository convention only. Systematic Version 1.10 remains the governing theology, Creed Version 1.7 remains subordinate to it, and Scripture remains final authority.
+
+
+=================================================
 VERSION 1.9
 October 6, 2026
 Supersedes Version 1.8
