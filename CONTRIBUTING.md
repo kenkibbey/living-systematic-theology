@@ -18,13 +18,15 @@ A GitHub issue, comment, vote, pull request, AI answer, theological tradition, o
 
 Open an Issue and choose **Challenge an LST Position**.
 
-A useful challenge should identify:
+Submit one coherent argument. You do not need to write five separate responses, but a useful challenge should include:
 
 1. the exact LST claim being challenged;
-2. what you believe is wrong, overstated, understated, or insufficiently demonstrated;
-3. the Scripture passages that make your strongest case;
+2. what you believe is wrong, overstated, understated, misunderstood, or insufficiently demonstrated;
+3. the Scripture passages that make your strongest case and your argument from them;
 4. the conclusion you believe Scripture requires instead; and
-5. what biblical evidence would cause you to retain the present LST position.
+5. what biblical evidence or argument would cause you to retain the present LST position.
+
+The purpose of the fifth item is to make the challenge testable rather than merely place two opinions beside one another.
 
 You may appeal to theologians, confessions, church traditions, historical sources, linguistic work, or other research as evidence and context. None of those authorities can replace the biblical case.
 
