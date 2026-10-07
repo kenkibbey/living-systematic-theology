@@ -22,31 +22,30 @@ This maxim is methodological, not a second authority beside Scripture. It forbid
 
 ### CONTENTS
 
-1. Theological Foundation, Authority, and Living Method
-2. Scripture and Its Interpretation
-3. The Triune God
-4. The Eternal Decree and Providence
-5. Creation, Humanity, and the Fall
-6. The Person and Work of Jesus Christ
-7. The Atonement: Accomplishment, Extent, and Proclamation
-8. The Holy Spirit and His Gifts
-9. Salvation by Sovereign Grace
-10. God's Revealed Will and the Universal Gospel Call
-11. Preservation, Perseverance, and Assurance
-12. The Covenants and the Unity of God's Purpose
-13. Promise, Fulfillment, and Historical Actualization
-14. Israel, the Nations, and the Church
-15. The Land Promise and the Inheritance
-16. The Davidic Kingdom and the Return of Christ
-17. Prophecy, the Millennium, and the Gathering of the Saints
-18. The Temple and Sacrifices in Ezekiel 40-48
-19. Law, Gospel, and Christian Obedience
-20. The Church, Its Mission, and Its Ordinances
-21. Angels, Satan, and Spiritual Warfare
-22. Christian Ethics, Prayer, Suffering, and Witness
-23. Death, Judgment, Resurrection, and the New Creation
-Conclusion
-
+1. [THEOLOGICAL FOUNDATION, AUTHORITY, AND LIVING METHOD](#1-theological-foundation-authority-and-living-method)
+2. [SCRIPTURE AND ITS INTERPRETATION](#2-scripture-and-its-interpretation)
+3. [THE TRIUNE GOD](#3-the-triune-god)
+4. [THE ETERNAL DECREE AND PROVIDENCE](#4-the-eternal-decree-and-providence)
+5. [CREATION, HUMANITY, AND THE FALL](#5-creation-humanity-and-the-fall)
+6. [THE PERSON AND WORK OF JESUS CHRIST](#6-the-person-and-work-of-jesus-christ)
+7. [THE ATONEMENT: ACCOMPLISHMENT, EXTENT, AND PROCLAMATION](#7-the-atonement-accomplishment-extent-and-proclamation)
+8. [THE HOLY SPIRIT AND HIS GIFTS](#8-the-holy-spirit-and-his-gifts)
+9. [SALVATION BY SOVEREIGN GRACE](#9-salvation-by-sovereign-grace)
+10. [GOD'S REVEALED WILL AND THE UNIVERSAL GOSPEL CALL](#10-gods-revealed-will-and-the-universal-gospel-call)
+11. [PRESERVATION, PERSEVERANCE, AND ASSURANCE](#11-preservation-perseverance-and-assurance)
+12. [THE COVENANTS AND THE UNITY OF GOD'S PURPOSE](#12-the-covenants-and-the-unity-of-gods-purpose)
+13. [PROMISE, FULFILLMENT, AND HISTORICAL ACTUALIZATION](#13-promise-fulfillment-and-historical-actualization)
+14. [ISRAEL, THE NATIONS, AND THE CHURCH](#14-israel-the-nations-and-the-church)
+15. [THE LAND PROMISE AND THE INHERITANCE](#15-the-land-promise-and-the-inheritance)
+16. [THE DAVIDIC KINGDOM AND THE RETURN OF CHRIST](#16-the-davidic-kingdom-and-the-return-of-christ)
+17. [PROPHECY, THE MILLENNIUM, AND THE GATHERING OF THE SAINTS](#17-prophecy-the-millennium-and-the-gathering-of-the-saints)
+18. [THE TEMPLE AND SACRIFICES IN EZEKIEL 40-48](#18-the-temple-and-sacrifices-in-ezekiel-40-48)
+19. [LAW, GOSPEL, AND CHRISTIAN OBEDIENCE](#19-law-gospel-and-christian-obedience)
+20. [THE CHURCH, ITS MISSION, AND ITS ORDINANCES](#20-the-church-its-mission-and-its-ordinances)
+21. [ANGELS, SATAN, AND SPIRITUAL WARFARE](#21-angels-satan-and-spiritual-warfare)
+22. [CHRISTIAN ETHICS, PRAYER, SUFFERING, AND WITNESS](#22-christian-ethics-prayer-suffering-and-witness)
+23. [DEATH, JUDGMENT, RESURRECTION, AND THE NEW CREATION](#23-death-judgment-resurrection-and-the-new-creation)
+[Conclusion](#conclusion)
 
 ## 1. THEOLOGICAL FOUNDATION, AUTHORITY, AND LIVING METHOD
 
@@ -113,6 +112,8 @@ LST therefore seeks continuity without rigidity. Earlier conclusions are not dis
 The goal of LST is not to become infallible. That status belongs to Scripture, not to a theological project. Its goal is to become increasingly faithful by being increasingly corrigible: to confess plainly where Scripture speaks plainly, to reason carefully where synthesis is necessary, to remain modest where the evidence is incomplete, and to change whenever God's written Word requires change.
 
 
+[↑ Back to Contents](#contents)
+
 ## 2. SCRIPTURE AND ITS INTERPRETATION
 
 The sixty-six books of the Old and New Testaments constitute the inspired, truthful, authoritative, and sufficient written Word of God. Scripture governs doctrine, worship, morality, mission, and the Church's hope (2 Timothy 3:16-17; 2 Peter 1:20-21). The Church receives the canonical Scriptures as its final written authority; its recognition of the canon and its doctrine of canonical closure involve a historical and canonical judgment rather than a claim that a single verse supplies a numbered table of contents. No confession, council, philosophy, claimed revelation, or theological framework may stand beside Scripture as a second final rule.
@@ -130,6 +131,8 @@ The rule for the promise's survival or transformation is therefore bilateral. A 
 A difficult text must be permitted to exert its full force. A reader should ask what a passage states, what it implies, which rival readings remain possible, which broader texts constrain it, and what would require the proposed interpretation to change. This scrutiny applies equally to universal atonement expressions, security promises and apostasy warnings, national restoration and worldwide inheritance, and literal and figurative fulfillment. Scripture's apparent tensions are to be studied rather than concealed under a doctrinal label. The written Word, not theological elegance, has the last word.
 
 
+[↑ Back to Contents](#contents)
+
 ## 3. THE TRIUNE GOD
 
 There is one living and true God, eternal, self-existent, holy, righteous, wise, good, loving, sovereign, and without limit in His knowledge or power (Deuteronomy 6:4; Psalm 90:2; Isaiah 46:9-10). The Father is God, the Son is God, and the Holy Spirit is God; they are personally distinct without being separate gods (John 1:1-18; 20:28; Acts 5:3-4; Matthew 28:19; 2 Corinthians 13:14). LST confesses one divine essence in three coequal, coeternal persons. The Son is eternal God, uncreated, eternally the Son of the Father, and uniquely related to Him. LST defends eternal generation as the strongest synthesis of that relation: the Father eternally begets the Son, not as an act of creation or a beginning in time, but as an eternal relation of origin. John presents the unique Son as eternally toward the Father, says that as the Father has life in Himself so He has granted the Son also to have life in Himself, records the glory and love shared before the foundation of the world, and Hebrews calls the Son the radiance of God's glory and exact imprint of His nature (John 1:1-3, 14, 18; 5:26; 17:5, 24; Hebrews 1:3). These texts strongly ground eternal generation, but no verse states the technical proposition in those exact terms. LST therefore holds eternal generation as a defended synthesis rather than a confession-level formula. Jesus says that the Spirit "proceeds from the Father" (John 15:26). Scripture also calls Him the Spirit of the Son and the Spirit of Christ and teaches that the Son sends Him from the Father and, exalted at God's right hand, receives the promised Spirit from the Father and pours Him out (Galatians 4:6; Romans 8:9; John 15:26; 16:7; Acts 2:33). These texts establish a real relation of the Spirit to both Father and Son. They do not state that the Spirit's eternal origin is "from the Father and the Son" rather than "from the Father through the Son," and they do not by themselves settle whether John 15:26 is speaking directly of eternal origin or of the Spirit's mission. LST therefore no longer confesses the Western Filioque formula as a demonstrated biblical proposition. The exact eternal relation of the Spirit to the Son beyond what Scripture states is not demonstrated.
@@ -140,6 +143,8 @@ Scripture depicts God as testing Abraham, relenting in judgment, responding to p
 
 God's righteous opposition to evil is genuine. His invitation to repent is sincere. He is not a God who delights in wickedness (Psalm 5:4), and He swears that He has no pleasure in the death of the wicked but in the wicked turning and living (Ezekiel 18:23, 32; 33:11). At the same time, no event defeats His decree. The crucifixion demonstrates that God can ordain an event for a holy purpose while condemning the wicked intentions of its human agents (Acts 2:23; 4:27-28). God's eternal purpose and His real historical address must both be confessed. Scripture does not disclose an exhaustive account of how divine eternity, simplicity, and temporal interaction meet within God's life; the absence of that account does not authorize denying either side of the biblical witness.
 
+
+[↑ Back to Contents](#contents)
 
 ## 4. THE ETERNAL DECREE AND PROVIDENCE
 
@@ -156,6 +161,8 @@ God is not the author or moral approver of evil. He ordains the whole history in
 Providence establishes assurance and duty together. The same God who guarantees the end ordains the faithful actions by which His people obey Him. Prayer is meaningful, evangelism is necessary, warnings are real, and injustice must be opposed. The certainty that God will exalt Christ and renew creation strengthens present obedience rather than postponing it.
 
 
+[↑ Back to Contents](#contents)
+
 ## 5. CREATION, HUMANITY, AND THE FALL
 
 The Triune God freely created all things from nothing through His Word and for His glory. Creation is not autonomous or self-originating; it remains dependent on the One through whom and for whom all things exist (Genesis 1-2; John 1:1-3; Colossians 1:15-17; Hebrews 11:3). God pronounced His creation good. The world is the theater of His purpose, not a disposable obstacle from which redemption must escape.
@@ -169,6 +176,8 @@ The duration of the creation days is not demonstrated. The ordinary-day reading 
 Sin affects mind, affections, will, and conscience. Fallen persons retain real faculties and make real decisions, but do not love and embrace God savingly apart from grace (John 5:40; 6:44; Romans 8:7-8; 1 Corinthians 2:14). Human inability is moral and spiritual, not the absence of personhood. It leaves the sinner culpable and establishes the necessity of God's life-giving intervention.
 
 
+[↑ Back to Contents](#contents)
+
 ## 6. THE PERSON AND WORK OF JESUS CHRIST
 
 Jesus Christ is the eternal Son incarnate, one person in two complete natures, divine and human, without confusion, division, or change (John 1:1, 14; Philippians 2:5-11; Colossians 2:9; Hebrews 2:14-18). He truly assumed human flesh, obeyed, suffered, died, and rose bodily. His humanity is not absorbed into deity, and His deity is not diminished by incarnation. The one who acts in the incarnation is the eternal Son.
@@ -181,6 +190,8 @@ Christ's incarnation, perfect obedience, substitutionary death, bodily resurrect
 
 The resurrection vindicates the crucified Messiah, inaugurates the new creation in Him, secures the believer's resurrection, and establishes His present royal session (Romans 1:4; 1 Corinthians 15:12-23; Acts 2:24-36). His reign is already real; its visible consummation is yet to come. All creation, redemption, judgment, and glory converge upon the Son, to whom the Father brings all things under His appointed headship (Ephesians 1:9-10; Colossians 1:15-20).
 
+
+[↑ Back to Contents](#contents)
 
 ## 7. THE ATONEMENT: ACCOMPLISHMENT, EXTENT, AND PROCLAMATION
 
@@ -217,6 +228,8 @@ The synthesis LST defends is therefore this: Christ's offering is infinitely suf
 The preacher does not need the hidden decree in order to preach. Christ is the only Savior. All are commanded to repent and believe. Everyone who comes is received. No sinner is turned away because the sacrifice lacked worth. Refusal is the hearer's own guilt. Sovereign grace is a reason to pray and to go, not a reason to withhold the word (Romans 10:1, 14-17; 2 Timothy 2:10).
 
 
+[↑ Back to Contents](#contents)
+
 ## 8. THE HOLY SPIRIT AND HIS GIFTS
 
 The Holy Spirit is fully God and personally distinct from the Father and the Son. He inspired the Scriptures, convicts the world, glorifies Christ, regenerates sinners, unites believers to Christ, indwells and seals them, sanctifies them, bears witness to adoption, and gives the firstfruits of resurrection life (John 14-16; Acts 5:3-4; Romans 8:9-27; Ephesians 1:13-14). He applies what the Father purposed and the Son accomplished. His work differs across the history of the one purpose; it does not divide that purpose.
@@ -244,6 +257,8 @@ God is still free to heal the sick, deliver the oppressed, guide His people, ans
 The Spirit's indispensable work is not the disputed gifts. It is the giving of life, the pointing to the Son, the making of a holy people, and the sealing of the inheritance until the day of redemption.
 
 
+[↑ Back to Contents](#contents)
+
 ## 9. SALVATION BY SOVEREIGN GRACE
 
 The Father chooses, the Son redeems, and the Spirit applies salvation. Election is God's eternal and gracious choice in Christ, not a reward for foreseen faith, works, ethnicity, or autonomous self-determination (John 6:37-45; Romans 9:10-24; Ephesians 1:3-14). LST understands election as concerning actual persons and forming one corporate people in the Son. Reprobation is not equal ultimacy. Scripture grounds condemnation in real human sin and culpability, and it also says without qualification that God "has mercy on whomever he wills, and he hardens whomever he wills" (Romans 9:18). Paul's potter-and-clay argument in Romans 9:19-23 does not permit divine hardening to be reduced to a merely reactive response to prior rebellion. At the same time, Romans 9 speaks asymmetrically: vessels of mercy are expressly "prepared beforehand for glory," while vessels of wrath are described as prepared for destruction and endured with much patience. Elsewhere Scripture depicts judicial hardening and handing over in relation to human suppression of truth, idolatry, and refusal to love the truth (Romans 1:18-32; 2 Thessalonians 2:10-12). LST therefore uses "passing over" as a systematic description, not as Paul's own term, to preserve this asymmetry: God sovereignly grants mercy and saving life to the elect; He is also sovereign in hardening, while the condemned remain genuinely guilty for their sin. No sinner is wronged by God's refusal to owe undeserved mercy.
@@ -267,6 +282,8 @@ Sanctification includes a decisive setting apart in Christ and progressive renew
 The people whom God justifies He will glorify (Romans 8:28-30). Salvation reaches its goal in bodily resurrection and the new creation, not permanent escape into a disembodied existence. The certainty of the decree does not diminish repentance, endurance, discipline, and service. It establishes the gracious purpose by which they bear fruit.
 
 
+[↑ Back to Contents](#contents)
+
 ## 10. GOD'S REVEALED WILL AND THE UNIVERSAL GOSPEL CALL
 
 God commands sinners to turn and live, approves righteousness and repentance, and swears that He has no pleasure in the death of the wicked, but in the wicked turning from his way and living (Ezekiel 18:23, 32; 33:11). His address is not a performance masking indifference. Ezekiel speaks to actual people within Israel's covenant and exilic circumstances and requires concrete justice: the wicked must turn from wrongdoing, restore what was stolen, and practice what is right (Ezekiel 33:14-16). The prophet's words must retain their immediate covenantal force rather than being made to utter a fully developed account of eternal justification in every instance.
@@ -285,6 +302,8 @@ So LST confesses both and does not claim the fit. The command to repent is bindi
 
 The universal offer of Christ is free and truthful. The preacher may proclaim that Jesus saves every sinner who comes and that whoever believes in Him will not be put to shame (John 6:37; Romans 10:9-13). No person must learn his or her election before obeying the gospel. The value of Christ's offering is sufficient, the invitation is real, the promise is certain, and refusal is the sinner's own culpable act. Sovereign grace is therefore an incentive to prayer and missionary labor, not a reason to withhold the gospel from anyone (Romans 10:1, 14-17; 2 Timothy 2:10).
 
+
+[↑ Back to Contents](#contents)
 
 ## 11. PRESERVATION, PERSEVERANCE, AND ASSURANCE
 
@@ -325,6 +344,8 @@ The promises must be read with the warnings, and the warnings with the promises.
 Assurance begins with Christ's finished work and His promise. John writes to those who believe in the name of the Son of God so that they may know they have eternal life (1 John 5:13). The Spirit bears witness to adoption. Present faith, love, repentance, and obedience confirm life; they do not purchase justification (Romans 8:15-16; 1 John 2-5; 2 Peter 1:5-11). Assurance must never become an endless attempt to establish one's election by self-examination. Faith looks to Christ first. True faith can exist while assurance is weak. Christ remains faithful while His people are told to examine themselves, seek help, and keep coming to Him.
 
 
+[↑ Back to Contents](#contents)
+
 ## 12. THE COVENANTS AND THE UNITY OF GOD'S PURPOSE
 
 The covenants disclose God's one redemptive purpose through real historical relationships and administrations. Their provisions must be read from the texts that establish them; shared participation in the eternal decree does not make their different terms interchangeable. The covenantal history moves toward Christ, in whom the promises of God are confirmed and the nations receive the promised blessing (2 Corinthians 1:18-22; Romans 15:8-12). Neither the identity of a covenant nor the way each promise reaches fulfillment can be deduced from those confirmation statements alone.
@@ -343,6 +364,8 @@ The New Covenant. God promises the house of Israel and the house of Judah a cove
 
 Covenantal faithfulness requires that God fulfill what He actually promised. It does not require the assumption that all covenant signs and administrations are permanent in their original form. Genesis 17 calls circumcision a covenant obligation. Its scope should be stated precisely. It binds every male of Abraham's house, including the servant bought with money (Genesis 17:12-13), and it binds the sojourner who would keep the Passover (Exodus 12:48), after which one law stands for the native and the stranger (Exodus 12:49). It is not laid on the resident foreigner generally. Paul then declares circumcision no saving advantage and opposes imposing it on Gentile believers (Galatians 5:2-6; Colossians 2:11-12), and treats obligation to the whole law as something the circumcised man takes on (Galatians 5:3). Likewise, the law's temporary role is compatible with the inviolability of the earlier Abrahamic promise. LST presently distinguishes an enduring divine promise from the precise duration of any covenantal sign or form only where the relevant texts support that distinction.
 
+
+[↑ Back to Contents](#contents)
 
 ## 13. PROMISE, FULFILLMENT, AND HISTORICAL ACTUALIZATION
 
@@ -369,6 +392,8 @@ Two analytical dimensions can nevertheless help organize the evidence. Forgivene
 Biblical typology is therefore governed by demonstrated correspondence and inspired interpretation. An antitype's arrival neither automatically erases every former referent nor automatically guarantees its separate future reappearance. The sacrificial, circumcision, temple, and land texts have to be examined on their own terms. Fulfillment is not a license for arbitrary spiritualization; historical specificity is not a license to override what Christ and His apostles actually teach.
 
 
+[↑ Back to Contents](#contents)
+
 ## 14. ISRAEL, THE NATIONS, AND THE CHURCH
 
 Israel is the historical people descended from Abraham, Isaac, and Jacob, entrusted with adoption, glory, covenants, law, worship, promises, patriarchs, and the Messiah's fleshly lineage (Romans 9:1-5). Membership in that historical people does not itself establish saving participation in the promise: not all who descend from Israel are Israel in the sense Paul distinguishes in Romans 9:6-8. The remnant is chosen by grace, and Jewish and Gentile sinners alike must be saved through Christ rather than through ancestry or a parallel covenant of justification.
@@ -387,6 +412,8 @@ The Church is the body of Christ, composed of all believing Jews and Gentiles jo
 
 The future of Israel is a doctrine of divine faithfulness and mercy, not an authorization for ethnic pride, unequal standing in the Church, or disregard for the present gospel mission. The Jew-Gentile unity Christ has already created governs the Church's life while the promises still awaiting their consummation are investigated from Scripture.
 
+
+[↑ Back to Contents](#contents)
 
 ## 15. THE LAND PROMISE AND THE INHERITANCE
 
@@ -419,6 +446,8 @@ A competing reading takes the ancient grant as real and fulfilled, hears the pro
 In either case the last inheritance is not escape from the earth. God promised a place, gave a place, and will give the world renewed. All who are in Christ, Jew and Gentile, inherit with the Seed. The Lord remains owner of the land. Any hoped-for public order under the Son must look like His justice, or it is not the promise the Scriptures describe.
 
 
+[↑ Back to Contents](#contents)
+
 ## 16. THE DAVIDIC KINGDOM AND THE RETURN OF CHRIST
 
 God promised David a son, a house, a throne, and a kingdom that would not end by human failure (2 Samuel 7:12-16; Psalm 89). The promise is royal and historical. It is not a metaphor waiting for an apostle to invent a king.
@@ -435,6 +464,8 @@ What Scripture states without hesitation is the public end of the reign He alrea
 
 Christ will return in the same manner in which He was taken up: bodily, publicly, and as the same Jesus (Acts 1:9-11). He will raise the dead, judge, vindicate His people, and bring the kingdom to its appointed goal (John 5:28-29; 1 Corinthians 15; Revelation 19-22). This appearing is the Church's hope. No program of Christian rule, cultural victory, or delayed spiritual kingdom can stand in for it. The King who already sits will appear. Until then the Church preaches, suffers, and waits under His present authority.
 
+
+[↑ Back to Contents](#contents)
 
 ## 17. PROPHECY, THE MILLENNIUM, AND THE GATHERING OF THE SAINTS
 
@@ -485,6 +516,8 @@ The gathering is certain. Its pretribulational timing remains an argued possibil
 Isaiah's peaceable creation and Revelation's new heaven and new earth name the goal. Disputed intervals must serve that goal. They may not replace it. Scripture requires the defeat of evil, the visible victory of Christ, the resurrection of the dead, final judgment, the liberation of creation, and God's dwelling with His people. The center of eschatology is that consummation, not the furniture of a thousand years.
 
 
+[↑ Back to Contents](#contents)
+
 ## 18. THE TEMPLE AND SACRIFICES IN EZEKIEL 40-48
 
 Ezekiel 40-48 shows a measured sanctuary, priestly service, sacrifices, the return of glory, a prince, allotted land, a river of life, and a city called The LORD Is There. The vision is given to exiles who have lost temple and country. Its detail is not ornamental. A reading that keeps only the atmosphere, and a reading that turns the cubits into a future building code, both have to answer the words on the page.
@@ -510,6 +543,8 @@ Two lesser claims remain possible and unproved. Some details may portray standar
 The last word of the vision is the last word of the canon's hope: the Lord is there. That word is kept in Christ, enjoyed now in the Spirit, and completed when God dwells with His redeemed and the Lamb is the temple.
 
 
+[↑ Back to Contents](#contents)
+
 ## 19. LAW, GOSPEL, AND CHRISTIAN OBEDIENCE
 
 God's law reveals His character, exposes sin, teaches wisdom, and directs attention toward Christ. The Mosaic covenant was Israel's particular covenantal rule of life after the exodus; it regulated priesthood, worship, sacrifice, purity, calendar, national justice, and the people's relation to the Lord. It is holy, righteous, and good, but cannot regenerate the sinner or produce by itself the obedience it commands (Romans 7:7-13; Galatians 3:19-25).
@@ -522,6 +557,8 @@ Hebrews 3-4 uses Israel's wilderness failure, Joshua's entry, and Psalm 95 to sh
 
 Grace produces obedience; it does not make obedience optional. Holiness, repentance, love, truthfulness, generosity, mercy, and justice are the Spirit's fruit, not additions to Christ's merit (Galatians 5:13-26; Ephesians 2:8-10; James 2:14-26). God will render to each person according to his works, and each will receive what is due for what he has done (Romans 2:6; 2 Corinthians 5:10). Paul also says that the doers of the law will be justified (Romans 2:13). The identity of those doers is disputed. One reading takes Romans 2:6-16 as the law's true standard within Paul's movement toward the conclusion that no flesh will be justified by works of the law (Romans 3:20). Another sees Spirit-made doers within the scene, with Romans 2:28-29 and 8:4 giving that reading real pressure. Chapter 13's reading of inward circumcision as the Spirit's work requires that pressure to be taken seriously, but it does not by itself settle Romans 2:13. LST therefore will not reduce the final judgment to evidence only. Good works are necessary fruit of saving faith and are genuinely included in the according-to-works judgment. Persevering faith, repentance, holiness, and Spirit-enabled obedience are genuinely necessary in the ordained path to final salvation, but they are never the meritorious ground by which the ungodly earns acceptance before God (Romans 3:21-28; 4:4-5; 8:13; Ephesians 2:8-10; Hebrews 12:14). LST holds as a defended synthesis that the future verdict is consistent with, confirms, and does not replace the justification already received through faith in Christ (Romans 5:1, 9; 8:1, 33-34; John 5:24). Romans 2:13 remains an open exegetical pressure on exactly how that future justification language relates to the present verdict. Antinomianism severs grace from its appointed fruit; legalism makes obedience the meritorious ground of acceptance. Both contradict the apostolic relation between union with Christ and the life that follows from it.
 
+
+[↑ Back to Contents](#contents)
 
 ## 20. THE CHURCH, ITS MISSION, AND ITS ORDINANCES
 
@@ -556,6 +593,8 @@ The local church is an assembly under Christ and His Word. The New Testament des
 Discipline aims at truth, holiness, restoration where possible, and the protection of the body (Matthew 18:15-20; 1 Corinthians 5; Galatians 6:1-2). Credible confession and observable fruit are sought. No congregation reads the eternal decree. Every member remains under the written Word. No office authorizes private revelation, abuse, or the concealment of sin.
 
 
+[↑ Back to Contents](#contents)
+
 ## 21. ANGELS, SATAN, AND SPIRITUAL WARFARE
 
 Angels are created spiritual servants who worship God and carry out His commands (Psalm 103:20-21; Hebrews 1:14). They are neither independent powers nor objects of worship. Satan and demonic powers are real personal enemies, active in deception, accusation, temptation, and opposition to the gospel; nevertheless, they remain creatures subject to the authority and limitations established by God (Job 1-2; Luke 10:17-20; Ephesians 6:10-18).
@@ -564,6 +603,8 @@ Christ has triumphed over the powers through His cross and exaltation (Colossian
 
 God remains free to deliver the afflicted and answer prayer. Genuine spiritual danger should not be dismissed, but unexplained illness or suffering must not be attributed to demons without evidence or used to withhold ordinary care. Satan cannot frustrate the divine decree, and his defeat is final in the judgment portrayed by Revelation 20. All spiritual authority belongs to the risen Lord.
 
+
+[↑ Back to Contents](#contents)
 
 ## 22. CHRISTIAN ETHICS, PRAYER, SUFFERING, AND WITNESS
 
@@ -581,6 +622,8 @@ The land and the labor of God's people must likewise be considered morally. Levi
 
 In apologetics, LST affirms that human reasoning depends upon the Creator and that general revelation leaves humanity accountable (Romans 1:18-25). Scripture does not presently demonstrate one exclusive apologetic school or philosophical technique. Christian witness must offer reasons with gentleness and respect, deal truthfully with evidence, expose rebellious claims that exalt themselves against the knowledge of God, and refuse to substitute a favored intellectual system for the apostolic gospel (Acts 17:22-31; 1 Peter 3:15; 2 Corinthians 10:3-5). Mission, hospitality, labor, public truthfulness, and daily reconciliation are practical expressions of the kingdom already inaugurated by Christ.
 
+
+[↑ Back to Contents](#contents)
 
 ## 23. DEATH, JUDGMENT, RESURRECTION, AND THE NEW CREATION
 
@@ -625,6 +668,8 @@ God does not discard the material world for an endless disembodied rest. He libe
 Abraham's inheritance reaches that world. Jewish and Gentile heirs receive it together in the Seed. Chapter 17 retains a millennial interval before this state as an argued possibility alongside recapitulation, with the limits of both readings stated there. Chapter 15 holds a narrower post-coming territorial realization involving restored Israel and Jerusalem as an argued possibility, while a mapped Abrahamic-boundary polity remains not demonstrated. Neither question touches the consummation, and neither is the measure of God's faithfulness. When the Son has put every enemy under His feet and delivered the kingdom to the Father, God is all in all.
 
 
+[↑ Back to Contents](#contents)
+
 ## CONCLUSION
 
 Living Systematic Theology exists under the authority of the living God and His written Word. Its purpose is not to construct a theological scheme that becomes too important to question, but to gather the teaching of the whole canon in a form that can be continually examined by that canon. Scripture is not revised when LST changes. LST changes because Scripture has the right to correct it.
@@ -654,3 +699,5 @@ The Church lives by faith in the finished work of Christ, proclaims Him to every
 LST is therefore not a finished theology claiming to have mastered Scripture. It is a systematic theology deliberately constructed so that Scripture can continually master it.
 
 Soli Deo Gloria.
+
+[↑ Back to Contents](#contents)
