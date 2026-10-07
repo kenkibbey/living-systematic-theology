@@ -47,7 +47,7 @@ God does not acquire knowledge, revise His purpose, or discover outcomes. His ch
 
 ### 2. Scripture
 
-We affirm the sixty-six books of the Old and New Testaments as the inspired, truthful, authoritative, and sufficient Word of God. The Church receives them as its final written rule. Canonical closure is a historical and canonical judgment, not a numbered table of contents supplied by one verse.
+We confess that Scripture is inspired, truthful, authoritative, and sufficient and is the Church's final written rule. LST receives the sixty-six books of the Old and New Testaments as the complete canonical Scriptures. Identifying those books and judging the collection closed are foundational historical and canonical judgments by which LST identifies its written evidence base, not direct confessions supplied by a numbered table of contents in one verse and not ordinary doctrinal syntheses inferred from the canon itself.
 
 Scripture is interpreted grammatically, historically, and literarily. Later revelation may explain, extend, transform, or complete what was earlier spoken. It does not make the first word false. Christ and the apostles are authoritative interpreters of the Old Testament. Their argument governs the conclusion. Absence of a cancellation formula proves neither continuation nor cancellation of a form.
 
