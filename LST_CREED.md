@@ -65,7 +65,7 @@ God created all things from nothing through His Word and for His glory, and pron
 
 ### 5. Jesus Christ
 
-We confess Jesus Christ, the eternal Son incarnate, one person in two complete natures, without confusion, division, or change. He obeyed, suffered, died, and rose bodily. He is the last Adam, Abraham's Seed, David's Son and Lord, the suffering Servant, the true temple, the great High Priest, the once-for-all sacrifice, the risen King, and the only Mediator.
+We confess Jesus Christ, the eternal Son incarnate, one person in two complete natures, without confusion, division, or change. He was conceived by the Holy Spirit and born of the virgin Mary (Matthew 1:18-25; Luke 1:26-38). He obeyed, suffered, died, and rose bodily. He is the last Adam, Abraham's Seed, David's Son and Lord, the suffering Servant, the true temple, the great High Priest, the once-for-all sacrifice, the risen King, and the only Mediator.
 
 He is Prophet, Priest, and King. He is already seated at the Father's right hand. His reign is real now. Its visible consummation is not yet. The Church does not await His coronation. It awaits His appearing.
 
