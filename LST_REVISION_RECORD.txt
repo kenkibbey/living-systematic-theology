@@ -26,6 +26,64 @@ Effect: future LST revisions normally require changing the semantic version in o
 
 
 =================================================
+VERSION 2.1
+October 7, 2026
+Supersedes Version 2.0
+=================================================
+
+REVISION 24
+Chapters 5, 7, 9, 11, 17, 23, the Conclusion, and Creed
+Public-challenge batch: GitHub Issues #11-#14
+Effect: two confidence reductions, one explicit synthesis-grade correction, and expansion/qualification of the atonement and perseverance files; no new major-version doctrinal overturn
+
+All four issues were subjected to the Revision Resistance Test before revision. The strongest biblical case for retaining the Version 2.0 formulation was weighed before the challengers' proposed changes were accepted, modified, or rejected.
+
+ISSUE #11 - SUSTAINED - REVELATION 20:4-6 AND THE MILLENNIAL INTERVAL
+
+What stood in Version 2.0. LST held a future millennial interval before the final judgment as a defended synthesis and called the grammar of Revelation 20:4-6 its strongest positive ground. The same verb for coming to life governs the faithful and the rest of the dead, and LST ranked that local feature in favor of the consecutive reading.
+
+Case against revision. The consecutive reading retains substantial local force. The same verb in the same form governs both groups; "the rest of the dead" naturally places both groups among the dead; "until" reads naturally as delayed counterpart; John calls the first event a resurrection; and Revelation 2:8 and 13:14 use the same verb for return to life after death. The normal New Testament use of resurrection language is bodily. These facts prevent treating recapitulation as an easy or demonstrated solution.
+
+Why the former grade could not stand. The earlier ranking had not weighed several local Johannine features. John pairs a first resurrection with a second death, and the second death is the lake of fire rather than ordinary physical death. The subjects of 20:4 are "souls," echoing 6:9. Revelation 14:13 blesses the dead who die in the Lord, while 20:6 blesses those who share the first resurrection. John 5:24-29 and 11:24-25 show life language standing beside future bodily resurrection, and Revelation 21:1-4 uses "first" for the passing order. None proves recapitulation, but together they make the local feature genuinely contested. Since the structural, battle/Gog, and single-end evidence already supplied substantial recapitulation pressure, LST no longer has adequate grounds to call the interval a defended synthesis.
+
+What Version 2.1 says instead. A future millennial interval and recapitulation are both argued possibilities. The shared certainties remain: Christ reigns, He will return, the dead will rise, the last revolt fails, judgment comes, and the new creation is the goal. Revelation 20 does not independently provide a territorial map, restored cultus, festival calendar, or civil order.
+
+ISSUE #12 - SUSTAINED - THE DURATION OF THE CREATION DAYS
+
+What stood in Version 2.0. Chapter 5 "presently favored" the ordinary-day understanding from numbered days, evening and morning, and Exodus 20:11 while admitting that the seventh day and alternate temporal accounts still deserved direct textual consideration. "Presently favors" was not one of LST's confidence categories.
+
+Case against revision. The ordinary-day reading has real positive evidence: numbered days, the evening-and-morning refrain for days one through six, the explicit Sabbath pattern in Exodus 20:11, and Mark 10:6. These prevent dismissing the reading as merely traditional.
+
+Why the lean could not stand. Genesis 2:2-3 gives the seventh day no evening-and-morning closure. Hebrews 4:3-10 uses God's seventh-day rest as a reality still open to be entered "today." Exodus 31:17 says God rested and was refreshed, language that cannot imply divine weariness and therefore shows analogy in the creation-week/Sabbath correspondence. Genesis 2:4 also demonstrates flexibility in day language at the seam of the accounts. The file therefore contains substantial evidence in both directions, and LST had graded a lean before working the counter-file.
+
+What Version 2.1 says instead. The duration of days one through six is not demonstrated. Ordinary-day and analogical-day readings remain argued possibilities. The central doctrines of creation, historical Adam and Eve, the fall, image-bearing humanity, and redemption in Christ do not depend on settling the duration.
+
+ISSUE #13 - SUSTAINED - THE IMPUTATION FORMULA
+
+What stood in Version 2.0. Chapter 9 said without qualification, "Christ's righteousness is reckoned to the believer."
+
+Case against revision. Romans 5:18-19 strongly grounds the believer's righteous standing in Christ's obedience; 2 Corinthians 5:21, Philippians 3:9, and 1 Corinthians 1:30 add converging support. The doctrine therefore has a substantial biblical case and need not be abandoned.
+
+Why the wording required correction. Paul's explicit reckoning sentences in Romans 4 say that faith is counted as righteousness and that God counts righteousness apart from works. They do not contain the exact formula that Christ's own righteousness is what is reckoned. Moving from Christ's obedience as the ground and believers being constituted righteous to the technical imputation formula is a theological synthesis.
+
+What Version 2.1 says instead. LST retains the imputation conclusion as a defended synthesis and marks it as such. Justification remains forensic, grounded solely in Christ's obedience and blood, received through faith apart from works, and no human obedience contributes to its meritorious ground.
+
+ISSUE #14 - PARTIALLY SUSTAINED - "THE BROTHER FOR WHOM CHRIST DIED"
+
+What stood in Version 2.0. Chapters 7 and 11 defended particular saving intention and final perseverance but did not work Romans 14:15 or 1 Corinthians 8:11, where Paul warns of the destruction of a brother "for whom Christ died."
+
+Case against revision. The broader preservation file remains substantial: John 6:37-40; 10:27-29; Romans 8:28-39; 1 Peter 1:3-5; 1 Corinthians 1:8-9; Philippians 1:6; 1 Thessalonians 5:23-24; and Jude 24. Romans 14 itself says the servant will be upheld because the Lord is able to make him stand (14:4). The atonement file also continues to establish effective particular saving purpose from John 10, Ephesians 5, Acts 20:28, Matthew 1:21, and Romans 8:32-34. The two new texts do not state that regeneration or justification is reversed, nor do they state that Christ bears every individual's sins with identical saving intention.
+
+What the challenge established. Paul does use "Christ died for" language of a brother whose destruction is seriously warned against. The destroy language cannot be weakened by fiat, especially in the 1 Corinthians 8-10 context of idolatry, wilderness destruction, and "take heed lest he fall." Therefore the bare formula "Christ died for this person" cannot itself function as proof that the named person is infallibly secured. The texts belong in both the atonement and perseverance files.
+
+What Version 2.1 says instead. Particular saving intention and final perseverance remain defended syntheses, but Chapter 7 now distinguishes the effective saving-intention synthesis from the bare occurrence of Paul's "died for" formula. Chapter 11 adds Romans 14:15 and 1 Corinthians 8:11 with their contexts and keeps Romans 14:4 as paired preservation pressure. The warning is real; LST does not define the endangered brother as unregenerate in advance. The texts remain pressure rather than being converted into a doctrine of lost regeneration or universal saving intention.
+
+WHY VERSION 2.1 IS A MINOR RATHER THAN A NEW MAJOR RELEASE
+
+Revision 24 materially changes confidence and wording but does not reverse another confession-level or defended-synthesis doctrine into its contradiction. The millennial interval is reduced from defended synthesis to argued possibility because the evidence no longer warrants the former grade; under the standing versioning architecture, confidence adjustment and changed unresolved status are minor-line revisions unless they amount to a doctrinal overturn. The creation-day change removes an ungraded lean rather than reversing a confession. The imputation doctrine is retained as synthesis. Particular saving intention and perseverance are retained with stronger counter-text treatment. Version 2.1 therefore follows Version 2.0 under the project's stated semantic-version rule.
+
+
+=================================================
 VERSION 2.0
 October 7, 2026
 Supersedes Version 1.11
