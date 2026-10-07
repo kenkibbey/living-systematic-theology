@@ -42,10 +42,24 @@ The normal process is:
 4. **Build the strongest case for revision.** The challenge receives the same standard of evidence as the existing position.
 5. **Compare the cases under the same rules.** Scripture must decide the question. Tradition, usefulness, popularity, and the fact that a doctrine is already written into LST cannot preserve an unsupported claim.
 6. **Reach a provisional verdict.** A challenge may be rejected, may expose a weak argument that needs strengthening, may require a confidence change or qualification, or may require doctrinal revision.
-7. **Approve and version any real change.** No public challenge directly edits the governing theology. An approved change is first incorporated into the private working repository under LST's versioning rules, with superseded versions preserved and the Revision Record updated when appropriate.
+7. **Approve and version any real change.** No public challenge directly edits the governing theology. An approved change is first incorporated into the private working repository under LST's versioning rules, with superseded snapshots preserved and the Revision Record updated when appropriate.
 8. **Synchronize the approved public version to GitHub.** Only after the governing documents have been updated is the corresponding public copy changed here.
 
 When possible, the GitHub issue that prompted a change should remain part of the public record so readers can see what was challenged, how it was examined, and why LST changed or did not change.
+
+## Versioning Policy
+
+Only the **Living Systematic Theology** carries the project's active semantic version number. Its current public filename is stable: `LIVING_SYSTEMATIC_THEOLOGY.md`. The current Creed also uses the stable filename `LST_CREED.md`. Supporting governing documents do not receive independent semantic version numbers.
+
+A **minor version increment** records a material refinement that does not reverse an affirmatively held doctrine. Examples include clarification, qualification, evidence reweighting, confidence adjustment, adding or removing proof texts, changing an unresolved-question status, or strengthening an argument while retaining the doctrine.
+
+A **major version increment** is reserved for a genuine doctrinal overturn: Scripture requires LST to reverse or abandon in substance an affirmatively held doctrine. A positive doctrine held as confession or defended synthesis counts here. If such a doctrine is contradicted, abandoned, or reduced to `not demonstrated` because its positive claim cannot be sustained, the next release advances to the next major number and resets the minor number to zero.
+
+Accordingly, after Version 1.11, a routine non-overturning revision would become **1.12**. The first genuine doctrinal overturn would become **2.0**. Later refinements would proceed **2.1, 2.2**, and so on until another genuine doctrinal overturn requires **3.0**.
+
+The source of the correction does not control the number. A GitHub challenge, internal audit, or other serious examination is treated the same way. The significance of the doctrinal change controls the version.
+
+Stable current filenames do not erase history. Before a stable governing file is materially changed, the superseded snapshot is preserved in the private **Old Systematics** archive under a historical filename tied to the relevant Systematic version, revision, or date. Git history and the Revision Record preserve the public development.
 
 ## Challenge Status and Public Verdict
 
