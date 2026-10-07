@@ -26,6 +26,81 @@ Effect: future LST revisions normally require changing the semantic version in o
 
 
 =================================================
+VERSION 2.0
+October 7, 2026
+Supersedes Version 1.11
+=================================================
+
+The first major-version doctrinal overturn under LST's semantic versioning architecture. This release incorporates the Revision Resistance examination of GitHub Issues #6 through #10 as one public-challenge batch. Issue #7 was SUSTAINED and supplied the major-version trigger because it overturned an affirmatively held confession-level proposition. Issues #6 and #8 were PARTIALLY SUSTAINED. Issues #9 and #10 were NOT SUSTAINED, but each exposed places where the surviving argument needed to be strengthened.
+
+REVISION 23
+Chapters 3, 8, 14, 17, 23, the Conclusion, Creed, T.A.I.T. prompt, and bootstrap
+Public-challenge batch: Trinitarian procession, disputed gifts, final punishment, gathering timing, and future mercy toward Israel
+Effect: one confession-level doctrinal reversal, two material confidence/argument corrections, and two strengthened surviving positions
+
+ISSUE #7 - SUSTAINED - THE FILIOQUE AND THE SPIRIT'S PROCESSION
+
+What stood in Version 1.11. Chapter 3 and the Creed confessed that the Spirit proceeds eternally "from the Father and the Son." The Systematic acknowledged that the technical form was not a verbatim scriptural formula but still treated the content as confessional doctrine.
+
+Case against revision. The strongest biblical defense comes from the Spirit's deep relation to the Son. Scripture calls Him the Spirit of the Son and the Spirit of Christ (Galatians 4:6; Romans 8:9), says the Son sends Him from the Father (John 15:26; 16:7), records the exalted Son receiving the promised Spirit from the Father and pouring Him out (Acts 2:33), and says the Spirit takes what belongs to the Son and declares it (John 16:14-15). These texts rule out treating the Spirit's relation to the Son as merely external or accidental and provide substantial grounds for a Western theological inference.
+
+Why the confession could not stand. John 15:26 is the only New Testament sentence that directly uses procession language of the Spirit, and it names the Father as the one from whom the Spirit proceeds while distinguishing the Son's role as sending. The other texts establish mission, gift, possession, and relation, but none states that the Son is, with the Father, the eternal source of the Spirit's being. The same data can be organized under "from the Father through the Son" as well as "from the Father and the Son." Scripture also does not directly state the premise that temporal missions reproduce eternal relations of origin in the exact order required by the Filioque. The strongest case for retaining the confession therefore failed at the level of the exact proposition being confessed.
+
+What Version 2.0 says instead. LST continues to confess one God in three coequal, coeternal persons, the full deity and personal distinction of the Spirit, and the Son's eternal generation. It states John 15:26 as written: the Spirit proceeds from the Father. It also confesses the Spirit's real relation to the Son and the Son's sending and pouring out of the Spirit. LST no longer confesses "from the Father and the Son" as a demonstrated biblical formula. Whether John 15:26 directly describes eternal origin rather than mission, and whether the Spirit's eternal relation to the Son should be expressed as "and the Son," "through the Son," or in another formulation, remains not demonstrated.
+
+Why this triggers Version 2.0. The former Filioque sentence was not merely an argued possibility or a loose proof text. It was an affirmatively held confession-level proposition. Revision Resistance required LST to abandon that exact confession because Scripture did not demonstrate it. Under the major-version rule, surrendering an affirmatively held doctrine in substance advances the Systematic from the 1.x line to Version 2.0.
+
+ISSUE #6 - PARTIALLY SUSTAINED - ETERNAL CONSCIOUS PUNISHMENT
+
+What stood in Version 1.11. Eternal conscious punishment was a defended synthesis said to rest on Revelation 14:11's no-rest clause, while the smoke clause was already acknowledged as insufficient by itself because of Isaiah 34.
+
+Case against revision. Matthew 25:41 places condemned humans in the eternal fire prepared for the devil and his angels, and 25:46 sets eternal punishment beside eternal life. Revelation 14:9-11 directly depicts human conscious torment and no rest. Revelation 20:10 expressly assigns torment day and night forever and ever to the devil, beast, and false prophet, while 20:14-15 places the condemned in the same final lake of fire. Taken together, these texts provide a substantial canonical case for everlasting conscious punishment even though no single human-directed clause states the entire synthesis.
+
+What the challenge established. The grammar of Revelation 14:11 does not attach "forever and ever" directly to the no-rest clause. The eternity phrase modifies the smoke going up, while the persons' unrest is described as day and night. Revelation 19:3 uses the same everlasting-smoke formula for judged Babylon after Revelation 18 depicts her destruction and disappearance. Therefore Revelation 14:11 alone cannot carry the everlasting duration of human conscious experience.
+
+What Version 2.0 says instead. Eternal conscious punishment remains a defended canonical synthesis, but its basis is explicitly cumulative: Matthew 25:41, 46; Revelation 14:9-11; Revelation 20:10-15; and the wider judgment file. Revelation 14 establishes real human conscious torment without being made to prove the duration by itself. Revelation 19:3, destroy/perish/die, the second death, eternal destruction, and Isaiah 66's corpse imagery remain visible counter-pressure. The doctrine survived; its former load-bearing argument did not.
+
+ISSUE #8 - PARTIALLY SUSTAINED - TONGUES, PROPHECY, AND HEALING
+
+What stood in Version 1.11. LST held the cessation of foundational apostleship as a defended inference and called the cessation of tongues, prophecy, and healing an "expectation" that the regulating texts had not established.
+
+Case against revision. Ephesians 2:20 and 3:5 give apostles and prophets a foundational role. Hebrews 2:3-4 and 2 Corinthians 12:12 connect signs and wonders with apostolic attestation. Those texts establish a unique apostolic foundation and explain why some miraculous phenomena cluster around that founding period. They do not, however, state that every disputed gift ends when the foundation is laid.
+
+What the challenge established. "Expectation" is not one of LST's confidence grades, and the Systematic itself admitted that the regulating texts did not establish cessation. First Corinthians 14:39 and 1 Thessalonians 5:19-21 remain standing commands. First Corinthians 13:8-12 places prophecy, tongues, and partial knowledge in a now/then contrast that strongly resists canon-closure cessation, while Acts 2:17-18, 39 and 1 Corinthians 1:7 add continuationist pressure.
+
+What the challenge did not establish. First Corinthians 13 does not demonstrate uninterrupted availability of every disputed gift in every congregation or period, and healing is not named in that timetable. The positive continuationist file is stronger than Version 1.11 acknowledged, but it does not settle every distribution and duration question.
+
+What Version 2.0 says instead. Foundational apostleship remains ended and the canon remains closed. The pre-Parousia cessation of tongues, prophecy, and healing is now classified NOT DEMONSTRATED. LST likewise does not confess guaranteed continuous availability of every disputed gift in every place and era. Testing, order, love, and the supremacy of Scripture remain binding.
+
+ISSUE #9 - NOT SUSTAINED - PRETRIBULATIONAL TIMING
+
+Challenge. The issue argued that pretribulational timing should be lowered from argued possibility to not demonstrated because imminence and deliverance from wrath do not positively place the gathering before tribulation and because 2 Thessalonians 1:6-10; 2:1-3; Matthew 24:29-44; and 1 Corinthians 15:52 press the other way.
+
+Case against revision and verdict. Revelation 3:10 had not been given its proper weight in the existing LST presentation. Christ promises to keep the faithful church "from the hour of trial" coming on the whole world. Because the object is the hour itself, the wording can naturally support exemption from the period. John 17:15 prevents defining the keep-from construction as automatic physical extraction, so the text is not decisive. First Thessalonians 1:10 and 5:9 and the watchfulness material add real but non-conclusive support. That is enough for LST's category ARGUED POSSIBILITY, which requires biblical support without necessity. The challenge therefore did not justify lowering the grade.
+
+Required strengthening. Version 2.0 now works Revelation 3:10 alongside John 17:15 and gives the counter-file more explicit force: believers are appointed to affliction but not wrath; relief is connected with Christ's revelation in judgment; 2 Thessalonians 2 joins the coming and gathering with prior events; Matthew 24 places a gathering after tribulation; and 1 Corinthians 15 speaks of the last trumpet. The possibility survives only while both files remain visible.
+
+ISSUE #10 - NOT SUSTAINED - FUTURE CORPORATE MERCY TOWARD ETHNIC ISRAEL
+
+Challenge. The issue argued that the Creed's confession of future corporate mercy toward ethnic Israel spoke above Chapter 14, which named rival readings of Romans 11, and asked that the future-corporate form be lowered to defended synthesis.
+
+Case against revision and verdict. Romans 11 sustains an Israel-Gentile contrast through Israel's trespass and fullness, rejection and acceptance, natural branches and their possible regrafting, Gentile warning, partial hardening "until" the fullness of the Gentiles, "all Israel will be saved," and the irrevocable gifts and calling. The immediately preceding Israel in 11:25 is ethnic Israel, so a corporate-ethnic reading of 11:26 is not an imported system category. Romans 9:6 shows that Paul can distinguish senses of Israel but does not require a referent change at 11:26. Romans 11:31 and its textual question about the second "now" belong in the file, but present mercy to a remnant and Paul's effort to save some Jews do not exhaust the chapter's future fullness, acceptance, and bounded hardening.
+
+Required strengthening. Version 2.0 keeps future corporate saving mercy toward ethnic Israel at confession confidence while making the argument explicit and preserving rival readings as genuine counter-pressure. The confession does not establish a percentage, political constitution, land map, temple program, or second way of salvation.
+
+MATCHING CHANGES
+
+The current Creed has been synchronized to the Version 2.0 doctrinal changes without receiving an independent version number. The T.A.I.T. prompt now prevents restoration of the Filioque at confession confidence, the undefined cessation "expectation," the former Revelation-14-alone punishment argument, or one-sided handling of the pretribulation and Romans 11 files. The bootstrap surfaces Revision 23 as the highest-priority state. The Engagement Module requires no doctrinal change; its existing Revision Resistance controls produced this result. Stable current filenames remain unchanged. Superseded pre-2.0 snapshots were preserved in Old Systematics before the current files were edited.
+
+PUBLIC EXAMINATION OUTCOMES
+
+GitHub Issue #6: PARTIALLY SUSTAINED.
+GitHub Issue #7: SUSTAINED.
+GitHub Issue #8: PARTIALLY SUSTAINED.
+GitHub Issue #9: NOT SUSTAINED.
+GitHub Issue #10: NOT SUSTAINED.
+
+=================================================
 VERSION 1.11
 October 7, 2026
 Supersedes Version 1.10
