@@ -61,10 +61,9 @@ Scripture does not change when LST changes. This file records corrections to a f
 
 Each entry names the chapter, the earlier formulation, the reason the change was required, and whether the revision strengthens, qualifies, lowers confidence in, or abandons what stood before. Where a change came out of a public examination, that is said plainly rather than presented as internal refinement.
 
-=================================================
-VERSIONING AND STABLE-FILENAME ARCHITECTURE
+## VERSIONING AND STABLE-FILENAME ARCHITECTURE
+
 October 7, 2026
-=================================================
 
 Repository and workflow architecture only. No LST doctrine changed and the current Systematic remains Version 1.11.
 
@@ -243,10 +242,9 @@ Matching changes. Creed Version 1.9 summarizes Systematic Version 1.11 and carri
 Public examination outcome. GitHub Issue #4 is classified PARTIALLY SUSTAINED. The challenge succeeded against the breadth of Version 1.10's timing uncertainty and in requiring Romans 4:9-12, Acts 13:38-39, Titus 3:5-7, and 1 Corinthians 6:11 to enter the active file. It did not establish the proposed one-for-one circumcision-baptism analogy or reduce baptism to a seal of a verdict already received.
 
 
-=================================================
-ENGAGEMENT MODULE WRITING-BLOCK COMPLIANCE CLARIFICATION
+## ENGAGEMENT MODULE WRITING-BLOCK COMPLIANCE CLARIFICATION
+
 October 7, 2026
-=================================================
 
 Public-output and workflow clarification only. No LST doctrine changed, and no governing theological or engagement version number changed.
 
@@ -259,10 +257,9 @@ T.A.I.T. Prompt Version 1.7 was synchronized in place with a matching PUBLIC COP
 Effect: strengthens copy-ready public-output reliability and prevents internal notes or formatting substitutes from leaking into text intended for publication.
 
 
-=================================================
-GOVERNING DOCUMENT FORMAT AND REFERENCE SYNCHRONIZATION
+## GOVERNING DOCUMENT FORMAT AND REFERENCE SYNCHRONIZATION
+
 October 6, 2026
-=================================================
 
 Repository and workflow maintenance only. No LST doctrine changed and no new Systematic revision number was assigned.
 
@@ -384,10 +381,9 @@ Matching changes. Creed Version 1.5 places the maxim immediately after its autho
 What was not changed. Scripture alone remains final authority. The current Systematic remains subordinate to Scripture. The Creed remains subordinate to the Systematic. The confidence categories remain confession, defended synthesis, argued possibility, and not demonstrated. No doctrine was moved merely to create a stronger voice, and no unresolved file was closed by rhetoric. The maxim governs how strongly LST speaks only after the evidence has been established.
 
 
-=================================================
-SUPPORTING DOCUMENTS SYNCHRONIZATION - IN-PLACE WORKFLOW MAINTENANCE
+## SUPPORTING DOCUMENTS SYNCHRONIZATION - IN-PLACE WORKFLOW MAINTENANCE
+
 October 6, 2026
-=================================================
 
 Workflow and repository maintenance only. No LST doctrine changed and no governing theological version number changed.
 
@@ -402,10 +398,9 @@ The_Beginnings_of_Living_Systematic_Theology.docx was left unchanged because it 
 Effect: aligns active supporting material and test tools with the Version 1.6/bootstrap architecture while preserving historical evidence rather than rewriting it as though it had always reflected the current system.
 
 
-=================================================
-BOOTSTRAP ENTRY-POINT ARCHITECTURE - IN-PLACE WORKFLOW CLARIFICATION
+## BOOTSTRAP ENTRY-POINT ARCHITECTURE - IN-PLACE WORKFLOW CLARIFICATION
+
 October 6, 2026
-=================================================
 
 Workflow clarification only. No LST doctrine changed and no governing theological version number changed.
 
@@ -418,10 +413,9 @@ The bootstrap is self-correcting. If it names an older version than the folder a
 Effect: creates one stable instruction that can be given to any new or existing LST thread to refresh the complete current operating context without requiring the user to repeat version numbers or the folder architecture.
 
 
-=================================================
-CONTEXT RESET AND REINDEX - IN-PLACE SYNCHRONIZATION UPDATE
+## CONTEXT RESET AND REINDEX - IN-PLACE SYNCHRONIZATION UPDATE
+
 October 6, 2026
-=================================================
 
 Workflow and synchronization clarification only. No LST doctrine changed and no governing theological version number changed.
 
@@ -434,10 +428,9 @@ The reset file also summarizes the governing effects of Revisions 13-17, preserv
 Effect: creates a self-correcting synchronization entry point for LST threads without adding doctrinal authority or changing LST's theology.
 
 
-=================================================
-ENGAGEMENT MODULE V1.2 IN-PLACE CLARIFICATION
+## ENGAGEMENT MODULE V1.2 IN-PLACE CLARIFICATION
+
 October 5, 2026
-=================================================
 
 Methodological clarification only. No LST doctrine changed and the Engagement Module version number remains V1.2 at the user's direction.
 
@@ -450,10 +443,9 @@ A second in-place clarification tightened the Universal Output Rules and Final C
 Effect: strengthens engagement method and output reliability without changing LST doctrine.
 
 
-=================================================
 ## REVISION RESISTANCE TEST — IN-PLACE METHODOLOGICAL CLARIFICATION
+
 October 5, 2026
-=================================================
 
 Methodological clarification only. No LST doctrine changed. ENGAGEMENT_MODULE_LST_V1_2.txt and TAIT_PROMPT_LST_V1_2.txt retain their existing version numbers.
 
