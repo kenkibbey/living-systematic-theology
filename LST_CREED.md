@@ -39,7 +39,7 @@ What remains unresolved.
 
 ### 1. God
 
-We believe in one living and true God, eternal, self-existent, holy, righteous, wise, good, loving, and sovereign, without limit in knowledge or power.
+We believe in one living and true God, eternal, self-existent, holy, righteous, wise, good, loving, and sovereign, without limit in knowledge or power. LST defends divine simplicity—the non-composition of God's being and the non-separability of His attributes—as a systematic synthesis rather than a direct biblical formula.
 
 He is Father, Son, and Holy Spirit: one essence in three coequal, coeternal persons. The Son is eternal God, uncreated, eternally the Son of the Father, and uniquely related to Him. LST defends eternal generation as the strongest synthesis of that relation: the Father eternally begets the Son, not as creation or a beginning in time, but as an eternal relation of origin (John 1:1-3, 14, 18; 5:26; 17:5, 24; Hebrews 1:3). Scripture strongly grounds the synthesis but does not state the technical proposition in those exact terms, so eternal generation is defended rather than confessed at the same level as the Son's deity and eternal Sonship. Jesus says that the Spirit proceeds from the Father. Scripture also calls Him the Spirit of the Son and of Christ and teaches that the Son sends and pours Him out from the Father. LST no longer confesses "from the Father and the Son" as a demonstrated biblical formula. The exact eternal relation of the Spirit to the Son beyond what Scripture states, including whether it should be expressed as "and the Son" or "through the Son," is not demonstrated.
 
