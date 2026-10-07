@@ -116,12 +116,15 @@ A challenger should not be asked to submit a serious biblical objection into a b
 
 If the challenge produces an approved LST revision:
 
-1. update and version the governing documents in the private Google Drive working repository;
-2. preserve superseded governing versions in Old Systematics;
-3. update the Revision Record when appropriate;
-4. synchronize the approved current public documents to GitHub;
-5. post the resulting version or revision reference on the issue;
-6. close the issue after the public record is complete.
+1. update the current Living Systematic Theology and assign the appropriate Systematic version;
+2. synchronize any affected stable supporting governing documents without giving them independent semantic version numbers;
+3. preserve superseded snapshots in Old Systematics;
+4. update the Revision Record when appropriate;
+5. synchronize the approved current public documents to GitHub;
+6. post the resulting Systematic version or revision reference on the issue;
+7. close the issue after the public record is complete.
+
+Use a **minor increment** when the challenge materially refines LST without reversing an affirmatively held doctrine. Use the **next major .0 version** when Scripture requires an affirmatively held doctrine to be reversed or abandoned in substance.
 
 If the challenge is **NOT SUSTAINED**, post the verdict and close the issue after the challenger has had a reasonable opportunity to see the result.
 
