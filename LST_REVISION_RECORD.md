@@ -1,3 +1,30 @@
+# VERSION 2.4
+
+October 7, 2026
+Supersedes Version 2.3
+
+## REVISION 28
+GitHub Issue #22 — Trinitarian equality, Father-Son order, and public challenge adjudication
+
+Issue #22, submitted by Harry Farrell with his paper *24 Reasons the Trinity Doctrine is not Biblical*, was subjected to full Revision Resistance. The paper's cumulative "Priority Model" was evaluated rather than only its abbreviated issue statement.
+
+**Case against revision.** The strongest case for retaining LST's Trinitarian confession remains substantial. John presents the Word as God, existing in the beginning, and as the one through whom all created things came to be (John 1:1-3), records the Son's pre-world glory and the risen Jesus addressed as "my Lord and my God" (John 17:5; 20:28), and Hebrews applies divine address and Psalm 102's Creator language to the Son (Hebrews 1:8-12). Philippians 2:6-11 culminates in Isaiah 45's universal homage being rendered to Jesus Christ as Lord. The Spirit speaks, wills, teaches, testifies, guides, can be grieved and lied to, and searches even the depths of God (John 14:26; 15:26; 16:13-14; Acts 5:3-4; 13:2; 1 Corinthians 2:10-11; 12:11; Ephesians 4:30). Farrell's model does not adequately account for this cumulative evidence.
+
+**What the challenge established.** Farrell correctly pressed texts that establish genuine Father-Son distinction and order: the Father sends the Son; gives authority, judgment, life-in-Himself, and the mediatorial kingdom to the Son; is called the God and Father of Jesus; and is excepted when all things are subjected to Christ. First Corinthians 15:24-28 reaches beyond Christ's earthly humiliation and says that in the consummation the Son Himself will be subject to the One who subjected all things to Him. LST's unqualified phrase "three coequal, coeternal persons" could be heard as denying or flattening those revealed relations. Scripture does not permit that flattening.
+
+**What the challenge did not establish.** Personal distinction, reception, mission, subjection, image-language, genuine humanity, death, temptation, or relation of origin do not by themselves demonstrate inequality of divine nature, createdness, or a temporal beginning of the Son. The argument that Luke 10:22 excludes the Spirit from divine knowledge conflicts especially with 1 Corinthians 2:10-11. Grammatical neuter gender for *pneuma* does not establish impersonality. Being called *theos* by itself is also insufficient to establish identity with the one true God; LST therefore rejects that simplistic proof while retaining the larger canonical case for the Son's deity.
+
+**What Version 2.4 says instead.** LST continues to confess one divine essence, the full eternal deity of Father, Son, and Spirit, the Son's uncreated eternal Sonship, and the personal deity of the Spirit. Chapter 3 and the Creed now say that the three coeternal persons are equal in deity and explicitly distinguish equality of divine nature from interchangeability of persons or absence of revealed order. The Father sends the Son; the Son is from the Father, receives and accomplishes His mediatorial commission from the Father, calls the Father His God, and in the consummation the incarnate Son remains subject to the Father. These establish real personal and mediatorial order without by themselves establishing inequality of divine nature.
+
+**Verdict:** PARTIALLY SUSTAINED. The challenge materially qualifies LST's wording of Trinitarian equality but does not overturn the Trinity, the Son's eternal deity/uncreatedness, or the personal deity of the Spirit. This is a minor release because the positive doctrine is retained with a material qualification rather than reversed or abandoned.
+
+**Public challenge procedure.** This issue also exposed a methodological gap. A public challenger must be able to see why a challenge was sustained, partially sustained, or not sustained and must be able to test LST's adjudication. T.A.I.T. Prompt and Engagement Module now require a substantive, self-contained adjudication on the same GitHub issue before closure, including concessions, controlling biblical reasons, resulting changes, and an invitation to rebut the adjudication. A rebuttal remains in the same issue unless it is genuinely a new challenge. Closure records the present adjudication; it does not immunize LST from renewed examination.
+
+## REVISION 27
+Cumulative-case debate status and diminishing-returns control
+
+Methodological clarification only; no theological version change was triggered by this revision. T.A.I.T. Prompt and Engagement Module now require private cumulative-case orientation after substantive debate rounds and distinguish UNDER PRESSURE, NOT DEMONSTRATED, CUMULATIVE CASE SUFFICIENT, and OVERTURNED. No status may be upgraded merely because an opponent is silent, repetitive, mistaken on one point, loses one argument, cites fewer passages, or because LST's reading seems more natural. The standard applies symmetrically against LST. When the controlling premises have been exposed and further replies merely repeat the same unresolved disagreement, T.A.I.T. identifies diminishing returns and states what new evidence or answer would be required; diminishing returns is not a victory category.
+
 # VERSION 2.3
 
 October 7, 2026
