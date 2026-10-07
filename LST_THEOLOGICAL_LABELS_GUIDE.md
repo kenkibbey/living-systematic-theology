@@ -16,11 +16,11 @@ The basic rule is simple:
 
 If someone asks, "What kind of theology is LST?" the shortest useful answer is:
 
-> **LST is a conservative evangelical Protestant theology that is broadly Reformed in salvation and providence, Baptist in church and ordinances, closest to Progressive Covenantalism / New Covenant Theology in covenant structure, non-supersessionist concerning ethnic Israel, cautious-continuationist in spiritual gifts, and historic-premillennial leaning in eschatology.**
+> **LST is a conservative evangelical Protestant theology that is broadly Reformed in salvation and providence, Baptist in church and ordinances, closest to Progressive Covenantalism / New Covenant Theology in covenant structure, non-supersessionist concerning ethnic Israel, cautious-continuationist in spiritual gifts, and deliberately noncommittal between a future millennial interval and recapitulation where Revelation 20 remains unresolved.**
 
 An even shorter comparison is:
 
-> **Reformed Baptist soteriology + Progressive Covenantalism + Historic Premillennialism, with each label held loosely enough that Scripture can overrule it.**
+> **Reformed Baptist soteriology + Progressive Covenantalism, with millennial structure left open where the text does not presently settle it, and with every label held loosely enough that Scripture can overrule it.**
 
 ## At a Glance
 
@@ -33,7 +33,7 @@ An even shorter comparison is:
 | Trinity | Nicene / classical Trinitarian, with the Filioque unresolved | One essence in three coequal, coeternal persons and eternal generation of the Son. Scripture says the Spirit proceeds from the Father, calls Him the Spirit of the Son and of Christ, and teaches the Son sends and pours Him out. LST does not presently judge "from the Father and the Son" over "from the Father through the Son" to be demonstrated. |
 | Providence and human agency | Reformed compatibilist | God's decree is comprehensive and certain, creatures act willingly and remain responsible, and compatibilism is treated as a useful description rather than an inspired metaphysical explanation. |
 | Humanity and sin | Augustinian-Reformed | Historical Adam, representative headship, moral and spiritual inability, real human responsibility, and the image of God marred but not erased. |
-| Creation | Conservative creationist, ordinary-day leaning | LST presently favors ordinary days in Genesis 1 but does not make a particular earth-age model the organizing center of the theology. |
+| Creation | Conservative creationist; creation-day duration unresolved | LST treats the duration of days one through six as not demonstrated. Ordinary-day and analogical-day readings remain argued possibilities, and no particular earth-age model organizes the theology. |
 | Christology | Nicene-Chalcedonian | One divine person, two complete natures, bodily resurrection, present enthronement, Prophet, Priest, and King. |
 | Atonement | Reformed / particular-redemption leaning | Penal, substitutionary, priestly, propitiatory, reconciling, redemptive, covenantal, and victorious. LST defends particular saving intention while refusing to shrink universal-language texts in advance. |
 | Election and grace | Calvinistic / monergistic | Election is not based on foreseen faith or works. Saving faith depends upon prior sovereign divine action. |
@@ -49,7 +49,7 @@ An even shorter comparison is:
 | Baptism | Credobaptist / Baptist, with stronger baptismal language than bare memorialism | Baptism follows profession of faith, ordinarily by immersion. Scripture directly joins baptism to forgiveness, washing, union-with-Christ language, and salvation. The exact causal and temporal relation among faith, baptism, regeneration, and saving union remains unresolved. LST defends that the forensic verdict is received through faith and does not universally await water baptism as its first temporal moment, while baptism's precise causal or sacramental relation to justification and forgiveness remains not demonstrated. |
 | Lord's Supper | Reformed Baptist / spiritual-communion | The Supper is not a renewed sacrifice and not bare memorialism. Believers truly commune with the living Christ by the Spirit through faith. |
 | Spiritual gifts | Cautious continuationist with closed canon | Foundational apostleship has ceased and no claimed revelation stands beside Scripture. The pre-Parousia cessation of tongues, prophecy, and healing is not demonstrated. First Corinthians 13, Acts 2, and 1 Corinthians 1 give real continuationist pressure, without proving uninterrupted availability of every disputed gift in every congregation or era. |
-| Millennium | Historic-premillennial leaning | LST defends a future millennial interval after Christ's appearing and before final judgment, but Revelation 20 is not treated as a complete dispensational program. |
+| Millennium | Millennial structure unresolved | A future millennial interval and recapitulation are both argued possibilities. LST confesses Christ's reign, return, bodily resurrection, final judgment, defeat of evil, and new creation without treating Revelation 20 as a complete dispensational program. |
 | Rapture / gathering timing | Undecided; pretribulation only an argued possibility | The gathering of the saints is confessed. Revelation 3:10 supplies genuine pretribulational support, while 2 Thessalonians 1-2, Matthew 24, and related texts supply substantial counter-pressure. The exact timing is not made a test of orthodoxy or salvation. |
 | Ezekiel 40-48 | Typological / Christocentric, non-dispensational | LST rejects a future guilt-removing sacrificial system after Calvary and does not call Ezekiel's sacrifices "memorial" unless Scripture establishes that claim. |
 | Hell | Traditional eternal-conscious-punishment leaning | Eternal conscious punishment is a defended canonical synthesis, not a confession-level claim. It rests on the convergence of Matthew 25 and Revelation 14 and 20, not on Revelation 14:11 alone. Destruction, second-death, eternal-destruction, and corpse imagery remain visible pressure. |
