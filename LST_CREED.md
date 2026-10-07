@@ -108,15 +108,11 @@ These claims are taught as LST's present reasoned account of the canon. They are
 
 Christ's sin-bearing and intercession secure the people given Him by the Father. John 10, Ephesians 5, Acts 20:28, Matthew 1:21, and Romans 8:32-34 teach effective particular purpose. Particular inclusion and exclusive extent are nevertheless distinct claims. John 10 establishes that He dies for His sheep and saves them. It does not, by itself, prove that He dies for nobody else.
 
-The sentences that say everyone, world, and all must keep their breadth until each argument is heard. 1 John 2:2 names the whole world as the scope of propitiation; application of the benefit is another question. Romans 5:17-19 must define all from the movement of receiving, justification, and the many made righteous. If a text were shown to teach substitutionary saving intention for every individual as such, the extent thesis would have to be revised. The finished efficacy of the cross for all who are in Christ would not be surrendered with it.
+The sentences that say everyone, world, and all must keep their breadth until each argument is heard. 1 John 2:2 names the whole world as the scope of propitiation; application of the benefit is another question. Romans 5:17-19 must define all from the movement of receiving, justification, and the many made righteous. Romans 14:15 and 1 Corinthians 8:11 call an endangered church member a brother "for whom Christ died." Those texts must not be thinned: the formula itself cannot be used as automatic proof that the named person is secured, even though the wider canonical case for effective particular saving intention remains. If a text were shown to teach substitutionary saving intention for every individual as such, the extent thesis would have to be revised. The finished efficacy of the cross for all who are in Christ would not be surrendered with it.
 
 ### 2. Preservation and perseverance
 
-All who are savingly united to Christ will persevere and be glorified. God keeps them through persevering faith, repentance, Spirit-enabled obedience, the word, the church, and the warnings. Those forms of continuance are genuinely necessary to final salvation, but they are not meritorious grounds standing independently beside God's preserving grace. Final apostasy manifests the absence of saving union rather than the destruction of new birth. That remains a defended canonical synthesis, not a definition imposed on sanctified, in me, fallen from grace, escaped, stand by faith, or other warning language. Hebrews 10:29, John 15, Galatians 5:4, Romans 11:17-22, 2 Peter 2:20-22, Matthew 18:23-35, and related warning texts remain real pressure and may not be thinned to protect the synthesis.
-
-### 3. A future millennial interval
-
-LST holds a future millennial interval before the last judgment as a defended synthesis. Its strongest local ground is Revelation 20:4-6: the same verb governs the faithful who come to life and "the rest of the dead" who do not come to life until the thousand years end, and John calls the event the first resurrection. On that feature the consecutive reading has the stronger case. The recapitulation reading nevertheless has substantial structural and canonical evidence, including repeated final-battle language across Revelation 16, 19, and 20 and texts that place resurrection and judgment on the last day. LST therefore does not presently claim that the consecutive reading has the stronger case overall. Revelation 20 supplies an interval and a reign in LST's present reading, but it does not by itself supply Canaan's map, Ezekiel's cultus, a festival calendar, or a civil order.
+All who are savingly united to Christ will persevere and be glorified. God keeps them through persevering faith, repentance, Spirit-enabled obedience, the word, the church, and the warnings. Those forms of continuance are genuinely necessary to final salvation, but they are not meritorious grounds standing independently beside God's preserving grace. Final apostasy manifests the absence of saving union rather than the destruction of new birth. That remains a defended canonical synthesis, not a definition imposed on sanctified, in me, fallen from grace, escaped, stand by faith, or other warning language. Hebrews 10:29, John 15, Galatians 5:4, Romans 11:17-22, Romans 14:15, 1 Corinthians 8:11 with 10:1-12, 2 Peter 2:20-22, Matthew 18:23-35, and related warning texts remain real pressure and may not be thinned to protect the synthesis. Romans 14:4 supplies paired preservation language: the servant will be upheld because the Lord is able to make him stand.
 
 ### 4. Believer's baptism
 
@@ -151,40 +147,48 @@ A distinct penultimate administration in which ethnic Israel holds the Abrahamic
 
 The gathering of the saints to the returning Lord is confessed. Pretribulational timing remains an argued possibility. Revelation 3:10 gives positive support because Christ promises to keep the faithful church from the coming hour of worldwide trial, while John 17:15 prevents defining the keep-from construction as automatic physical removal. Deliverance from wrath and watchfulness language add supporting pressure. Against that reading stand 1 Thessalonians 3:3-4, 2 Thessalonians 1:6-10 and 2:1-3, Matthew 24:29-44, and 1 Corinthians 15:52. Those counter-texts prevent a higher grade and must be worked rather than bypassed. The sequence must not become a condition of salvation or a test of Christian identity.
 
-### 3. Hebrews 6 and 10
+### 3. The creation days
+
+The duration of the Genesis creation days is not demonstrated. The ordinary-day reading remains an argued possibility because of the numbered days, the evening-and-morning refrain, and the Sabbath pattern of Exodus 20:11. An analogical-day reading is also an argued possibility because Genesis 2:2-3 leaves the seventh day without the closing formula, Hebrews 4:3-10 treats God's seventh-day rest as still open to be entered, and Exodus 31:17 uses human-rest language of God. These observations do not settle the duration of days one through six. LST's central creation, Adam, fall, and redemption affirmations do not depend on choosing between these possibilities.
+
+### 4. The millennial interval
+
+A future millennial interval and recapitulation are both argued possibilities. Revelation 20:4-6 gives the consecutive reading real support through the same coming-to-life verb, "the rest of the dead," until, and resurrection language. Recapitulation has local and canonical support from the first-resurrection/second-death pairing, the "souls" of 20:4, the beatitudes of 14:13 and 20:6, Johannine life language, repeated final-battle and Gog imagery, and texts that place resurrection and judgment in one final complex. LST no longer ranks the local grammar as decisively favoring the consecutive reading and no longer grades the interval as a defended synthesis. Christ's return, bodily resurrection, final judgment, defeat of evil, and new creation remain certain whichever reading proves correct.
+
+### 5. Hebrews 6 and 10
 
 Hebrews 6:4-8 describes real and weighty participation. Verses 9-12 distinguish that prospect from the better things of salvation and point to love and endurance. Verse 9 does not prove that every experience in verses 4-6 belongs only to the unregenerate.
 
 Hebrews 10:10 and 10:14 speak of those sanctified by Christ's offering. Hebrews 10:29 speaks of one sanctified by covenant blood who faces judgment. Why those uses differ, if they differ, is not yet demonstrated from inside the chapter. Appeal to Israel's mixed consecration is possible. It is not complete.
 
-### 4. John 15
+### 6. John 15
 
 Jesus calls the unfruitful branch one that is in Him. A distinction between vine-attachment and saving union must be shown from the discourse. Judas and Israel's vineyard are possible context. They do not define every branch.
 
-### 5. Ezekiel 40-48
+### 7. Ezekiel 40-48
 
 The vision promises holy dwelling. Ezekiel 43:10-11 gives the design for shame and obedience. Christ is the temple. The Church is God's dwelling. The final city has no temple building.
 
 Hebrews 10:18 ends offerings for sin. Ezekiel 45:15-22 names atonement for people and a sin offering for the prince and the land. Hebrews 9:13-14 distinguishes outward purification from cleansing of conscience, so atonement for persons is not automatically guilt-removal. Memorial and purely ceremonial readings are not stated by Ezekiel. A future house with guilt-removing rites is excluded. Whether the cultus is visionary idiom or some other non-propitiatory form is not demonstrated. LST does not presently have a stable literal-commemorative proof.
 
-### 6. Revelation 20:10 and 20:14-15
+### 8. Revelation 20:10 and 20:14-15
 
 Verse 10 assigns everlasting torment to the devil, the beast, and the false prophet. Verses 14-15 place Death, Hades, and the condemned in the same lake and call it the second death. Shared destination does not automatically establish identical experience, and LST no longer rests the consciousness of human punishment on extending verse 10 to persons it does not name. The connection between the two is still not shown.
 
-### 7. Mark 9 and Isaiah 66
+### 9. Mark 9 and Isaiah 66
 
 Jesus takes the undying worm and unquenchable fire from Isaiah 66:24, a passage about the corpses of rebels. The image is dreadful and irreversible. Conscious duration requires further argument.
 
-### 8. Isaiah 65:17-25
+### 10. Isaiah 65:17-25
 
 The oracle announces new heavens and a new earth, and the formula is taken up in 2 Peter 3:13 and Revelation 21:1. The canonical connection stands. What is not demonstrated is that the paragraph describes, clause for clause, the conditions of the deathless state. Isaiah 65:20 negates the infant of days and the unfulfilled old man and then says positively that the youth dies at a hundred years, using the ordinary verb. LST will not supply a verb of estimation the Hebrew does not contain, for the same reason it refuses to turn Ezekiel's sin offerings into memorials. Verse 23 speaks of offspring, and Revelation 21:4 says death shall be no more. The oracle may portray restoration in the register of Israel's covenantal losses, may involve a stage it does not specify, or may require another account of canonical development. None is settled. Difficulty fitting it into Revelation 21 is not evidence that it belongs in Revelation 20. The consummation does not rest on this paragraph.
 
-### 9. Conditional immortality and universal reconciliation
+### 11. Conditional immortality and universal reconciliation
 
 Destroy, perish, die, and second death are real verbs and names. Colossians 1:20 and 1 Corinthians 15:28 are real sentences. LST does not presently judge them to have overturned its commitment. It also does not treat the debate as closed by a heading.
 
 
-### 10. Regeneration and saving faith
+### 12. Regeneration and saving faith
 
 Scripture establishes that saving faith depends upon prior sovereign divine action and that the new birth is God's work through His Word. John 6 places the Father's drawing and granting before coming, which stands parallel to believing, but it does not identify that drawing as the new birth. John 3 requires birth from above but does not order that birth against believing. 1 John 5:1 identifies the believer as one born of God without, by its grammar alone, fixing which act produces the other. The exact logical ordering of regeneration and saving faith is therefore not demonstrated. LST will not collapse drawing, granting, heart-opening, Spirit-reception, sealing, effectual calling, and new birth into one technical moment without positive textual grounds.
 
@@ -208,9 +212,9 @@ We confess the Triune God, the written Word, the eternal purpose, the incarnate 
 
 We presently understand the canonical architecture as God's sovereign purpose to make His holy name and glory known by bringing creation to fulfillment in Christ, through whom He redeems and gathers a holy people with whom He will dwell under His righteous reign in renewed creation. Covenant is the historical structure; redemption is the restorative means; the decree guarantees the purpose; and new creation is the consummation. Sovereign Actualization names the certainty and historical accomplishment of that purpose, not the purpose itself.
 
-We defend, without making them the gospel, particular intention at the cross, the perseverance of those united to Christ, a future millennial interval, believer's baptism, the uniqueness of the apostolic foundation, eternal conscious punishment as the form of judgment, and the synthesis that final judgment according to works does not establish a second meritorious ground of acceptance or replace the justification already received through faith in Christ. In baptism, we confess the apostolic joining of the ordinance to forgiveness, washing, union-with-Christ language, and salvation. We leave the exact causal and temporal relation among faith, baptism, regeneration, and saving union unresolved. For the forensic verdict, we defend that justification is received through faith and does not universally await water baptism as its first temporal moment, while the precise causal or sacramental relation of baptism to justification and forgiveness remains unresolved. The exact relation of Romans 2:13's future justification language to that present verdict remains unresolved. Each synthesis is spoken at the confidence assigned to it and not above it. A grading that never changes how a doctrine is taught is not a grading.
+We defend, without making them the gospel, particular intention at the cross, the perseverance of those united to Christ, believer's baptism, the uniqueness of the apostolic foundation, eternal conscious punishment as the form of judgment, and the synthesis that final judgment according to works does not establish a second meritorious ground of acceptance or replace the justification already received through faith in Christ. In baptism, we confess the apostolic joining of the ordinance to forgiveness, washing, union-with-Christ language, and salvation. We leave the exact causal and temporal relation among faith, baptism, regeneration, and saving union unresolved. For the forensic verdict, we defend that justification is received through faith and does not universally await water baptism as its first temporal moment, while the precise causal or sacramental relation of baptism to justification and forgiveness remains unresolved. The exact relation of Romans 2:13's future justification language to that present verdict remains unresolved. Each synthesis is spoken at the confidence assigned to it and not above it. A grading that never changes how a doctrine is taught is not a grading.
 
-We reject a restored propitiatory cult. We hold a mapped second Canaan to be not demonstrated, while a narrower post-coming Israel-and-Jerusalem order remains an argued possibility. Revelation 20 itself does not independently supply that territorial or administrative content, and we refuse to require a pretribulational schedule. We refuse the silencing of any difficult text, and we refuse to thin a finite verb an inspired author wrote in order to spare a synthesis.
+We reject a restored propitiatory cult. We hold a mapped second Canaan to be not demonstrated, while a narrower post-coming Israel-and-Jerusalem order remains an argued possibility. The duration of the creation days is not demonstrated. A future millennial interval and recapitulation are both argued possibilities. Revelation 20 itself does not independently supply that territorial or administrative content, and we refuse to require a pretribulational schedule. We refuse the silencing of any difficult text, and we refuse to thin a finite verb an inspired author wrote in order to spare a synthesis.
 
 Christ is the personal and mediatorial center.
 The sacrifice is finished.
