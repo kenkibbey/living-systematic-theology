@@ -1,3 +1,15 @@
+# VERSION 2.3
+
+October 7, 2026
+Supersedes Version 2.2
+
+## REVISION 26
+Challenges #18-#21 and synchronization cleanup
+
+All four challenges were sustained after Revision Resistance. This is a minor release because no affirmatively held doctrine was reversed or abandoned. The release adds an omitted direct Christological confession, broadens an over-narrow providence formulation, retains divine simplicity while grading it as defended synthesis, and reconciles the canon's epistemic classification as a foundational historical and canonical judgment.
+
+---
+
 # VERSION 2.2
 
 October 7, 2026
