@@ -189,7 +189,7 @@ The oracle announces new heavens and a new earth, and the formula is taken up in
 
 ### 11. Conditional immortality and universal reconciliation
 
-Destroy, perish, die, and second death are real verbs and names. Colossians 1:20 and 1 Corinthians 15:28 are real sentences. LST does not presently judge them to have overturned its commitment. It also does not treat the debate as closed by a heading.
+Destroy, perish, die, and second death are real verbs and names. Colossians 1:20 and 1 Corinthians 15:28 are real sentences. LST does not presently judge them to establish conditional immortality or universal reconciliation. It also does not treat the debate as closed by a heading.
 
 
 ### 12. Regeneration and saving faith
