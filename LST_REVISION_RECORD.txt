@@ -1,3 +1,61 @@
+=================================================
+VERSION 2.2
+October 7, 2026
+Supersedes Version 2.1
+=================================================
+
+REVISION 25
+Chapters 3, 9, 22, 23, the Conclusion/summary language, and Creed
+Public-challenge batch: GitHub Issues #15-#17, plus deferred Chapter 22 methodological cleanup
+Effect: two confidence reclassifications, one material reprobation qualification, and removal of an ungraded apologetic-method lean; no doctrinal overturn under the standing semantic-version rule
+
+All three challenges were subjected to the Revision Resistance Test before revision. The strongest biblical case for retaining Version 2.1 was weighed before revision.
+
+ISSUE #15 - SUSTAINED - FOLLOW-UP TO ETERNAL CONSCIOUS PUNISHMENT
+
+What stood in Version 2.1. Eternal conscious punishment remained a defended canonical synthesis after Issue #6. The revised case relied on Matthew 25:41, 46; Revelation 14:9-11; and the relation between Revelation 20:10 and 20:14-15, while the Creed simultaneously acknowledged that shared destination in the lake of fire does not itself prove identical experience.
+
+Case against revision. Matthew 25 supplies substantial pressure toward everlasting conscious punishment: condemned humans enter the eternal fire prepared for the devil and his angels, and eternal punishment is placed beside eternal life. Revelation 14 directly depicts human conscious torment and no rest day or night. Revelation 20:10 expressly gives everlasting torment to the devil, beast, and false prophet.
+
+What the challenge established. Jude 7 is a decisive control on what the phrase "eternal fire" can prove by itself: Sodom and Gomorrah undergo the punishment of eternal fire, while 2 Peter 2:6 says those cities were reduced to ashes and made an example of what is coming to the ungodly. Revelation repeatedly names the human lake-of-fire outcome the second death, while Revelation 20:10's explicit everlasting-torment clause names the devil, beast, and false prophet. The Creed's own unresolved statement about the connection exposed that the cumulative case had not completed its distinctive inference.
+
+What Version 2.2 says instead. Final irreversible judgment and genuine conscious suffering in judgment remain affirmed. Eternal conscious punishment is reduced from DEFENDED SYNTHESIS to ARGUED POSSIBILITY. Conditional immortality is also an ARGUED POSSIBILITY. Scripture does not presently demonstrate whether irreversible final punishment consists in everlasting conscious human experience or culminates in final destruction. Universal reconciliation remains pressure but is not thereby established.
+
+Verdict: SUSTAINED.
+
+ISSUE #16 - SUSTAINED - ETERNAL GENERATION
+
+What stood in Version 2.1. The Creed and Chapter 3 confessed without qualification that the Son is eternally begotten, not created.
+
+Case against revision. Eternal generation has a strong canonical basis. The Son is eternal God and uncreated; John presents the unique Son in eternal relation to the Father, says that as the Father has life in Himself so He granted the Son to have life in Himself, records the glory and love shared before the foundation of the world, and Hebrews calls the Son the radiance of God's glory and exact imprint of His nature (John 1:1-3, 14, 18; 5:26; 17:5, 24; Hebrews 1:3).
+
+What the challenge established. Those texts strongly ground an eternal Father-Son relation and make eternal generation a powerful theological account, but no text states the exact technical proposition "the Father eternally begets the Son." After Issue #7 required exact-proposition discipline for the Filioque, LST could not exempt eternal generation from the distinction between direct confession and theological synthesis merely because the doctrine is ancient or Nicene.
+
+What Version 2.2 says instead. LST continues to confess the Son's eternal deity, uncreatedness, eternal Sonship, and unique eternal relation to the Father. Eternal generation remains positively held as a DEFENDED SYNTHESIS explaining that relation, not as a confession-level formula directly stated by Scripture.
+
+Verdict: SUSTAINED.
+
+ISSUE #17 - PARTIALLY SUSTAINED - REPROBATION AND HARDENING
+
+What stood in Version 2.1. Chapter 9 said that reprobation is not equal ultimacy and described God as passing over guilty sinners and judicially hardening those who remain culpable for their rebellion.
+
+Case against revision. Scripture unquestionably grounds condemnation in real sin and culpability. Romans 1:18-32 depicts judicial handing-over amid suppression of truth and idolatry; 2 Thessalonians 2:10-12 joins delusion and condemnation to refusal to love the truth. Romans 9:22-23 itself is asymmetrical: vessels of mercy are expressly prepared beforehand for glory, while vessels of wrath are described differently and endured with much patience.
+
+What the challenge established. Romans 9:18 says God has mercy on whom He wills and hardens whom He wills. The objection in 9:19 explicitly concerns resistance to God's will, and Paul's potter-and-clay answer does not reduce hardening to a merely reactive response to prior rebellion. "Passing over" is a systematic category rather than Paul's wording and must be identified as such.
+
+What Version 2.2 says instead. LST retains asymmetrical reprobation and rejects equal ultimacy, but it now gives Romans 9:18-23 its full force: God is sovereign in hardening as well as mercy, while condemned persons remain genuinely culpable for sin. "Passing over" is explicitly identified as LST's systematic description rather than direct Pauline terminology.
+
+Verdict: PARTIALLY SUSTAINED.
+
+DEFERRED CHAPTER 22 METHODOLOGICAL CLEANUP
+
+Version 2.1 still said LST "favors a presuppositional posture" in apologetics while admitting that no particular philosophical technique is required by Scripture. Because LST had just removed analogous ungraded leans from creation-day and millennial questions, retaining this preference created an inconsistent confidence practice. Version 2.2 removes the unofficial lean. LST continues to affirm creaturely dependence on the Creator, general revelation and accountability, reasoned defense with gentleness and respect, and the exposure of claims raised against the knowledge of God, while leaving the choice of an exclusive apologetic school not demonstrated.
+
+WHY VERSION 2.2 IS A MINOR RATHER THAN A NEW MAJOR RELEASE
+
+The standing rule reserves a major release for reversing or abandoning in substance an affirmatively held doctrine, including reducing it to NOT DEMONSTRATED because its positive claim cannot be sustained. Issue #15 reduces eternal conscious punishment from defended synthesis to argued possibility; Revision 24 already established defended-synthesis to argued-possibility movement as a confidence adjustment when the positive claim remains live rather than being rejected or reduced to not demonstrated. Issue #16 continues positively to defend eternal generation while lowering its grade from confession to defended synthesis; the proposition is not abandoned. Issue #17 retains asymmetrical reprobation with corrected scope and wording. The Chapter 22 change removes an ungraded methodological lean. These are material revisions, but none reverses a positive doctrine into its contradiction or abandons it in substance. Version 2.2 therefore follows Version 2.1 under the existing semantic-version architecture.
+
+
 LIVING SYSTEMATIC THEOLOGY
 REVISION RECORD
 
