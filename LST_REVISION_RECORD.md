@@ -8,6 +8,21 @@ Challenges #18-#21 and synchronization cleanup
 
 All four challenges were sustained after Revision Resistance. This is a minor release because no affirmatively held doctrine was reversed or abandoned. The release adds an omitted direct Christological confession, broadens an over-narrow providence formulation, retains divine simplicity while grading it as defended synthesis, and reconciles the canon's epistemic classification as a foundational historical and canonical judgment.
 
+### ISSUE #18 — SUSTAINED
+The birth narratives in Matthew 1:18-25 and Luke 1:26-38 directly establish the virginal conception, which the Systematic and Creed had omitted. The resistance argument from selective scope failed under LST's rule against understating what Scripture directly requires. Chapter 6 and the Creed now confess the doctrine without adding an unstated theory of its necessity.
+
+### ISSUE #19 — SUSTAINED
+Chapter 4's contrast between directly working good and permitting evil was narrower than Scripture's own range of language. Permission and handing-over texts remain, but Scripture also speaks of divine hardening, turning, sending, and purposive judicial action while preserving creaturely guilt and God's holy intention. Chapter 4 now preserves both registers and declines to reduce one to the other.
+
+### ISSUE #20 — SUSTAINED
+Divine simplicity remains positively held, but its distinctive non-composition formulation requires theological inference from directly stated truths about God's oneness, spirituality, self-sufficiency, and constancy. It is therefore graded as DEFENDED SYNTHESIS rather than carried unmarked at confession level.
+
+### ISSUE #21 — SUSTAINED
+The canon and its closure were graded inconsistently. LST now distinguishes direct confessions about Scripture's inspiration, truthfulness, authority, and sufficiency from the foundational historical and canonical judgment by which it identifies the sixty-six-book written evidence base. That judgment is neither a numbered-table-of-contents confession nor an ordinary synthesis inferred from the canon itself.
+
+### CLEANUP
+Stale Version 2.2 wording is corrected: the millennial interval is no longer called a defended synthesis; final-punishment wording is synchronized; the Labels Guide is aligned to current grades; the Conclusion identifies Version 2.3; and Creed numbering is repaired.
+
 ---
 
 # VERSION 2.2
