@@ -55,7 +55,7 @@ A **minor version increment** records a material refinement that does not revers
 
 A **major version increment** is reserved for a genuine doctrinal overturn: Scripture requires LST to reverse or abandon in substance an affirmatively held doctrine. A positive doctrine held as confession or defended synthesis counts here. If such a doctrine is contradicted, abandoned, or reduced to `not demonstrated` because its positive claim cannot be sustained, the next release advances to the next major number and resets the minor number to zero.
 
-Accordingly, after Version 1.11, a routine non-overturning revision would become **1.12**. The first genuine doctrinal overturn would become **2.0**. Later refinements would proceed **2.1, 2.2**, and so on until another genuine doctrinal overturn requires **3.0**.
+Version **2.0** is the first release produced by the major-version rule. From here, routine non-overturning refinements proceed **2.1, 2.2**, and so on. The next genuine doctrinal overturn advances the Systematic to **3.0**.
 
 The source of the correction does not control the number. A GitHub challenge, internal audit, or other serious examination is treated the same way. The significance of the doctrinal change controls the version.
 
