@@ -41,7 +41,7 @@ What remains unresolved.
 
 We believe in one living and true God, eternal, self-existent, holy, righteous, wise, good, loving, and sovereign, without limit in knowledge or power.
 
-He is Father, Son, and Holy Spirit: one essence in three coequal, coeternal persons. The Son is eternally begotten, not created. The Spirit proceeds from the Father and the Son. These relations are confessed from Scripture; their technical form is not a verse.
+He is Father, Son, and Holy Spirit: one essence in three coequal, coeternal persons. The Son is eternally begotten, not created. Jesus says that the Spirit proceeds from the Father. Scripture also calls Him the Spirit of the Son and of Christ and teaches that the Son sends and pours Him out from the Father. LST no longer confesses "from the Father and the Son" as a demonstrated biblical formula. The exact eternal relation of the Spirit to the Son beyond what Scripture states, including whether it should be expressed as "and the Son" or "through the Son," is not demonstrated.
 
 God does not acquire knowledge, revise His purpose, or discover outcomes. His character does not change. Scripture also truly depicts Him testing, relenting, answering prayer, grieving, and calling the wicked to live. He swears that He has no pleasure in the death of the wicked but in the wicked turning and living (Ezekiel 33:11), while Scripture also speaks of His willing judicial deaths and, in Deuteronomy 28:63, rejoicing to destroy covenant breakers. LST distinguishes God's revealed saving address from His decretive purpose to guard both sets of texts from reduction without claiming to explain their full relation in the one simple God. The creature's standing changes. God does not. The unresolved relation is acknowledged, not used to empty either side of the witness.
 
@@ -89,7 +89,7 @@ The external call is sincere and may be resisted. No one must learn his election
 
 The Church is the body of Christ: believing Jews and Gentiles made one new humanity, with one access to the Father by one Spirit. There is one gospel and one righteousness. Gentile believers are full heirs with believing Jews. They are not required to become ethnically Jewish.
 
-Israel is the historical people descended from Abraham, Isaac, and Jacob. Not all who descend from Israel are Israel in the sense Paul distinguishes. God has not rejected His people. Hardening is partial. All Israel will be saved through the same Deliverer who takes away sins. Future corporate mercy toward ethnic Israel is confessed. Romans 11 is not a land survey and not a second way of salvation.
+Israel is the historical people descended from Abraham, Isaac, and Jacob. Not all who descend from Israel are Israel in the sense Paul distinguishes. God has not rejected His people. Romans 11 keeps Israel and the Gentiles distinct through Israel's trespass and fullness, rejection and acceptance, the natural branches and their regrafting, and the partial hardening that lasts until the fullness of the Gentiles comes in. Paul then says that all Israel will be saved and that the gifts and calling are irrevocable. LST therefore confesses future corporate saving mercy toward ethnic Israel through the same Deliverer who takes away sins. Romans 11 does not specify a percentage, political constitution, or second way of salvation.
 
 ### 10. The last things
 
@@ -126,11 +126,11 @@ At the same time, Scripture does not demonstrate that the physical water is a me
 
 ### 5. Foundational apostleship and the closed canon
 
-Apostles and prophets, with Christ the cornerstone, are the Church's foundation. There are no apostles of Christ in that foundational sense now. Canonical closure is a related but distinct historical and canonical judgment. The duration of tongues, prophecy, and healing is not settled by Ephesians 2:20. The cessation of those gifts is an expectation the regulating texts have not established. 1 Corinthians 14:39 and 1 Thessalonians 5:19-21 are not time-stamped and LST has no exegetical answer to them. The earlier account, that those commands bound only churches where the gifts were present, is withdrawn as circular. What abides is testing, order, love, and refusal to place any claimed utterance beside Scripture.
+Apostles and prophets, with Christ the cornerstone, are the Church's foundation. There are no apostles of Christ in that foundational sense now. Canonical closure is a related but distinct historical and canonical judgment. The duration of tongues, prophecy, and healing is not settled by Ephesians 2:20, and their pre-Parousia cessation is not demonstrated. First Corinthians 14:39 and 1 Thessalonians 5:19-21 remain standing commands. First Corinthians 13:8-12, Acts 2:17-18, 39, and 1 Corinthians 1:7 add real continuationist pressure, while Scripture does not demonstrate uninterrupted availability of every disputed gift in every congregation or period. What abides is testing, order, love, and refusal to place any claimed utterance beside Scripture.
 
 ### 6. Eternal conscious punishment
 
-LST holds eternal conscious punishment as a defended synthesis, not as a confession, and it is not to be spoken in the voice of the resurrection. Finality and consciousness are two claims. Matthew 25:46 and the second death secure that both destinies are enduring and irreversible. Consciousness rests on Revelation 14:11, where John says of the beast's worshipers that they have no rest, day or night, which is said of persons and not of a place. The smoke clause of that verse carries real pressure from Isaiah 34:9-10 and does not establish duration by itself. One seam is ours: extending the no-rest clause from the beast's worshipers to the condemned as a class is an inference LST draws, not a sentence John writes. The destruction verbs remain owed an answer.
+LST holds eternal conscious punishment as a defended canonical synthesis, not as a confession. Matthew 25:41, 46 establishes an eternal punitive destiny and places condemned humans in the eternal fire prepared for the devil and his angels. Revelation 14:9-11 directly depicts human conscious torment and no rest day or night, but its phrase "forever and ever" directly modifies the smoke rather than the no-rest clause. Revelation 19:3 shows that the same everlasting-smoke formula can mark irreversible ruin. Revelation 20:10 expressly names everlasting torment for the devil, beast, and false prophet, while 20:14-15 places the condemned in the same final lake of fire. Shared destination does not by itself prove identical experience, so the doctrine rests on the convergence of these passages rather than on transferring one clause mechanically. Destroy, perish, die, second death, eternal destruction, and the corpse imagery of Isaiah 66 remain real pressure and must not be translated away to protect the synthesis.
 
 ### 7. Justification and judgment according to works
 
@@ -149,7 +149,7 @@ A distinct penultimate administration in which ethnic Israel holds the Abrahamic
 
 ### 2. The gathering's schedule
 
-The gathering of the saints to the returning Lord is confessed. Pretribulational timing is an argued possibility. 2 Thessalonians 2:1-3 and Matthew 24:29-31 must be faced, not only texts of imminence and wrath. The sequence must not become a condition of salvation or a test of Christian identity.
+The gathering of the saints to the returning Lord is confessed. Pretribulational timing remains an argued possibility. Revelation 3:10 gives positive support because Christ promises to keep the faithful church from the coming hour of worldwide trial, while John 17:15 prevents defining the keep-from construction as automatic physical removal. Deliverance from wrath and watchfulness language add supporting pressure. Against that reading stand 1 Thessalonians 3:3-4, 2 Thessalonians 1:6-10 and 2:1-3, Matthew 24:29-44, and 1 Corinthians 15:52. Those counter-texts prevent a higher grade and must be worked rather than bypassed. The sequence must not become a condition of salvation or a test of Christian identity.
 
 ### 3. Hebrews 6 and 10
 
