@@ -8,6 +8,24 @@ Scripture does not change when LST changes. This file records corrections to a f
 Each entry names the chapter, the earlier formulation, the reason the change was required, and whether the revision strengthens, qualifies, lowers confidence in, or abandons what stood before. Where a change came out of a public examination, that is said plainly rather than presented as internal refinement.
 
 =================================================
+VERSIONING AND STABLE-FILENAME ARCHITECTURE
+October 7, 2026
+=================================================
+
+Repository and workflow architecture only. No LST doctrine changed and the current Systematic remains Version 1.11.
+
+Only the Living Systematic Theology itself now carries the project's active semantic version number. The current governing filenames are stable: LIVING_SYSTEMATIC_THEOLOGY.md, LST_CREED.md, ENGAGEMENT_MODULE_LST.txt, TAIT_PROMPT_LST.txt, 00_LST_BOOTSTRAP_CURRENT.txt, and LST_REVISION_RECORD.txt. The version stated inside LIVING_SYSTEMATIC_THEOLOGY.md identifies the current theological release. Supporting governing documents no longer receive independent semantic version numbers and no longer hard-code a particular Systematic version. The Creed now says that it summarizes the current Living Systematic Theology. The T.A.I.T. prompt and bootstrap point to stable current filenames.
+
+Major/minor rule. Minor increments within the current major line record material changes that refine but do not reverse an affirmatively held doctrine: clarification, qualification, evidence reweighting, confidence adjustment, new counter-texts, changed unresolved status, methodological refinement, or comparable correction. A genuine doctrinal overturn is different. When Scripture requires LST to reverse or abandon in substance an affirmatively held doctrine, the next Systematic release advances to the next major number and resets the minor number to zero. Thus, after Version 1.11, the first genuine doctrinal overturn will produce Version 2.0. Later non-overturning revisions will proceed 2.1, 2.2, and so on; another genuine doctrinal overturn will require Version 3.0. The origin of the correction does not matter: a GitHub challenge, internal audit, or other serious examination is judged by the same rule.
+
+An affirmatively held doctrine for this purpose includes a positive LST conclusion held as confession or defended synthesis. Moving such a doctrine to its contradiction, abandoning it, or reducing it to not demonstrated because its positive claim cannot be sustained counts as a doctrinal overturn. Refining its scope, improving its proof, adding qualifications, changing an argued possibility, or adjusting an unresolved question without reversing the positive doctrine does not.
+
+History preservation. Stable current filenames do not eliminate archival versioning. Before a stable current governing file is materially changed, the superseded snapshot is preserved in Old Systematics under a historical filename tied to the relevant Systematic version, Revision Record entry, or date. The Git history and Revision Record preserve the public development. This prevents stale cross-document references while retaining a complete theological and methodological history.
+
+Effect: future LST revisions normally require changing the semantic version in one governing document only, while the rest of the current operating set continues to point to stable filenames and to the current Systematic rather than to hard-coded version numbers.
+
+
+=================================================
 VERSION 1.11
 October 7, 2026
 Supersedes Version 1.10
