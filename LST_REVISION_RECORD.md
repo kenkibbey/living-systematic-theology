@@ -1,3 +1,27 @@
+# VERSION 2.5
+October 8, 2026
+Supersedes Version 2.4
+
+## REVISION 30
+Public challenge rebuttals and final disposition
+
+At Ken's direction, the public GitHub adjudication procedure now gives each challenger up to three substantive rebuttal rounds per challenge, with a seven-day response window after the initial adjudication and each renewed adjudication while rounds remain. A timely rebuttal must be examined before closure; the third rebuttal receives a reasoned final adjudication. Earlier resolution by acceptance or withdrawal is permitted. Absence of rebuttal within an announced window makes the initial or latest adjudication final for that challenge, without treating silence as biblical proof. An unresolved outcome remains unresolved, and materially new evidence can reopen review. Existing open challenges receive fresh notice rather than retroactive expiry.
+
+The Prompt and Engagement Module carry this procedure; the public contribution guide and verdict template are aligned. This is an operational revision, not a theological overturn.
+
+## REVISION 29
+GitHub Issues #23 and #24 — Revision Resistance and targeted clarification
+
+Issue #23 is PARTIALLY SUSTAINED for precision and completeness. Chapter 3 and the Creed now distinguish eternal personal relations (John 17:5, 24; 1 Corinthians 8:6) from the Son's coming into the world and mediatorial commission (John 5:19-30; 14:28; 16:28; 20:17; Matthew 28:18). The consummation statement retains the incarnate Son's subjection (1 Corinthians 15:24-28) and adds His unending kingdom and the throne of God and the Lamb (Luke 1:33; Revelation 22:1-3). The cited relations do not by themselves demonstrate inequality of deity or an eternal hierarchy of command and obedience between the divine persons as such. This qualification does not demonstrate the opposite metaphysical thesis. Equal deity, eternal Sonship, and real revealed order remain affirmed; eternal generation remains a defended synthesis. The Prompt is aligned to those distinctions.
+
+The strongest resistance was that the existing paragraph already specified mediatorial commission and incarnate subjection, did not explicitly teach an eternal authority hierarchy, and separately qualified eternal generation. Nevertheless, its compressed wording left different relations insufficiently distinguished and omitted direct testimony to the Son's unending kingdom. The correction is a minor refinement, not a doctrinal reversal. The Systematic header and Conclusion now identify Version 2.5.
+
+Issue #24 is NOT SUSTAINED as a case for replacing the present interpretive method or equating faith with works. Chapter 2 already requires contextual grammar, history, literary genre, canonical interpretation, and caution about disputed evidence; it assumes no exhaustive ancient-language corpus. Chapters 9 and 19 already reject mere assent and affirm necessary Spirit-enabled obedience without making human merit the ground of justification. Romans 4:1-12, James 2:14-26, and Galatians 5:1-6 must be read together under the same standards. Contextual loyalty usage and new historical evidence deserve consideration but do not establish one obligatory gloss or semantic identity between faith and works. No doctrinal change is made for #24, and the complete Bates thesis is not declared disproven.
+
+Both adjudications remain open to rebuttal under Revision 30. Superseded governing states are preserved in Old Systematics; the public Systematic, Creed, and Revision Record are synchronized only after the Drive changes are verified.
+
+---
+
 # VERSION 2.4
 
 October 7, 2026

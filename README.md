@@ -55,7 +55,11 @@ You may bring historical theology, confessions, linguistic research, commentarie
 
 **You do not need to be a theologian. You do not need technical language. You do need to show why you believe Scripture requires LST to change.**
 
-Every serious challenge receives a public disposition explaining whether it was **Sustained, Partially Sustained, Not Sustained, or Unresolved**, and whether LST changed as a result.\n\nOnly the **Living Systematic Theology itself** carries the active semantic version number. Supporting governing documents use stable filenames so public links do not become stale when LST advances to a new release.
+Every serious challenge receives a public disposition explaining whether it was **Sustained, Partially Sustained, Not Sustained, or Unresolved**, and whether LST changed as a result.
+
+Challengers may answer on the same issue in up to **three rebuttal rounds**, with **seven days after each adjudication** while rounds remain. A timely rebuttal is examined before closure. If no rebuttal arrives within the window, the current decision becomes final for that challenge; silence is not proof that LST is correct. See [the full rebuttal and closure procedure](CONTRIBUTING.md#rebuttal-windows-and-closure).
+
+Only the **Living Systematic Theology itself** carries the active semantic version number. Supporting governing documents use stable filenames so public links do not become stale when LST advances to a new release.
 
 ## Why This Project Exists
 

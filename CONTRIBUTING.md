@@ -74,13 +74,19 @@ The normal lifecycle is:
 5. **NOT SUSTAINED** — The present LST position survives the challenge at its current doctrinal level, though its wording or argument may still be clarified or strengthened.
 6. **UNRESOLVED** — The challenge creates substantial biblical pressure that cannot yet be responsibly settled in either direction.
 
-The final result should be posted publicly on the GitHub issue using the [LST Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md).
+Post a self-contained adjudication on the same GitHub issue using the [LST Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md). Invite correction and rebuttal in that issue; run Revision Resistance again when a rebuttal supplies materially new evidence or exposes a material error.
 
 The public verdict should identify the controlling passages, summarize the strongest case on both sides, state the Revision Resistance result, explain whether LST changed, and point to any resulting revision or version number.
 
 The person who submitted the challenge should therefore be able to see how the objection was handled. GitHub will provide issue notifications according to that user’s own notification settings.
 
 New challenge Issues may be monitored and surfaced to the maintainer automatically, but the theological verdict itself is not automatic. A challenge must actually be examined, and no governing document changes without maintainer approval.
+
+## Rebuttal Windows and Closure
+
+Each challenger may submit up to three substantive rebuttal rounds to each challenge on the same issue. Several comments developing one reply count as one round; clarification questions do not consume a round. After the initial public adjudication, allow seven days from its GitHub timestamp for a rebuttal; publish the UTC deadline and rounds used. A timely rebuttal pauses closure while it is examined. After each renewed adjudication, allow another seven-day response window for any remaining rounds. Administrative comments do not reset the clock. Address the third rebuttal before posting the final decision and closing. Earlier closure is permitted when the challenger accepts the resolution or withdraws the challenge. If no rebuttal arrives within an announced seven-day window, the initial decision (or the latest decision after a rebuttal) becomes final for that challenge. Close only after the public reasoning and authorized changes are verified, recording the verdict and reason for closure. Silence establishes no biblical proof or victory; an unresolved verdict remains unresolved. Materially new evidence can reopen review. Apply this procedure going forward; an already-open challenge receives a fresh seven-day window when this policy is announced on its issue.
+
+The final notice records the issue's verdict, rounds used, and reason for closure. Closing an issue ends that challenge's current process; it does not make LST immune from biblical correction.
 
 ## Pull Requests
 

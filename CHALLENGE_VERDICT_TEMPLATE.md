@@ -112,7 +112,17 @@ The final GitHub response should tell the challenger:
 
 A challenger should not be asked to submit a serious biblical objection into a black hole. The public issue should preserve the reasoning and outcome.
 
-## 10. Versioning and Closure
+## 10. Rebuttal Window
+
+**Adjudication:** Initial / rebuttal response / final  
+**Challenger's rebuttal rounds used:** 0 / 1 / 2 / 3 of 3  
+**Adjudication posted at (UTC):**  
+**Response deadline (UTC):** Seven days after this adjudication, while rounds remain  
+**Closure reason, when final:** Accepted / withdrawn / no timely rebuttal / third rebuttal addressed  
+
+Invite correction, rebuttal, or identification of omitted evidence on this same issue. Do not require a new issue to answer this adjudication. Apply the [rebuttal and closure procedure](CONTRIBUTING.md#rebuttal-windows-and-closure): examine a timely rebuttal before closing, rerun Revision Resistance for materially new evidence or a material error, and give the third rebuttal a reasoned final response. Silence is procedural finality, not biblical proof. Materially new evidence can reopen review.
+
+## 11. Versioning and Closure
 
 If the challenge produces an approved LST revision:
 
@@ -122,10 +132,10 @@ If the challenge produces an approved LST revision:
 4. update the Revision Record when appropriate;
 5. synchronize the approved current public documents to GitHub;
 6. post the resulting Systematic version or revision reference on the issue;
-7. close the issue after the public record is complete.
+7. close the issue only after the verified public record is complete and the rebuttal procedure above permits closure.
 
 Use a **minor increment** when the challenge materially refines LST without reversing an affirmatively held doctrine. Use the **next major .0 version** when Scripture requires an affirmatively held doctrine to be reversed or abandoned in substance.
 
-If the challenge is **NOT SUSTAINED**, post the verdict and close the issue after the challenger has had a reasonable opportunity to see the result.
+If the challenge is **NOT SUSTAINED**, post the verdict, invite rebuttal, and close only when the rebuttal procedure above permits closure.
 
-If the challenge is **UNRESOLVED**, the issue may remain open or be closed with the unresolved status clearly recorded, depending on whether further active study is expected.
+If the challenge is **UNRESOLVED**, apply the same rebuttal procedure and record unresolved status clearly at closure; elapsed time does not settle the underlying doctrine.
