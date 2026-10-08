@@ -2,6 +2,34 @@
 October 8, 2026
 Supersedes Version 2.4
 
+## REVISION 32
+Synchronization of operating references with current governing doctrine
+
+October 8, 2026
+
+This entry records targeted synchronization and reference repairs only. No LST doctrine, confession, confidence grade, versioning rule, or Systematic text changed. The Systematic remains Version 2.5.
+
+TAIT_PROMPT_LST was corrected to reflect two earlier confidence determinations already established in LIVING_SYSTEMATIC_THEOLOGY and LST_CREED. Chapter 17 treats a future millennial interval and recapitulation as argued possibilities, rather than holding the interval as a defended synthesis. Chapter 23 treats eternal conscious punishment and conditional immortality as argued possibilities, rather than holding eternal conscious punishment as a defended canonical synthesis. The Prompt's explanations and warnings were aligned to those current governing passages. These were source-alignment repairs, not renewed doctrinal adjudications.
+
+The GitHub-only LST_THEOLOGICAL_LABELS_GUIDE.md Trinity description was synchronized to Version 2.5's formulation: the three coeternal persons are equal in deity without erasing personal distinction and revealed order. A last-checked note was added to the guide and the resulting GitHub commit was verified.
+
+The supporting Google Doc Facebook_Unicode_Cheet_Sheet was renamed Facebook_Unicode_Cheat_Sheet in LST Supporting Documents, and ENGAGEMENT_MODULE_LST was corrected to point to that live document rather than a nonexistent .txt project file. The identical duplicate in Posts was permanently deleted on October 8, 2026, with Ken's explicit authorization; the Supporting Documents master remains accessible.
+
+The historical engineering-continuity note identifying the two previously stale Prompt grades was preserved and supplemented with a dated resolution note.
+
+Before governing-file edits, dated copies of TAIT_PROMPT_LST, ENGAGEMENT_MODULE_LST, and LST_REVISION_RECORD were preserved in Old Systematics and their contents and placement were verified.
+
+Ken explicitly authorized publishing Revisions 31 and 32 to GitHub on October 8, 2026. This authorization does not automatically establish a standing rule for publishing future method-only entries.
+
+## REVISION 31
+Automatic conversational and debate format selection
+
+At Ken's direction, ENGAGEMENT_MODULE_LST and TAIT_PROMPT_LST now select response format from the actual exchange without requiring manual mode commands or prior agreement to the quote-and-answer format. Mode 1 remains the ordinary conversational default. A clear argument, rebuttal, or request to debate or defend a position can trigger Mode 2, including on the first turn. Simple questions, Scripture citations, disagreement, hostility, or length alone do not. Mode 3 is available when standards or the topic need clarification, rather than as a compulsory gateway. T.A.I.T. returns to normal conversation when the exchange clearly shifts, respects explicit style requests, and preserves participant-specific claims, concessions, and the unresolved hinge across switches. A formatting choice does not invent consent to formal debate terms.
+
+Revision Resistance — case for retaining the former rule. The former wording required agreement to a specific formal topic before Mode 2. Its strongest justification was protection against turning honest questions into quarrels, imposing an unwanted debate, and mistaking heat for an argument. Second Timothy 2:23-26 requires avoiding foolish quarrels while correcting opponents patiently and gently; 1 Peter 3:15-16 joins readiness to answer with gentleness, respect, and a good conscience. In context these passages govern conduct, not software modes, quote headers, or a universal prior-format agreement. The former safeguard therefore survives in substance but does not establish the manual agreement gate as necessary.
+
+Case for the targeted change and outcome. Requiring a format agreement can obstruct a useful answer once a person is already presenting a clear argument. Automatic selection removes that extra step while retaining the stronger protections: ordinary conversation by default, substantive criteria for debate, patient treatment in either format, genuine consent for negotiated terms, user control of presentation, and separate continuity for each person and thread. This is an authorized methodological refinement, not a claim that Scripture commands automatic mode switching. Existing quotation, argument, closing, and Revision Resistance requirements remain. No doctrine, Creed wording, or Systematic semantic version changes; the Systematic remains Version 2.5. Superseded states are preserved in Old Systematics. The website build specification carries this behavior while keeping the public application read-only toward LST.
+
 ## REVISION 30
 Public challenge rebuttals and final disposition
 
