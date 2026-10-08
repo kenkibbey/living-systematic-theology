@@ -68,7 +68,7 @@ Every submitted challenge should have a visible status.
 The normal lifecycle is:
 
 1. **SUBMITTED** — The issue has been opened and is awaiting review.
-2. **UNDER REVIEW** — The challenge is being examined against the current governing LST documents and Scripture. The issue title may be updated to show this status.
+2. **UNDER REVIEW** — The challenge is being examined against the current governing LST documents and Scripture. A status label on the issue shows this status.
 3. **SUSTAINED** — The challenge requires a material LST change.
 4. **PARTIALLY SUSTAINED** — The challenge exposes a real defect, but does not establish the challenger’s entire proposed conclusion.
 5. **NOT SUSTAINED** — The present LST position survives the challenge at its current doctrinal level, though its wording or argument may still be clarified or strengthened.
