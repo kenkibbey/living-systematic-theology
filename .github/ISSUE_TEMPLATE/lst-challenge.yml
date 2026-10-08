@@ -27,7 +27,7 @@ body:
 
         Opening an issue does not automatically mean LST should change. The challenge will be tested against Scripture, including the strongest biblical case for retaining the current position.
 
-        Challenges receive a public disposition: **Sustained, Partially Sustained, Not Sustained, or Unresolved.** The final issue response will explain whether LST changed and why.
+        Challenges receive a public disposition: **Sustained, Partially Sustained, Not Sustained, or Unresolved.** The response will explain whether LST changed and why. You may answer on the same issue in up to three substantive rebuttal rounds, with seven days after each adjudication. See [the rebuttal and closure procedure](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#rebuttal-windows-and-closure).
 
   - type: textarea
     id: challenge
