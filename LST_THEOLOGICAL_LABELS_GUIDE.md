@@ -7,6 +7,7 @@ This is a **translation key**, not a governing theological document.
 Living Systematic Theology does not begin with denominational or system labels and then force Scripture into them. The labels below are descriptive. They tell readers which familiar theological neighborhoods LST most closely resembles **after** its present conclusions have been reached from Scripture.
 
 If this guide ever conflicts with the current Living Systematic Theology or Creed, the current governing documents control.
+Last checked against Living Systematic Theology Version 2.5 (October 8, 2026).
 
 The basic rule is simple:
 
@@ -30,7 +31,7 @@ An even shorter comparison is:
 | Authority | Sola Scriptura | The sixty-six-book canon is final. Creeds, traditions, theologians, and AI are subordinate witnesses and tools. |
 | Method | Grammatical-historical-canonical, Christ-centered | Text, grammar, context, meaning, then theology. Later revelation may explain, extend, transform, or complete earlier revelation, but the inspired argument must establish the move. |
 | Doctrine of God | Classical Christian theism | God is eternal, omniscient, immutable, sovereign, and Triune. Divine simplicity is retained as a defended synthesis rather than a direct biblical formula. Biblical language about grief, relenting, desire, judgment, and response is not emptied to protect the synthesis. |
-| Trinity | Nicene / classical Trinitarian, with the Filioque unresolved | One essence in three coequal, coeternal persons. Eternal generation of the Son is a defended synthesis rather than a confession-level formula. Scripture says the Spirit proceeds from the Father, calls Him the Spirit of the Son and of Christ, and teaches the Son sends and pours Him out. LST does not presently judge "from the Father and the Son" over "from the Father through the Son" to be demonstrated. |
+| Trinity | Nicene / classical Trinitarian, with the Filioque unresolved | One essence in three coeternal persons who are equal in deity; that equality does not erase their personal distinctions or the ordered relations Scripture reveals among them. Eternal generation of the Son is a defended synthesis rather than a confession-level formula. Scripture says the Spirit proceeds from the Father, calls Him the Spirit of the Son and of Christ, and teaches the Son sends and pours Him out. LST does not presently judge "from the Father and the Son" over "from the Father through the Son" to be demonstrated. |
 | Providence and human agency | Reformed compatibilist | God's decree is comprehensive and certain, creatures act willingly and remain responsible, and compatibilism is treated as a useful description rather than an inspired metaphysical explanation. |
 | Humanity and sin | Augustinian-Reformed | Historical Adam, representative headship, moral and spiritual inability, real human responsibility, and the image of God marred but not erased. |
 | Creation | Conservative creationist; creation-day duration unresolved | LST treats the duration of days one through six as not demonstrated. Ordinary-day and analogical-day readings remain argued possibilities, and no particular earth-age model organizes the theology. |
