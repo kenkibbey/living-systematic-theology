@@ -25,6 +25,12 @@ body:
 
         You may appeal to theologians, confessions, church traditions, historical sources, linguistic work, or other research as evidence and context. None of those replaces the biblical case.
 
+        **Who reviews it?** LST is maintained by Ken Kibbey. AI tools may help research and challenge arguments, but official conclusions and publications require maintainer approval. Internal AI criticism is not independent peer review.
+
+        **What happens next?** Your GitHub issue is public. The maintainer may request clarification, queue or defer review, or take up the challenge for formal examination. There is no guaranteed response or adjudication deadline. The seven-day rebuttal periods begin only after a public adjudication, not when you submit the issue. See [How Challenges and Changes Work](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#what-happens-after-a-challenge-is-submitted).
+
+        Do not include private contact information or confidential material in a public issue.
+
         Opening an issue does not automatically mean LST should change. The challenge will be tested against Scripture, including the strongest biblical case for retaining the current position.
 
         Challenges receive a public disposition: **Sustained, Partially Sustained, Not Sustained, or Unresolved.** The response will explain whether LST changed and why. You may answer on the same issue in up to three substantive rebuttal rounds, with seven days after each adjudication. See [the rebuttal and closure procedure](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#rebuttal-windows-and-closure).
