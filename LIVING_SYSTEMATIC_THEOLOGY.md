@@ -1,5 +1,5 @@
 <h1 align="center">LIVING SYSTEMATIC THEOLOGY</h1>
-*A Christ-Centered, Scripture-Governed, Continuously Reforming Systematic Theology*
+<p align="center"><em>A Christ-Centered, Scripture-Governed, Continuously Reforming Systematic Theology</em></p>
 
 **VERSION 2.5**
 October 8, 2026
