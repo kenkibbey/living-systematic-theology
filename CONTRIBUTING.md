@@ -18,6 +18,12 @@ A GitHub issue, comment, vote, pull request, AI answer, theological tradition, o
 
 **Ken Kibbey** (GitHub account [kenkibbey](https://github.com/kenkibbey)) maintains LST and is responsible for official doctrinal revision and publication decisions. AI tools, including T.A.I.T., may assist with researching sources, reconstructing arguments, drafting assessments, and testing positions adversarially. These tools are **research assistants, not independent doctrinal authorities or autonomous publishers**. An AI role-playing a critic or reviewing its own analysis is **internal adversarial work, not independent peer review**. Claims of external, independent review must identify the actual reviewer or process and its limitations.
 
+## Public Revision Resistance Standard
+
+The [Revision Resistance guide](LST_REVISION_RESISTANCE_GUIDE.md) explains the biblical and evidential parameters used when a change is proposed, including the obligation to construct the strongest case for keeping the current formulation before weighing a proposed revision. Challengers can inspect those standards and hold the project to them. The guide identifies methodological questions currently under review rather than silently resolving them.
+
+Public adjudications should be sufficiently self-contained to inspect without access to internal deliberations. **Facebook conversations and private Thread Ledgers are not copied to GitHub or disclosed to support a public ruling.** Published GitHub submissions and approved public materials remain available as the public record.
+
 ## How to Challenge LST
 
 Open an Issue and choose **Challenge an LST Position**.
