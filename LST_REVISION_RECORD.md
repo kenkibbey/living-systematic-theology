@@ -2,6 +2,23 @@
 October 8, 2026
 Supersedes Version 2.4
 
+## REVISION 35
+Public Revision Resistance standards and privacy-preserving adjudication transparency
+
+October 9, 2026
+
+Methodological and public-disclosure clarification only. The current LIVING_SYSTEMATIC_THEOLOGY remains Version 2.5. No biblical interpretation, theological confidence grade, creed, or existing GitHub challenge verdict changes merely by publishing this policy.
+
+Revision Resistance case for retaining the previous arrangement: README.md and CONTRIBUTING.md already explained much of the procedure, the public verdict template already called for Scripture, fair consideration of both positions, and human publication approval, and the private Engagement Module already governed Revision Resistance. Publishing too much internal process risks confusing operational detail with theological authority or exposing participant-specific records. None of the new documentation should promise third-party peer review, imply AI conclusions are automatically correct, or quietly change the published three-round/seven-day rebuttal policy.
+
+Decision: Readers should be able to inspect the standards by which a biblical challenge is judged rather than simply accept a maintainer-approved or AI-assisted verdict. A separate public GitHub document, LST_REVISION_RESISTANCE_GUIDE.md, therefore states the strongest-retention-case requirement, equal treatment of the challenger, source and evidence coverage, distinction between claim and inference, surviving objections, possible revisions, material sources that could not be checked, AI role, human approval, and the ability to rebut. It explicitly records an unresolved methodological question about how one load-bearing verse relates to confession versus defended synthesis. No new grading rule is smuggled into current doctrine.
+
+CHALLENGE_VERDICT_TEMPLATE.md now requires an evidence-coverage check for material passages and source claims, disclosure of relevant source limitations and surviving pressure, differentiated filing-account and argument-provenance fields, and confirmation that a publicly checkable biblical argument rather than an AI-generated pronouncement supports the disposition. README.md and the GitHub issue submission form give newcomers prominent notice and link to the new guide; CONTRIBUTING.md links to the standards and states the privacy boundary.
+
+Private Facebook conversations, private correspondence, and participant-specific Thread Ledgers stay within the private working repository and are not published, excerpted, or synchronized to GitHub as adjudication evidence. Public verdicts must stand on public GitHub submissions, Scripture, accessible sources, and their own stated reasoning, not confidential exchanges. The Engagement Module has been explicitly amended to govern this boundary; its superseded state and this Revision Record's state were archived in Old Systematics before edits. Publicity about the method does not require disclosure of private operating prompts or private debates.
+
+The new guide and revised GitHub pages were individually committed and checked. This Revision Record entry describes an operational clarification, not completed doctrinal adjudication of Claude's separate open theological challenges.
+
 ## REVISION 34
 Public transparency on stewardship, AI assistance, and challenge submissions
 
