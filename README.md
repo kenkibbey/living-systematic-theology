@@ -39,13 +39,15 @@ If you are new to Living Systematic Theology, begin with the Creed for a shorter
 - **[How Challenges and Changes Work](CONTRIBUTING.md)** — How public challenges are examined, how revisions are approved, and how GitHub relates to the private LST working repository.
 - **[Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md)** — The standard public format used to record whether a challenge is sustained, partially sustained, not sustained, or unresolved.
 
-If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an Issue and choose **Challenge an LST Position**.
+If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
 
 ## How to Challenge LST
 
 If you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, you are invited to challenge it.
 
-Open an Issue and choose **Challenge an LST Position**.
+Open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
+
+**On mobile:** From the Issues page, tap the **+** in the upper-right corner to start a new issue, then select **Challenge an LST Position**.
 
 You do not need to write five separate essays. Submit **one coherent biblical argument**, but make sure your challenge gives us these five things:
 
