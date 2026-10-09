@@ -7,11 +7,12 @@ A verdict does not become authoritative merely because it is written by an AI, m
 ## Challenge
 
 **Issue:**  
-**Challenger:**  
+**Challenger (as publicly identified on this issue):**  
+**Filed from account / argument source if known (do not assume these are identical):**  
 **LST doctrine / wording challenged:**  
 **Proposed correction:**  
 **Maintainer approving public disposition:**  
-**AI assistance used, if any:**  
+**AI assistance used and its limitations (research, drafting, criticism, or none; do not guess):**  
 **Independent external review, if any (not internal AI critique):**  
 
 ## Review Status
@@ -58,6 +59,15 @@ Distinguish:
 
 Where lexical, grammatical, textual, historical, or background claims carry doctrinal weight, they should be verified before they are allowed to control the verdict.
 
+### Public Evidence-Coverage Check
+
+For each material biblical or historical point raised by the challenger, record **claim or passage → finding → remaining objection**. Identify independently consulted sources, disputed sources, and evidence that could not be checked. Do not call an argument refuted when the controlling passage or premise has not actually been examined.
+
+**Public sources consulted and their role:**  
+**Material sources not accessed or verified:**  
+**Strongest challenged premises still under pressure:**  
+**Specific evidence or reasoning that would change this verdict:**  
+
 ## 6. Symmetrical Test
 
 Apply the same evidentiary standard to both sides.
@@ -69,6 +79,10 @@ Do not revise an LST position merely because a competing interpretation is possi
 Ask in both directions:
 
 > **What did the inspired author intend, and does the whole counsel of Scripture sustain the conclusion?**
+
+### Accountability Check Before a Verdict
+
+Confirm the outcome is supported by the cited public reasoning, not merely an AI-generated conclusion. Distinguish a source-backed finding from the language model's own assessment. Identify unresolved evidence, even when the formal finding is NOT SUSTAINED. Human approval of a public response is required but does not establish independent peer review.
 
 ## 7. Verdict
 
@@ -103,6 +117,10 @@ Choose the appropriate action:
 No governing LST document is changed merely because a verdict recommends revision. Any actual governing change requires maintainer approval and the normal Google Drive versioning workflow.
 
 ## 9. Public Response to the Challenger
+
+The public issue response must be understandable without private Facebook conversations, participant-specific Thread Ledgers, or hidden AI deliberations. No such private material may be published or quoted in order to justify a GitHub verdict. Use Scripture, the public issue's argument, and independently citable public sources instead.
+
+Follow the complete [public Revision Resistance disclosure standard](LST_REVISION_RESISTANCE_GUIDE.md), including the strongest case for *retaining* LST, the strongest case *against* it, a source/evidence coverage record, a fair account of surviving objections, and clear authorship and review disclosures.
 
 The final GitHub response should tell the challenger:
 
