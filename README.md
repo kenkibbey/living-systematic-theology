@@ -96,3 +96,7 @@ The aim is not to create another theological tribe.
 It is to keep asking one question:
 
 > **What did God actually reveal, and how closely can our theology conform to it?**
+
+## License
+
+Original LST material is made available under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE), except where otherwise noted. Give appropriate credit and indicate modifications. Third-party Bible translations, images, and other externally owned content are not automatically covered. Reuse or adaptation does not make a work an official LST formulation.
