@@ -10,6 +10,9 @@ A verdict does not become authoritative merely because it is written by an AI, m
 **Challenger:**  
 **LST doctrine / wording challenged:**  
 **Proposed correction:**  
+**Maintainer approving public disposition:**  
+**AI assistance used, if any:**  
+**Independent external review, if any (not internal AI critique):**  
 
 ## Review Status
 
