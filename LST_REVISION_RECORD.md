@@ -1,4 +1,4 @@
-# VERSION 2.5
+<h1 align="center">VERSION 2.5</h1>
 October 8, 2026
 Supersedes Version 2.4
 
