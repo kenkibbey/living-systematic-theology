@@ -1,4 +1,4 @@
-# Contributing to Living Systematic Theology
+<h1 align="center">Contributing to Living Systematic Theology</h1>
 
 Living Systematic Theology welcomes serious biblical challenge.
 
