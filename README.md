@@ -44,6 +44,10 @@ If you believe any current LST position is wrong, overstated, understated, or in
 
 ## How to Challenge LST
 
+**You can check our reasoning, not just our verdict.** We do not treat a prompt asking AI to defend LST as proof that your challenge fails. For a formal public adjudication, we publish the strongest biblical case for *your challenge*, the strongest case for *retaining LST*, how the decisive texts and sources were examined, what remains unanswered, who approved the result, and any AI assistance or truly independent review. Read the [public Revision Resistance standards](LST_REVISION_RESISTANCE_GUIDE.md) and the [verdict template](CHALLENGE_VERDICT_TEMPLATE.md). You can contest omissions or errors on your issue.
+
+The standard is public, but **private Facebook conversations and Thread Ledgers are not**.
+
 If you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, you are invited to challenge it.
 
 Open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
