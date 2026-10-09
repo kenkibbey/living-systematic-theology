@@ -1,4 +1,4 @@
-# LST Challenge Verdict Template
+<h1 align="center">LST Challenge Verdict Template</h1>
 
 This template governs the public disposition of challenges submitted through the Living Systematic Theology GitHub repository.
 
