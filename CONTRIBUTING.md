@@ -14,6 +14,10 @@ This GitHub repository is the public publication and challenge repository. It ex
 
 A GitHub issue, comment, vote, pull request, AI answer, theological tradition, or opinion does not become LST doctrine merely because it appears here.
 
+## Stewardship, AI assistance, and independent review
+
+**Ken Kibbey** (GitHub account [kenkibbey](https://github.com/kenkibbey)) maintains LST and is responsible for official doctrinal revision and publication decisions. AI tools, including T.A.I.T., may assist with researching sources, reconstructing arguments, drafting assessments, and testing positions adversarially. These tools are **research assistants, not independent doctrinal authorities or autonomous publishers**. An AI role-playing a critic or reviewing its own analysis is **internal adversarial work, not independent peer review**. Claims of external, independent review must identify the actual reviewer or process and its limitations.
+
 ## How to Challenge LST
 
 Open an Issue and choose **Challenge an LST Position**.
@@ -33,6 +37,10 @@ You may appeal to theologians, confessions, church traditions, historical source
 ## What Happens After a Challenge Is Submitted
 
 A challenge is treated as a claim to examine, not as a verdict.
+
+**Initial handling.** Opening an issue puts it in the public submission queue. The maintainer reviews the issue, possibly with AI help, to identify the precise proposition, supporting passages, and whether it belongs in this challenge process. The maintainer may request clarification or sources, accept it for substantive review, queue or defer the examination because more work or available capacity is needed, or redirect a non-challenge to the appropriate discussion. If review is deferred, the issue should be marked accordingly and the reason explained when practicable. **Deferred and awaiting-clarification are administrative intake states, not rulings on biblical truth.** Neither a newly opened issue nor an automated issue alert is a completed theological review.
+
+**Timing and responsibility.** There is no guaranteed time to initial response or to a full adjudication. The issue itself is the place to check for progress; GitHub notifications depend on the submitter's settings. Ken retains responsibility for approving official results, changes to current governing documents, and publication. The separate seven-day windows are opportunities to rebut an **already published initial or renewed adjudication**; they do not start when an issue is submitted.
 
 The normal process is:
 
@@ -68,11 +76,12 @@ Every submitted challenge should have a visible status.
 The normal lifecycle is:
 
 1. **SUBMITTED** — The issue has been opened and is awaiting review.
-2. **UNDER REVIEW** — The challenge is being examined against the current governing LST documents and Scripture. A status label on the issue shows this status.
-3. **SUSTAINED** — The challenge requires a material LST change.
-4. **PARTIALLY SUSTAINED** — The challenge exposes a real defect, but does not establish the challenger’s entire proposed conclusion.
-5. **NOT SUSTAINED** — The present LST position survives the challenge at its current doctrinal level, though its wording or argument may still be clarified or strengthened.
-6. **UNRESOLVED** — The challenge creates substantial biblical pressure that cannot yet be responsibly settled in either direction.
+2. **AWAITING CLARIFICATION / DEFERRED** — An administrative pre-review state when information or review capacity is lacking; this is not a theological verdict.
+3. **UNDER REVIEW** — The challenge has entered substantive examination against the current governing LST documents and Scripture. A status label or issue update should show this status.
+4. **SUSTAINED** — The challenge requires a material LST change.
+5. **PARTIALLY SUSTAINED** — The challenge exposes a real defect, but does not establish the challenger’s entire proposed conclusion.
+6. **NOT SUSTAINED** — The present LST position survives the challenge at its current doctrinal level, though its wording or argument may still be clarified or strengthened.
+7. **UNRESOLVED** — The challenge creates substantial biblical pressure that cannot yet be responsibly settled in either direction.
 
 Post a self-contained adjudication on the same GitHub issue using the [LST Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md). Invite correction and rebuttal in that issue; run Revision Resistance again when a rebuttal supplies materially new evidence or exposes a material error.
 
