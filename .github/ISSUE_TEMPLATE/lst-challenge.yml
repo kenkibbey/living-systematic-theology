@@ -27,6 +27,8 @@ body:
 
         **Who reviews it?** LST is maintained by Ken Kibbey. AI tools may help research and challenge arguments, but official conclusions and publications require maintainer approval. Internal AI criticism is not independent peer review.
 
+        **How can you check the result?** A formal adjudication should publish your strongest relevant arguments, LST's strongest biblical response, the evidence and sources actually checked, important objections that remain, the reason for its verdict, the human approver, and any AI involvement. An AI response instructed to defend LST does not by itself establish that your challenge fails. See [Revision Resistance: Public Evaluation Standards](https://github.com/kenkibbey/living-systematic-theology/blob/main/LST_REVISION_RESISTANCE_GUIDE.md). Private Facebook conversations and Thread Ledgers are not used as public proof.
+
         **What happens next?** Your GitHub issue is public. The maintainer may request clarification, queue or defer review, or take up the challenge for formal examination. There is no guaranteed response or adjudication deadline. The seven-day rebuttal periods begin only after a public adjudication, not when you submit the issue. See [How Challenges and Changes Work](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#what-happens-after-a-challenge-is-submitted).
 
         Do not include private contact information or confidential material in a public issue.
