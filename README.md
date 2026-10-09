@@ -1,10 +1,10 @@
-# Living Systematic Theology
+<h1 align="center">Living Systematic Theology</h1>
 
 <p align="center">
   <img src="assets/living_systematic_theology.png" alt="Living Systematic Theology" width="900">
 </p>
 
-**A Christ-centered, Scripture-governed, continuously reforming systematic theology**
+<p align="center"><strong>A Christ-centered, Scripture-governed, continuously reforming systematic theology</strong></p>
 
 Living Systematic Theology, or **LST**, is a fallible attempt to state the theology of Scripture as faithfully and accurately as possible.
 
