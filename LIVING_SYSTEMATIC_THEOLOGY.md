@@ -1,4 +1,4 @@
-# LIVING SYSTEMATIC THEOLOGY
+<h1 align="center">LIVING SYSTEMATIC THEOLOGY</h1>
 *A Christ-Centered, Scripture-Governed, Continuously Reforming Systematic Theology*
 
 **VERSION 2.5**
