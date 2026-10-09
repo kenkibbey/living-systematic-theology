@@ -2,6 +2,21 @@
 October 8, 2026
 Supersedes Version 2.4
 
+## REVISION 34
+Public transparency on stewardship, AI assistance, and challenge submissions
+
+October 9, 2026
+
+Operational and public-facing clarification only. LIVING_SYSTEMATIC_THEOLOGY remains Version 2.5; no doctrine, confession, biblical argument, or theological confidence grade changed.
+
+Revision Resistance: The existing public README already described AI's research value, and CONTRIBUTING.md already described the eight-stage formal adjudication process and public rebuttal windows. Adding separate role disclosures and intake guidance creates more text and must not be allowed to invent an automatic theological verdict, imply third-party oversight, or replace the established review standards. Nevertheless, those pages did not adequately identify the responsible project maintainer, distinguish AI-generated internal criticism from independent peer review, or explain what happens to a submission before formal examination. Transparency and accurate expectations warrant a targeted clarification rather than changing the adjudication rules.
+
+ENGAGEMENT_MODULE_LST now specifies that Ken Kibbey operates LST and controls approval of governing revisions and official publications; AI tools assist research, argument testing, and drafting without independent authority. AI-generated adversarial critique is not independent peer review. It also distinguishes submitted, clarification-needed, queued or deferred, and under-review issues from final biblical verdicts; deferral is not a rejection. No initial response or adjudication deadline is guaranteed. The existing seven-day windows begin only after a published initial or renewed adjudication, never at issue submission.
+
+The public GitHub README and CONTRIBUTING.md now disclose maintainer responsibility, AI involvement, review limitations, intake handling, possible clarification or deferral, and the absence of a guaranteed initial response time. The challenge issue form explains the same facts before submission and reminds users that GitHub issues are public. CHALLENGE_VERDICT_TEMPLATE.md now provides explicit fields identifying the human decision-maker, AI assistance, and any genuinely independent external review.
+
+Existing doctrinal authority, Revision Resistance, three rebuttal rounds, seven-day post-adjudication response windows, and owner approval requirements are preserved. Superseded governing documents were archived before revision. Publication to GitHub and live Drive readback were verified independently.
+
 ## REVISION 33
 Operating-rule consolidation and repository architecture
 
