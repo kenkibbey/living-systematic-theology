@@ -1,4 +1,4 @@
-# LST Theological Labels Guide
+<h1 align="center">LST Theological Labels Guide</h1>
 
 ## What This Guide Is
 
