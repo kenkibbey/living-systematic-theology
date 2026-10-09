@@ -2,6 +2,33 @@
 October 8, 2026
 Supersedes Version 2.4
 
+## REVISION 33
+Operating-rule consolidation and repository architecture
+
+October 8, 2026
+
+Methodological and organizational revision only. LIVING_SYSTEMATIC_THEOLOGY remains Version 2.5; no new biblical doctrine, doctrinal confidence grade, or confession is changed.
+
+Revision Resistance — strongest case for retention: The previous brief versioning rule was intelligible, and multiple copies could make workflows available without requiring additional document reads. Reducing a previously defended conclusion to argued possibility had appropriately counted as minor in Versions 2.1 and 2.2. Reorganizing working ledgers and test artifacts risks concealing historical context and could make a directory or AI verdict seem authoritative.
+
+Decision: Clarify, do not reverse, the inherited rules. The Bootstrap now explicitly governs versioning. A substantive abandonment of a positive doctrinal conclusion, including reduction to not demonstrated when the conclusion is withdrawn, counts as major. A reduction from defended synthesis to argued possibility remains minor when the interpretation is still live. This reconciles the public explanation with the recorded Version 2.1–2.2 practice. Scripture and the current Systematic remain authoritative; historical records are preserved.
+
+TAIT_PROMPT_LST now summarizes the Bootstrap versioning rule, distinguishes private operating instructions from public doctrine, supports platform-native copying outside ChatGPT, and delegates public challenge adjudication to ENGAGEMENT_MODULE_LST. Misplaced adjudication and debate-status sections were moved to their appropriate locations without surrendering their substantive protections.
+
+ENGAGEMENT_MODULE_LST now distinguishes GitHub Markdown adjudication from Facebook copy-ready formatting, supports other platforms, and states a practical rule for sharing GitHub links in Facebook groups. The existing three-rebuttal-round and seven-day windows remain intact.
+
+The Bootstrap gained a release checklist and file map, routing through 00_THREAD_LEDGER_INDEX, an engineering route, a historical snapshot naming convention, and routing to a Theological System Tests register. It continues to subordinate all architecture to live governing files.
+
+00_THREAD_LEDGER_INDEX was created in Thread Ledgers. Most existing ledgers received consistent searchable titles; the index keeps live document IDs and preserves participant-specific history. Several broken present-tense ledger references were corrected. Unverified or non-identical duplicated material was not silently deleted.
+
+Theological System Tests now contains 00_TESTS_REGISTER and a Prompts folder. Five reusable audit prompts were moved there. Source reports were retitled to remove misleading unresolved labels; comparative criticisms 1, 2, 3, 7, and 8 are tracked as addressed while 4, 5, 6, 9, and 10 remain open. A test result has no authority over LST.
+
+The rebranding ledger and reusable adversarial audit prompt had stale file references repaired. Old Systematics retained historical governing snapshots, and its context-reset predecessor was labeled clearly. Posts gained an Archive folder; old SAT-era posts began receiving explicit historical labels. A third-party video transcript was moved to Supporting Documents. No missing historical files were invented.
+
+Public GitHub CONTRIBUTING.md was clarified regarding status labels and the versioning distinction. The challenge issue template now states the public rebuttal procedure. Verdict labels were applied to historical issues; Issues #22, #23, and #24 are identified as having rebuttal windows open. The supplied adjudications and active issue contexts were not overwritten.
+
+These changes reflect verified actions in this work phase. Remaining blocked, optional, or owner-only changes are not claimed completed here. Historical snapshots preceded edits to the governing files. The GitHub mirror of this entry requires independent verification before it may be called published.
+
 ## REVISION 32
 Synchronization of operating references with current governing doctrine
 
