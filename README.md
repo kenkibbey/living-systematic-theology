@@ -38,6 +38,7 @@ If you are new to Living Systematic Theology, begin with the Creed for a shorter
 - **[Theological Labels Guide](LST_THEOLOGICAL_LABELS_GUIDE.md)** — A quick comparison showing which familiar theological traditions LST most closely resembles in each major area, without making those labels authoritative.
 - **[How Challenges and Changes Work](CONTRIBUTING.md)** — How public challenges are examined, how revisions are approved, and how GitHub relates to the private LST working repository.
 - **[Revision Resistance: How Proposed Changes Are Tested](LST_REVISION_RESISTANCE_GUIDE.md)** — The public standards for weighing the strongest biblical case for retaining or revising LST, with an explicit boundary protecting private conversations.
+- **[Official AI Auditor Prompt — Test Your Challenge Before Posting](LST_OFFICIAL_AI_AUDITOR_PROMPT.md)** — Copy the official public Revision Resistance prompt, add LST's current position and your biblical challenge, and see the strongest case for and against it. You can test your own theology, too.
 - **[Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md)** — The standard public format used to record whether a challenge is sustained, partially sustained, not sustained, or unresolved.
 
 If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
