@@ -2,6 +2,21 @@
 October 10, 2026
 Supersedes Version 2.5
 
+## REVISION 39
+Clean-session guidance for the official public AI auditor
+
+October 10, 2026
+
+Operational and public-facing audit guidance only. LIVING_SYSTEMATIC_THEOLOGY remains Version 2.6; no doctrinal formulation, confidence grade, official challenge verdict, or submission requirement has changed.
+
+Revision Resistance for retaining the old public instructions: the official AI auditor already required equal standards, independently verified sources, an exact current LST formulation, and no built-in presumption for either side. A fresh chat alone cannot make an AI genuinely neutral or independent, and adding operational instructions can create a false guarantee of impartiality. The public test must remain optional, not a barrier to any GitHub issue.
+
+Case for clarification: an AI account with saved user beliefs, earlier conversations, or customized theological instructions can skew an otherwise symmetrical pre-submission exercise. Visitors unfamiliar with that risk could unknowingly prime the audit or mistake a browser incognito window for an unpersonalized AI session.
+
+Decision: On LST_OFFICIAL_AI_AUDITOR_PROMPT.md, immediately before the copyable auditor prompt, provide a practical clean-session recommendation. Users should begin a fresh temporary/guest or otherwise unpersonalized AI chat where available; avoid saved memory, customization, prior theological prompting, attached ideological knowledge, and a preassigned preferred verdict; run the official prompt first, then submit the complete current theological claim and fair opposing evidence. Explain that browser incognito mode alone may not disable AI-account memory and that no AI session guarantees impartiality or independent peer review. The public prompt remains optional and cannot screen out an LST challenge.
+
+The public GitHub prompt and its Drive counterpart in Theological System Tests / Prompts were updated and checked. The prior prompt state and Revision Record state were archived before the relevant edits. The README remains the only page introducing T.A.I.T. | The AI Theologian; other public references use the designation without repeating that introduction. Private operating prompts, conversations, and Thread Ledgers remain private.
+
 ## REVISION 38
 T.A.I.T. | The AI Theologian: standardized identification
 October 10, 2026
