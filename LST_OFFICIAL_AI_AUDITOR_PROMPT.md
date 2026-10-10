@@ -8,6 +8,16 @@ This is the **official public, reusable prompt** for testing a proposed challeng
 
 **Important:** This is a reproducible public implementation of LST's current testing rules, not a release of the private **T.A.I.T. | The AI Theologian** operating instructions. Running it does **not** constitute an official LST adjudication, a pass/fail gate to GitHub, or independent peer review. Different AI systems may reach different provisional results. **You may open an issue even when your AI says your challenge is weak, incomplete, or not sustained.** You do not need to disclose a private AI chat; submit the biblical case itself. No Facebook conversations or private Thread Ledgers are needed.
 
+## Before You Copy: Use a Clean AI Session
+
+For a fairer audit, **start a fresh, unpersonalized AI conversation**. Prefer a temporary chat, guest session, or equivalent mode that does not draw on your previous discussions. Avoid custom instructions, memories, personalized assistants, projects, and attached knowledge that already reflect your theology.
+
+**Do not prime the AI first.** Make the official auditor prompt your first substantive instruction. Then give it the current LST text (including relevant qualifications), the exact claim under challenge, your proposed correction, and the strongest biblical evidence on both sides. You can use your own theology in place of LST, but don't instruct the model beforehand to defend or defeat either side.
+
+**Incognito browser mode alone is not enough.** If you sign into the same AI account, saved memories or customization may still apply. Check the AI service's own temporary-chat and personalization settings. A fresh chat reduces unwanted influence but cannot guarantee a neutral model or independent peer review; verify passages and sources yourself.
+
+This setup is optional. An AI verdict is preliminary and **cannot prevent anyone from submitting an LST issue**.
+
 ## Copy this entire prompt
 
 ```text
