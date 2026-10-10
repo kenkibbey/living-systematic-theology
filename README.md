@@ -12,6 +12,18 @@ It is not built around loyalty to Calvinism, Arminianism, Covenant Theology, Dis
 
 **Scripture has the final word.**
 
+## Start Here
+
+**New to LST? You do not need to read the whole Systematic to begin.** Pick the path that fits you:
+
+1. **[LST in Five Minutes](LST_IN_FIVE_MINUTES.md)** — A plain-language introduction to the purpose, beliefs, confidence levels, and challenge process.
+2. **[Read the Creed](LST_CREED.md)** — A shorter summary of what LST confesses, what it defends as synthesis, and what it leaves unresolved.
+3. **[Explore the full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md#contents)** — Choose a chapter using its clickable contents list, then examine the biblical arguments and counterevidence.
+
+**Need help with the terminology?** See the [plain-language glossary](LST_GLOSSARY.md). **Wonder how LST compares with familiar traditions?** See the [Theological Labels Guide](LST_THEOLOGICAL_LABELS_GUIDE.md). Neither guide replaces the current Systematic.
+
+**Disagree with a position?** Go straight to [How to Challenge LST](#how-to-challenge-lst). Serious questions and corrections are welcome.
+
 ## Who runs LST and how AI is used
 
 Living Systematic Theology is maintained by **Ken Kibbey** ([GitHub: kenkibbey](https://github.com/kenkibbey)), who controls official revisions and publication decisions.
@@ -30,54 +42,25 @@ The goal is not caution for its own sake, compromise between theological camps, 
 
 The goal is **faithfulness**.
 
-## Start Here
-
-If you are new to Living Systematic Theology, begin with the Creed for a shorter overview of what LST presently teaches.
-
-- **[LST Creed](LST_CREED.md)** — A concise summary of LST's current theological positions and confidence levels.
-- **[Living Systematic Theology](LIVING_SYSTEMATIC_THEOLOGY.md)** — The full current systematic theology, including biblical arguments, qualifications, counterevidence, and unresolved questions.
-- **[Revision Record](LST_REVISION_RECORD.md)** — The documented history of significant changes to LST, including what changed and why.
-- **[Theological Labels Guide](LST_THEOLOGICAL_LABELS_GUIDE.md)** — A quick comparison showing which familiar theological traditions LST most closely resembles in each major area, without making those labels authoritative.
-- **[How Challenges and Changes Work](CONTRIBUTING.md)** — How public challenges are examined, how revisions are approved, and how GitHub relates to the private LST working repository.
-- **[Revision Resistance: How Proposed Changes Are Tested](LST_REVISION_RESISTANCE_GUIDE.md)** — The public standards for weighing the strongest biblical case for retaining or revising LST, with an explicit boundary protecting private conversations.
-- **[Official AI Auditor Prompt — Test Your Challenge Before Posting](LST_OFFICIAL_AI_AUDITOR_PROMPT.md)** — Copy the official public Revision Resistance prompt, add LST's current position and your biblical challenge, and see the strongest case for and against it. You can test your own theology, too.
-- **[Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md)** — The standard public format used to record whether a challenge is sustained, partially sustained, not sustained, or unresolved.
-
-If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
-
-For the seven Claude theological challenges examined October 10, see [Revision 36](LST_REVISION_RECORD.md#revision-36). LST's present Systematic is Version 2.6, with a minor refinement to its wording about the unity of the divine decree.
-
 ## How to Challenge LST
 
-**You can check our reasoning, not just our verdict.** We do not treat a prompt asking AI to defend LST as proof that your challenge fails. For a formal public adjudication, we publish the strongest biblical case for *your challenge*, the strongest case for *retaining LST*, how the decisive texts and sources were examined, what remains unanswered, who approved the result, and any AI assistance or truly independent review. Read the [public Revision Resistance standards](LST_REVISION_RESISTANCE_GUIDE.md) and the [verdict template](CHALLENGE_VERDICT_TEMPLATE.md). You can contest omissions or errors on your issue.
+**You do not need to be a theologian to challenge a claim.** If you think LST has something wrong, says too much, says too little, or has not shown enough biblical evidence, you are welcome to make that case.
 
-The standard is public, but **private Facebook conversations and Thread Ledgers are not**.
+To submit a challenge, open the [GitHub Issues page](https://github.com/kenkibbey/living-systematic-theology/issues) and select **Challenge an LST Position**. You will need a GitHub account. **On mobile**, use the **+** button on the Issues page to start an issue when that option is shown.
 
-If you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, you are invited to challenge it.
+You can write **one clear argument**; there is no need for five separate essays. Please include:
 
-Open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
+1. **The claim:** Which LST passage or doctrine are you challenging?
+2. **The concern:** What, specifically, do you think it gets wrong or has not established?
+3. **The biblical evidence:** Which passages make your case, and why?
+4. **The proposed correction:** What do you believe LST should say instead?
+5. **A fair test:** What biblical evidence or argument would lead you to keep the current position?
 
-**On mobile:** From the Issues page, tap the **+** in the upper-right corner to start a new issue, then select **Challenge an LST Position**.
+**What happens next?** The challenge may need clarification or wait for examination; opening an issue does not start a guaranteed response deadline. During formal review LST examines the strongest biblical case **for the present position and for the challenge**. The written public result explains whether the challenge is sustained, partly sustained, not sustained, or unresolved. After a published adjudication, there can be up to three substantive rebuttal rounds, with a seven-day reply window after each adjudication while rounds remain. Silence does not prove that LST is right.
 
-You do not need to write five separate essays. Submit **one coherent biblical argument**, but make sure your challenge gives us these five things:
+For the exact rules, read [How Challenges and Changes Work](CONTRIBUTING.md), the [Revision Resistance Guide](LST_REVISION_RESISTANCE_GUIDE.md), and the [Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md). You can also use the [optional Official AI Auditor Prompt](LST_OFFICIAL_AI_AUDITOR_PROMPT.md) before posting. **An AI verdict cannot block your challenge.**
 
-1. **The exact LST position you are challenging.** Quote it if possible, or identify the doctrine or chapter.
-2. **What you believe LST gets wrong.** Explain whether you think it is false, overstated, understated, misunderstood, or insufficiently demonstrated.
-3. **Your strongest biblical case.** Give the Scripture passages and explain how they support your challenge.
-4. **What you believe LST should say instead.** You do not need perfect wording. State the conclusion you believe Scripture requires.
-5. **What would convince you the current LST position should remain.** Make the challenge testable by explaining what biblical evidence or argument would change your mind.
-
-You may bring historical theology, confessions, linguistic research, commentaries, or other supporting material, but those do not replace the biblical case.
-
-**You do not need to be a theologian. You do not need technical language. You do need to show why you believe Scripture requires LST to change.**
-
-Accepted substantive challenges are examined toward a public disposition of **Sustained, Partially Sustained, Not Sustained, or Unresolved**, explaining whether LST changed. An issue may first await clarification, be queued, or be deferred; none of those intake states is a theological verdict.
-
-**What happens after submission?** The project maintainer reviews incoming issues, sometimes with AI assistance, to identify the claim and supporting biblical case. The maintainer may request clarification, queue or defer examination (with an explanation when practicable), or begin formal review. There is **no guaranteed initial response or adjudication date**. The seven-day period applies **after a public adjudication**, not after you open an issue. See [the full intake and review procedure](CONTRIBUTING.md#what-happens-after-a-challenge-is-submitted).
-
-Challengers may answer on the same issue in up to **three rebuttal rounds**, with **seven days after each adjudication** while rounds remain. A timely rebuttal is examined before closure. If no rebuttal arrives within the window, the current decision becomes final for that challenge; silence is not proof that LST is correct. See [the full rebuttal and closure procedure](CONTRIBUTING.md#rebuttal-windows-and-closure).
-
-Only the **Living Systematic Theology itself** carries the active semantic version number. Supporting governing documents use stable filenames so public links do not become stale when LST advances to a new release.
+The [Revision Record](LST_REVISION_RECORD.md) documents important changes. **Scripture is the final authority; AI assistance and public comments do not themselves decide doctrine.** Private Facebook conversations, correspondence, and participant Thread Ledgers are not published as part of the challenge record.
 
 ## Why This Project Exists
 
