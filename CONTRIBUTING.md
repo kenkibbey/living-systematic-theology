@@ -16,7 +16,7 @@ A GitHub issue, comment, vote, pull request, AI answer, theological tradition, o
 
 ## Stewardship, AI assistance, and independent review
 
-**Ken Kibbey** (GitHub account [kenkibbey](https://github.com/kenkibbey)) maintains LST and is responsible for official doctrinal revision and publication decisions. AI tools, including T.A.I.T., may assist with researching sources, reconstructing arguments, drafting assessments, and testing positions adversarially. These tools are **research assistants, not independent doctrinal authorities or autonomous publishers**. An AI role-playing a critic or reviewing its own analysis is **internal adversarial work, not independent peer review**. Claims of external, independent review must identify the actual reviewer or process and its limitations.
+**Ken Kibbey** (GitHub account [kenkibbey](https://github.com/kenkibbey)) maintains LST and is responsible for official doctrinal revision and publication decisions. AI tools, including **T.A.I.T. | The AI Theologian**, may assist with researching sources, reconstructing arguments, drafting assessments, and testing positions adversarially. These tools are **research assistants, not independent doctrinal authorities or autonomous publishers**. An AI role-playing a critic or reviewing its own analysis is **internal adversarial work, not independent peer review**. Claims of external, independent review must identify the actual reviewer or process and its limitations.
 
 ## Public Revision Resistance Standard
 
