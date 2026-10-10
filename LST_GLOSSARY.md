@@ -4,6 +4,8 @@
 
 This is a **reader's aid**, not a replacement for the [Creed](LST_CREED.md) or [full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md). Some words have different meanings across Christian traditions. The linked sections show what LST actually argues.
 
+**These explanations describe LST's current language and positions, not unchangeable conclusions.** If Scripture requires LST to revise a claim, the current Systematic—and, where needed, this guide—should change to match.
+
 ## Understanding the method
 
 **Systematic theology:** Studying the Bible's teaching on related subjects together, rather than treating each passage as isolated. See [LST's foundation](LIVING_SYSTEMATIC_THEOLOGY.md#1-theological-foundation-authority-and-living-method).
