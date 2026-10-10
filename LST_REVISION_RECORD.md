@@ -25,6 +25,13 @@ G7: PARTIALLY SUSTAINED as an evidential-method complaint. The sixty-six-book co
 
 The full separate G1–G7 adjudication includes the competing cases, open pressure and research-source limits. These seven requested reexaminations have received reasoned findings, but unresolved subordinate biblical and historical questions can be reopened. No Facebook conversations or private Thread Ledgers are in the public case. Other active GitHub issues retain their own rebuttal windows.
 
+SUPPLEMENT TO REVISION 36 — PUBLIC EVIDENCE MAP
+Each challenge is judged by what its passages actually establish, not an AI vote. Full examination remains in the separate Drive audit report.
+
+G2 RETENTION: John 1:1–3; 17:5,24; Hebrews 1:3 affirm eternal Sonship and intimate relation. John 5:26 and Johannine monogenes support the eternal-generation synthesis. COUNTERCASE: Monogenes may denote unique sonship rather than a metaphysical begetting; Psalm 2:7 in Acts 13:33 and Hebrews 1:5;5:5 speaks of historical royal/priestly appointment, and John 5:26 occurs amid mediatorial authority. RESULT: strong but not directly compelled technical inference; defended synthesis retained. Irons's lexical case was considered without representing the entire 2017 chapter as independently accessed.
+
+G3 EVIDENCE: Daniel 12:2's everlasting shame strengthens the positive punishment case. Isaiah 66:24 uses the same contempt term for spectators viewing corpses, so the verse does not prove continuous subjective experience. Matthew 25:46 and Revelation 14:11 retain serious opposing force. The exact duration of human consciousness remains unresolved.
+
 ## REVISION 35
 Public Revision Resistance standards and privacy-preserving adjudication transparency
 
