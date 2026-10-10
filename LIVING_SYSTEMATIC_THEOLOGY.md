@@ -1,8 +1,8 @@
 <h1 align="center">LIVING SYSTEMATIC THEOLOGY</h1>
 <p align="center"><em>A Christ-Centered, Scripture-Governed, Continuously Reforming Systematic Theology</em></p>
 
-**VERSION 2.5**
-October 8, 2026
+**VERSION 2.6**
+October 10, 2026
 
 Living Systematic Theology (LST) is a fallible systematic theology deliberately constructed so that Scripture can continually master it. The theology may be corrected, qualified, reorganized, or abandoned at any point where the written Word of God requires it. Scripture does not evolve with LST. LST evolves under Scripture.
 
@@ -148,7 +148,7 @@ God's righteous opposition to evil is genuine. His invitation to repent is since
 
 ## 4. THE ETERNAL DECREE AND PROVIDENCE
 
-God works all things according to the counsel of His will (Ephesians 1:11). His decree is singular, eternal, immutable, and comprehensive, encompassing creation, human history, redemption, judgment, and consummation. What occurs in time actualizes rather than alters this purpose. God's plan is neither a sequence of divine improvisations nor a response to events He could not foresee (Isaiah 46:9-11; Acts 2:23; 4:27-28).
+God works all things according to the counsel of His will (Ephesians 1:11). His eternal purpose is unified, immutable, and comprehensive, encompassing creation, human history, redemption, judgment, and consummation. What occurs in time actualizes rather than alters this purpose. God's plan is neither a sequence of divine improvisations nor a response to events He could not foresee (Isaiah 46:9-11; Acts 2:23; 4:27-28; Ephesians 3:11). LST defends describing the divine decree as singular insofar as this expresses God's one coherent eternal counsel; the stricter technical assertion that there is numerically one decree rather than distinguishable divine purposes is a theological synthesis, not a distinct proposition directly established by these verses. The plural descriptions of God's purposes (Jeremiah 49:20; 50:45) do not overturn their unity but do caution against treating grammatical singulars as a metaphysical count.
 
 LST uses the term Sovereign Actualization for this relation between God's eternal purpose and its historical accomplishment. The term does not mean that God moves from possibility to completion, gains knowledge, or becomes more fully Himself. It means that the purpose eternally known and willed by God is brought to pass in creaturely history. Sovereign Actualization names the causal certainty and execution of the purpose, not the ultimate end for which God purposes all things.
 
