@@ -42,6 +42,8 @@ If you are new to Living Systematic Theology, begin with the Creed for a shorter
 
 If you believe any current LST position is wrong, overstated, understated, or inadequately demonstrated, open an [Issue](https://github.com/kenkibbey/living-systematic-theology/issues) and choose **Challenge an LST Position**.
 
+For the seven Claude theological challenges examined October 10, see [Revision 36](LST_REVISION_RECORD.md#revision-36). LST's present Systematic is Version 2.6, with a minor refinement to its wording about the unity of the divine decree.
+
 ## How to Challenge LST
 
 **You can check our reasoning, not just our verdict.** We do not treat a prompt asking AI to defend LST as proof that your challenge fails. For a formal public adjudication, we publish the strongest biblical case for *your challenge*, the strongest case for *retaining LST*, how the decisive texts and sources were examined, what remains unanswered, who approved the result, and any AI assistance or truly independent review. Read the [public Revision Resistance standards](LST_REVISION_RESISTANCE_GUIDE.md) and the [verdict template](CHALLENGE_VERDICT_TEMPLATE.md). You can contest omissions or errors on your issue.
