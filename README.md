@@ -12,6 +12,8 @@ It is not built around loyalty to Calvinism, Arminianism, Covenant Theology, Dis
 
 **Scripture has the final word.**
 
+**This is where LST currently stands—not necessarily where it will remain.** The positions in this repository reflect our present understanding of Scripture, not a finished system whose conclusions are protected from correction. If you can show from Scripture that a position is wrong, incomplete, overstated, or understated, **we welcome your challenge**. We will examine the strongest biblical case for keeping the current position and the strongest case for changing it. Where Scripture requires a correction, LST must change. Where Scripture sustains a conclusion, LST should state it with the confidence the evidence warrants.
+
 ## Start Here
 
 **New to LST? You do not need to read the whole Systematic to begin.** Pick the path that fits you:
