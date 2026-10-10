@@ -7,7 +7,7 @@ This is a **translation key**, not a governing theological document.
 Living Systematic Theology does not begin with denominational or system labels and then force Scripture into them. The labels below are descriptive. They tell readers which familiar theological neighborhoods LST most closely resembles **after** its present conclusions have been reached from Scripture.
 
 If this guide ever conflicts with the current Living Systematic Theology or Creed, the current governing documents control.
-Last checked against Living Systematic Theology Version 2.5 (October 8, 2026).
+Last checked against Living Systematic Theology Version 2.6 (October 10, 2026). The October 10 refinement concerns the technical grading of the numerical unity of the divine decree, not a change of the labels described in this guide.
 
 The basic rule is simple:
 
