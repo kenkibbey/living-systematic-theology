@@ -24,6 +24,12 @@ The [Revision Resistance guide](LST_REVISION_RESISTANCE_GUIDE.md) explains the b
 
 Public adjudications should be sufficiently self-contained to inspect without access to internal deliberations. **Facebook conversations and private Thread Ledgers are not copied to GitHub or disclosed to support a public ruling.** Published GitHub submissions and approved public materials remain available as the public record.
 
+## Optional AI Pre-Submission Audit
+
+Before opening a challenge, you may [copy the Official LST AI Auditor Prompt](LST_OFFICIAL_AI_AUDITOR_PROMPT.md) into any AI. Provide the **current** LST passage and grade, your proposed correction, and the strongest biblical evidence. The prompt reproduces the public Revision Resistance examination rules, including the strongest case for keeping LST before testing a change. You can also run it against your own theology.
+
+**This is not required.** An AI's preliminary verdict is not an official LST decision and does not determine whether your issue can be submitted. The human-reviewed, public process below still applies.
+
 ## How to Challenge LST
 
 Open an Issue and choose **Challenge an LST Position**.
