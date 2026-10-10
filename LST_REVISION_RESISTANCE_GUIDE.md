@@ -33,12 +33,14 @@ A reader should be able to understand and challenge the outcome **without trusti
 
 **Fair evidence map:** Ideally the public verdict identifies *challenge raised → passage/source examined → finding → remaining objection*, especially where the challenger supplied numerous substantive countertexts. If an essential point remains unexamined, label the outcome provisional or unresolved to that extent rather than claiming the point was refuted.
 
-## Open Methodological Question
+## Version 2.6 Confidence-Grading Clarification
 
 Revision Resistance G1 was adjudicated in LST Version 2.6 ([Revision 36](LST_REVISION_RECORD.md#revision-36)). A claim directly and clearly taught by Scripture can be confessed even if supported by one decisive verse; the number of verses is not a mechanical grade. A technical proposition that requires inference remains synthesis unless the cumulative biblical case necessarily establishes it. Individual doctrinal grades remain open to further textual examination.
 
 ## Privacy
 
 The public methodology and GitHub challenge rulings are examinable. Private Facebook conversations and LST Thread Ledgers are not shared or synchronized to GitHub.
+
+To test a proposed correction yourself, copy the [Official LST AI Auditor Prompt](LST_OFFICIAL_AI_AUDITOR_PROMPT.md) and supply the current formulation and your strongest biblical challenge. This optional AI exercise cannot approve or exclude a public issue.
 
 See [Contributing](CONTRIBUTING.md) for public challenges and rebuttal windows and the [Revision Record](LST_REVISION_RECORD.md) for changes.
