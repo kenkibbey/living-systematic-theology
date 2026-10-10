@@ -4,6 +4,8 @@
 
 **The short version:** Living Systematic Theology (LST) is a Christian theology that is meant to be corrected whenever Scripture requires it. The Bible is the authority; LST is a human attempt to understand it faithfully.
 
+**This is where LST stands today, not necessarily where it will stay.** Its current beliefs and conclusions are the results of study so far. If you can show from Scripture that LST has misunderstood something, missed important evidence, said too much, or said too little, your challenge is welcome. The goal is not change for its own sake; it is to correct the theology whenever God's Word requires it.
+
 This page is a **reading guide, not a new creed or an independent statement of doctrine**. If anything here seems incomplete or differs from the current [Systematic](LIVING_SYSTEMATIC_THEOLOGY.md), the Systematic states LST's current position, and Scripture is the final authority.
 
 ## 1. What makes LST different?
