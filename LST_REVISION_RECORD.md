@@ -2,6 +2,16 @@
 October 10, 2026
 Supersedes Version 2.5
 
+## REVISION 38
+T.A.I.T. | The AI Theologian: standardized identification
+October 10, 2026
+
+Change: The public README alone now provides a brief introduction to T.A.I.T. | The AI Theologian as a prompt-based AI theologian working from the current version of LST. The contribution guide and public AI Auditor Prompt use the full designation without repeated introductions. The current Bootstrap, Engagement Module, TAIT_PROMPT_LST, and Project Engineer Reference also identify T.A.I.T. | The AI Theologian without additional introductory descriptions. Historical entries remain as originally recorded.
+
+Retention case: Preserve the previous descriptions of AI assistance, human control of official revisions, Scripture as final authority, and privacy of T.A.I.T.'s internal instructions. Revision case: A reader unfamiliar with T.A.I.T. could mistake the name for an unspecified AI or confuse it with the publicly copyable Revision Resistance auditor. Clarify the identity without publishing its internal prompt or altering doctrine.
+
+Result: Naming and documentation clarification only. LIVING_SYSTEMATIC_THEOLOGY remains Version 2.6; no doctrinal text, confidence grade, claim, or challenge disposition changes. The official public AI Auditor Prompt is a separate copyable aid, not the private T.A.I.T. | The AI Theologian operating prompt. The changed current Bootstrap, Engagement Module, T.A.I.T. Prompt, Engineer Reference, and Revision Record had superseded states archived in Old Systematics before this final naming cleanup. Public GitHub publication is verified independently.
+
 ## REVISION 37
 Official public AI auditor prompt for optional pre-submission Revision Resistance
 
