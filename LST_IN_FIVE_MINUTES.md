@@ -1,4 +1,4 @@
-# Living Systematic Theology in Five Minutes
+<h1 align="center">Living Systematic Theology in Five Minutes</h1>
 
 *A short introduction for readers who are new to LST*
 
