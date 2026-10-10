@@ -35,7 +35,7 @@ A reader should be able to understand and challenge the outcome **without trusti
 
 ## Open Methodological Question
 
-The precise rule distinguishing confession-level teaching from defended synthesis, especially for a proposition resting heavily on one verse, is under examination. This guide does not settle that question or impose a minimum verse count.
+Revision Resistance G1 was adjudicated in LST Version 2.6 ([Revision 36](LST_REVISION_RECORD.md#revision-36)). A claim directly and clearly taught by Scripture can be confessed even if supported by one decisive verse; the number of verses is not a mechanical grade. A technical proposition that requires inference remains synthesis unless the cumulative biblical case necessarily establishes it. Individual doctrinal grades remain open to further textual examination.
 
 ## Privacy
 
