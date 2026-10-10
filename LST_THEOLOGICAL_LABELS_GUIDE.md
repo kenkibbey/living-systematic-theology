@@ -4,6 +4,8 @@
 
 This is a **translation key**, not a governing theological document.
 
+**These labels describe where LST currently stands, not where it promises to stay.** Its positions and the labels that happen to describe them may change when stronger biblical evidence requires a different conclusion. Readers are welcome to challenge the underlying doctrine from Scripture; the labels themselves have no authority over the text.
+
 Living Systematic Theology does not begin with denominational or system labels and then force Scripture into them. The labels below are descriptive. They tell readers which familiar theological neighborhoods LST most closely resembles **after** its present conclusions have been reached from Scripture.
 
 If this guide ever conflicts with the current Living Systematic Theology or Creed, the current governing documents control.
