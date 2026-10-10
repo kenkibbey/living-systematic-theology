@@ -2,6 +2,21 @@
 October 10, 2026
 Supersedes Version 2.5
 
+## REVISION 37
+Official public AI auditor prompt for optional pre-submission Revision Resistance
+
+October 10, 2026
+
+Operational and public-transparency publication only. LIVING_SYSTEMATIC_THEOLOGY remains Version 2.6. No doctrinal wording, confidence grade, canonical premise, rebuttal deadline or prior GitHub verdict changes as a consequence of this public prompt.
+
+Revision Resistance for the change: the existing public LST_REVISION_RESISTANCE_GUIDE.md and CONTRIBUTING.md already disclosed the criteria for weighing arguments and allowed anyone to submit a challenge without automated screening. A new AI prompt must not be treated as a hidden veto, independent peer review, a substitute for Scripture, or a replacement for the actual public adjudication. Different AI systems may give conflicting answers, and public disclosure must not reveal private T.A.I.T. prompts, Facebook conversations, or participant-specific Thread Ledgers.
+
+Decision: publish LST_OFFICIAL_AI_AUDITOR_PROMPT.md as a public, copyable implementation of LST's current Revision Resistance method. It is based on the pre-existing Drive LST_ADVERSARIAL_SCRIPTURE_AUDIT and current governing method: exact current proposition, decisive texts, local exegesis, strongest positive case for retaining the formulation FIRST, strongest case for the correction, symmetry, source verification, hidden-premise and missing-text tests, falsification, confidence calibration, and a documented provisional verdict. It can be applied to the current LST position or the user's own Christian theology, with the 66-book canon declared rather than pretending it has already been historically proven by the audit.
+
+The README and CONTRIBUTING.md link to the public prompt. Pre-submission self-auditing is entirely OPTIONAL and cannot authorize or prevent issue filing. Human approval, public reasoning, the standing GitHub challenge process, and rebuttal rights remain controlling. The public Revision Resistance guide's outdated statement that the one-verse grading question remained open was corrected to reflect the bounded G1 method adjudication of Version 2.6; individual doctrinal grades remain contestable.
+
+The previous LST_REVISION_RECORD was archived prior to this entry. GitHub publication and link readback are to be verified independently. The public prompt is not the private T.A.I.T. operating prompt and must not be represented as independent external peer review.
+
 ## REVISION 36
 Claude adversarial G1–G7: completed Revision Resistance and targeted doctrinal calibration
 
