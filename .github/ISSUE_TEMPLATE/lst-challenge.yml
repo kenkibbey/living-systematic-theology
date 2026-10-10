@@ -9,6 +9,8 @@ body:
       value: |
         Living Systematic Theology welcomes serious biblical challenges.
 
+        **Optional pre-submission test:** [Copy the Official LST AI Auditor Prompt](https://github.com/kenkibbey/living-systematic-theology/blob/main/LST_OFFICIAL_AI_AUDITOR_PROMPT.md), give your AI the current LST claim and your biblical challenge, and examine the strongest evidence on both sides. This is not required and its preliminary verdict cannot block your issue.
+
         You do not need to agree with LST, belong to a particular tradition, or be a theologian.
 
         The goal is simple: if you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, make the strongest biblical case you can.
