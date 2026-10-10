@@ -53,7 +53,7 @@ Scripture is interpreted grammatically, historically, and literarily. Later reve
 
 ### 3. Decree and providence
 
-God works all things according to the counsel of His will. The decree is singular, eternal, immutable, and comprehensive. What occurs in time actualizes this purpose; it does not alter it.
+God works all things according to the counsel of His will. God's eternal counsel is unified, immutable, and comprehensive. What occurs in time actualizes this purpose; it does not alter it. LST defends the description of the decree as singular as a theological synthesis expressing God's coherent purpose, not as an independently demonstrated technical numerical count of divine decrees.
 
 The decree includes ends and means. Prayer, preaching, repentance, labor, warning, and mercy have real effects because God orders history through them. Creatures act willingly according to their own desires and remain accountable. God is not the author or moral approver of evil. He ordains the whole in wisdom, works what is good, and governs evil acts without sharing their wicked intent.
 
