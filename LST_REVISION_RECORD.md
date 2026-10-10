@@ -1,6 +1,29 @@
-<h1 align="center">VERSION 2.5</h1>
-October 8, 2026
-Supersedes Version 2.4
+<h1 align="center">VERSION 2.6</h1>
+October 10, 2026
+Supersedes Version 2.5
+
+## REVISION 36
+Claude adversarial G1–G7: completed Revision Resistance and targeted doctrinal calibration
+
+October 10, 2026
+
+LIVING_SYSTEMATIC_THEOLOGY Version 2.6. This is a MINOR version refinement: the confession of God's eternal, unified, immutable and comprehensive purpose is unchanged, while the separately technical assertion that there is numerically one divine decree is explicitly placed at defended-synthesis level. The same qualification appears in Creed I.3. Scripture remains final authority, and no other doctrinal grade has been changed.
+
+Revision Resistance, strongest defense of the previous decree wording: Ephesians 1:9–11 and 3:11, Isaiah 46:9–11, Psalm 33:11, Acts 2:23 and 4:27–28 teach a coherent divine counsel that is eternally purposed, effective and not revised by creaturely events. The singular wording therefore expresses a substantial biblical truth. Strongest criticism: none of these passages counts divine decrees as a metaphysical numerical proposition; God's “purposes” also appear in the plural (Jeremiah 49:20; 50:45). Dividing metaphysical count from the clearly biblical unity does not imply multiple competing divine wills or a revisable plan. Verdict G6 PARTIALLY SUSTAINED: preserve the direct biblical confession and explicitly qualify the technical singleness as synthesis.
+
+Revision Resistance on the methodology, strongest retention case: questioning whether a claim rests on one load-bearing text restrains a theological system from laundering an inference into confession. Strongest objection: a single clear statement of an inspired author may settle a claim, and the exact number of citations is not itself a test of revelation. The Engagement Module's former absolute declaration that any one-verse doctrine is necessarily a synthesis conflicted with TAIT_PROMPT_LST's allowance for clear direct and canonical teaching. Verdict G1 PARTIALLY SUSTAINED as a method correction, NOT as the overthrow of Trinity confession. The Engagement Module now directs an inquiry into statement versus inference and the cumulative case, not an automatic single-verse demotion.
+
+G2 NOT SUSTAINED as demanded regrading: Eternal generation remains a defended synthesis after explicit consideration of John 1:14,18, 17:5,24, 5:26; Psalm 2:7; Acts 13:33; Hebrews 1:5 and 5:5, and disputed monogenes translation. The former short Issue #16 ruling omitted those counterpoints; the new separate examination states their force and the limits of the available lexical source work.
+
+G3: NOT SUSTAINED as a regrading. Daniel 12:2 strengthens eternal-punishment evidence but does not independently demonstrate the duration of conscious experience. Isaiah 66:24 remains a genuine comparison.
+
+G4: NOT SUSTAINED as demanded downgrade. John 6 and John 10 retain the positive preservation case; Hebrews 10:29, John 15, Romans 11 and other warnings retain genuine local pressure. The detailed apostasy mechanism is not thereby demonstrated from those warning passages themselves.
+
+G5: NOT SUSTAINED as abandonment of believer-baptism practice. Apostolic conversion narratives support it positively but do not by themselves prove a universal prohibition of infant baptism. The household and covenant question remains contested.
+
+G7: PARTIALLY SUSTAINED as an evidential-method complaint. The sixty-six-book collection remains LST's present foundational historical judgment rather than a directly enumerated inspired list. Eusebius, Athanasius, and Carthage demonstrate disputed reception and the need to examine rival historical claims. Claude has not proved an alternative canon, and a complete book-by-book case remains unwritten. Historical questions are not settled by asking for Scripture verses alone.
+
+The full separate G1–G7 adjudication includes the competing cases, open pressure and research-source limits. These seven requested reexaminations have received reasoned findings, but unresolved subordinate biblical and historical questions can be reopened. No Facebook conversations or private Thread Ledgers are in the public case. Other active GitHub issues retain their own rebuttal windows.
 
 ## REVISION 35
 Public Revision Resistance standards and privacy-preserving adjudication transparency
