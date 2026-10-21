@@ -5,6 +5,8 @@ title: Living Systematic Theology
 
 # Living Systematic Theology
 
+![Living Systematic Theology — Scripture governs]({{ '/assets/lst-banner.svg' | relative_url }})
+
 *A Christ-centered, Scripture-governed, continuously reforming systematic theology*
 
 **Current version: 2.7 — October 21, 2026**
