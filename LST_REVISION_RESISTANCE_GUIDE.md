@@ -35,7 +35,7 @@ A reader should be able to understand and challenge the outcome **without trusti
 
 ## Version 2.6 Confidence-Grading Clarification
 
-Revision Resistance G1 was adjudicated in LST Version 2.6 ([Revision 36](LST_REVISION_RECORD.md#revision-36)). A claim directly and clearly taught by Scripture can be confessed even if supported by one decisive verse; the number of verses is not a mechanical grade. A technical proposition that requires inference remains synthesis unless the cumulative biblical case necessarily establishes it. Individual doctrinal grades remain open to further textual examination.
+G1 was the challenge to an earlier rule that automatically reduced a claim to synthesis merely because only one biblical verse was decisive. This methodological criticism was adjudicated in LST Version 2.6 ([Revision 36](LST_REVISION_RECORD.md#revision-36)). A claim directly and clearly taught by Scripture can be confessed even if supported by one decisive verse; the number of verses is not a mechanical grade. A technical proposition that requires inference remains synthesis unless the cumulative biblical case necessarily establishes it. Individual doctrinal grades remain open to further textual examination.
 
 ## Privacy
 
