@@ -13,12 +13,14 @@
 
 | Role | Example service | Assignment | May it decide the final verdict? |
 | --- | --- | --- | --- |
-| A: **Challenger's advocate** | Grok | Present the submitter's original argument in its **strongest fair biblical form against LST**; clearly distinguish the person's claims from additional AI-developed support; acknowledge irreparable weaknesses | No |
+| A: **Challenger's advocate** | Claude | Present the submitter's original argument in its **strongest fair biblical form against LST**; clearly distinguish the person's claims from additional AI-developed support; acknowledge irreparable weaknesses | No |
 | B: LST defender | ChatGPT (dedicated review session) | Defend the current wording with the strongest *positive* biblical case; answer every material objection; acknowledge whatever fails | No |
-| C: Independent adjudicator | Claude | Compare the strongest cases under the same interpretive standards, including direct biblical evidence, unresolved problems, and actual doctrinal confidence | Makes a **reasoned proposed finding**, subject to verification |
+| C: Independent adjudicator | Grok | Compare the strongest cases under the same interpretive standards, including direct biblical evidence, unresolved problems, and actual doctrinal confidence | Makes a **reasoned proposed finding**, subject to verification |
 | D: Independent verifier | Gemini | Independently recheck controlling texts, sources, both sides' omissions, bias, and whether C's finding follows; flag reasons for reconsideration | No automatic rubber stamp or invisible veto |
 
 **The challenger remains a person with a voice.** They may use any AI, or none. **Prompt A is assigned to advocate for the *challenge*, not argue against the challenger.** Grok must preserve the submitter's own claims and make any AI-added biblical arguments clearly attributable to Grok. Its role does not make it the submitter's authorized personal representative and is not a substitute for the challenger's own words. The original challenge and subsequent rebuttals are included in the judge's case packet, not rewritten by the defender as the only record.
+
+**Courtroom analogy and reusable prompts:** A is counsel for the challenger, B is counsel for LST, C is the independent judge, and D checks the judge's evidence. The public A/B/C/D prompts specify **roles only**. Each can be pasted into a separate chat and paired with its [required case packet](README.md#start-here--copy-and-paste-courtroom-workflow-role-only-prompts). GitHub publication is handled separately under the pilot runbook. Provider assignments are suggested rather than mandatory; currently Claude=A, ChatGPT=B, Grok=C, Gemini=D. Fresh chats do not guarantee the absence of private account-level context; each examiner must disregard unrelated personal history where possible and disclose material context that cannot be excluded.
 
 ## Rotation and isolation
 
