@@ -13,3 +13,12 @@ exclude:
   - node_modules
   - vendor
   - .github
+
+# Keep GitHub Mobile Markdown free of visible YAML metadata while allowing
+# Jekyll Pages to assign a layout to chapter presentation pages.
+defaults:
+  - scope:
+      path: "THEOLOGY/CHAPTERS"
+      type: "pages"
+    values:
+      layout: "page"
