@@ -1,4 +1,11 @@
-# Step 3 — Public Operations Log
+
+<p align="center">
+  <img src="../assets/banners/history-operationslog.svg" alt="Illustrated LST banner for Step 3 — Public Operations Log" width="100%">
+</p>
+
+<h1 align="center">Step 3 — Public Operations Log</h1>
+<p align="center"><em>Public presentation and administration, clearly distinguished from doctrine</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 This log concerns the **public website/repository presentation and review administration**, not independent doctrinal authority. Material theological revisions belong in the Systematic and complete Revision Record; older mixed historical entries in that record are preserved rather than rewritten away.
 

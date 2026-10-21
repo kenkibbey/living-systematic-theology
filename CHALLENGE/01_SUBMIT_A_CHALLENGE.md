@@ -1,4 +1,11 @@
-# Step 1 — Bring a Biblical Challenge
+
+<p align="center">
+  <img src="../assets/banners/challenge-01submitachallenge.svg" alt="Illustrated LST banner for Step 1 — Bring a Biblical Challenge" width="100%">
+</p>
+
+<h1 align="center">Step 1 — Bring a Biblical Challenge</h1>
+<p align="center"><em>Bring your strongest scriptural argument and invite a fair examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Disagreement with LST is welcome. You may write the argument yourself or ask your preferred AI to develop its strongest biblical case. The AI does not have to accept LST to participate.
 

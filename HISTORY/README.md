@@ -1,4 +1,11 @@
-# See What Changed — Start Here
+
+<p align="center">
+  <img src="../assets/banners/history-readme.svg" alt="Illustrated LST banner for See What Changed — Start Here" width="100%">
+</p>
+
+<h1 align="center">See What Changed — Start Here</h1>
+<p align="center"><em>Explore where LST has changed and the reasons behind each correction</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 LST is a living theology because **its formulations may be corrected by Scripture**, not because Scripture changes. This reading path distinguishes theological releases, their reasons, and ordinary repository maintenance.
 

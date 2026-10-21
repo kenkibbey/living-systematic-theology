@@ -1,4 +1,11 @@
-# Step 1 — LST Doctrinal Change Overview
+
+<p align="center">
+  <img src="../assets/banners/history-changelog.svg" alt="Illustrated LST banner for Step 1 — LST Doctrinal Change Overview" width="100%">
+</p>
+
+<h1 align="center">Step 1 — LST Doctrinal Change Overview</h1>
+<p align="center"><em>A brief record of important theological developments</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 A short public orientation to significant theological versions. The [complete Revision Record](../LST_REVISION_RECORD.md) preserves individual arguments and dates; this overview must not be mistaken for the full history.
 

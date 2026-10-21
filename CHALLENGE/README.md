@@ -1,4 +1,11 @@
-# Challenge LST — Start Here
+
+<p align="center">
+  <img src="../assets/banners/challenge-readme.svg" alt="Illustrated LST banner for Challenge LST — Start Here" width="100%">
+</p>
+
+<h1 align="center">Challenge LST — Start Here</h1>
+<p align="center"><em>Questions and honest biblical disagreement are welcome</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Everyone may challenge LST without being a theologian or using AI. Scripture, not the number of comments or the popularity of a viewpoint, supplies the evidence.
 
