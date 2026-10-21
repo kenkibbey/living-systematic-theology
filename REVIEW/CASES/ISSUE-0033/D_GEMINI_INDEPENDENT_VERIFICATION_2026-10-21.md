@@ -19,7 +19,7 @@
 *   **Model:** Gemini
 *   **Examination Date:** October 21, 2026
 *   **Prompt Version:** 2026-10-21-D (Pilot)
-*   **Constraints & Source Limits:** Direct network execution, live GitHub API access, and Google Drive PDF retrieval were blocked during this session. Consequently, the exact text of LST 2.7 commit \`28d2d7edf7cbacc9d4ac1a21137eb1c87cbbada0\` and the Candidate A PDF could not be strictly verified via live scrape. This examination relies on the comprehensive contextual evidence provided in the Prompt D assignment, established canonical Scripture, and standard systematic theology frameworks.
+*   **Constraints & Source Limits:** Direct network execution, live GitHub API access, and Google Drive PDF retrieval were blocked during this session. Consequently, the exact text of LST 2.7 commit `28d2d7edf7cbacc9d4ac1a21137eb1c87cbbada0` and the Candidate A PDF could not be strictly verified via live scrape. This examination relies on the comprehensive contextual evidence provided in the Prompt D assignment, established canonical Scripture, and standard systematic theology frameworks.
 *   **Independence:** Conducted in a fresh session without inheriting ChatGPT's private LST project instructions.
 
 ## V2 — Verified Decisive Texts
