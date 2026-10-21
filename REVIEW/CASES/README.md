@@ -7,7 +7,7 @@ The GitHub challenge **issue itself** is the only public issue created for each 
 | Original challenge | Complete review-record folder | Status |
 | --- | --- | --- |
 | [Issue #33 — LST v2.7 theological coverage](https://github.com/kenkibbey/living-systematic-theology/issues/33) | [Issue #33: all published complete reports and provenance](ISSUE-0033/README.md) | A/B/C/D reports archived; Gemini D source verification incomplete; case closed PARTIALLY SUSTAINED |
-| [Issue #35 — LST v2.8 confidence challenge: eternal conscious punishment](https://github.com/kenkibbey/living-systematic-theology/issues/35) | [Issue #35: published reports and provenance](ISSUE-0035/README.md) | Prompt A (Claude) archived; B, C and D pending; case open, no verdict |
+| [Issue #35 — LST v2.8 confidence challenge: eternal conscious punishment](https://github.com/kenkibbey/living-systematic-theology/issues/35) | [Issue #35: published reports and provenance](ISSUE-0035/README.md) | Prompts A (Claude) and B (ChatGPT GPT-6) completed and published; C and D pending; case open, no official verdict |
 
 ## Archive standard (four-AI pilot)
 
