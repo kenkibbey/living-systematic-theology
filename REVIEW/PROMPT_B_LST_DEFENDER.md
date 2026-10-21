@@ -2,7 +2,7 @@
 
 **Full proposed public task prompt · pilot version 2026-10-21-B**
 
-**Suggested role:** a fresh ChatGPT session deliberately supplied with the exact public current LST text. The established T.A.I.T. project may help prepare research, but its additional private project instructions must **not** be passed off as part of this prompt or omitted from a claim of complete prompt transparency.
+**Suggested role:** a fresh ChatGPT session deliberately supplied with the exact public current LST text. The established T.A.I.T. project may help prepare research, but its additional private project instructions must **not** be passed off as part of this prompt, and any review run that uses them must disclose that fact.
 
 ## Copyable prompt — use the entire text below
 
