@@ -9,7 +9,7 @@ This folder holds the **complete public AI review reports for Issue #33** as ver
 | Role | Reviewer | Complete report | Publication state |
 | --- | --- | --- | --- |
 | A — Challenge case advocate against LST (historically labeled *Adversarial Examiner* at time of run) | Grok / xAI | [Complete October 21, 2026 Prompt A report, findings A1–A7](A_GROK_2026-10-21.md) | Archived; preexisting Prompt A version preserved verbatim |
-| B — LST defender / Revision Resistance | ChatGPT / T.A.I.T. (project-assisted) | Not yet provided for publication | Awaiting complete B-series response |
+| B — LST defender / Revision Resistance | ChatGPT / T.A.I.T. (project-assisted) | [Complete October 21, 2026 Prompt B report, B1–B6 and A1–A7 responses](B_CHATGPT_REVISION_RESISTANCE_2026-10-21.md) | **Completed and archived; project-assisted disclosure** |
 | C — Independent adjudicator | Claude | Not yet provided for publication | Awaiting complete C-series response |
 | D — Separate independent verifier | Gemini | Not yet provided for publication | Awaiting complete D-series response |
 
