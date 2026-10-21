@@ -7,6 +7,8 @@
 <p align="center"><em>Full public instructions for constructing the strongest biblical challenge</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
+> **HISTORICAL PROMPT VERSION — superseded for new pilot cases.** This is the exact earlier role prompt under which Grok examined [Issue #33](https://github.com/kenkibbey/living-systematic-theology/issues/33). The revised active pilot task is **[Prompt A — Challenger's Advocate](PROMPT_A_CHALLENGE_ADVOCATE.md)**, which clearly represents the submitted challenge **against LST**, not against the challenger. Preserve this earlier version and its original role wording as provenance for historical runs. Do not call Grok's October 21 Issue #33 report an A2 run.
+
 **Full proposed public task prompt · pilot version 2026-10-21-A**
 
 **Suggested role:** Grok. Another model may fill this role if assignments are recorded. This examiner is *not* the judge. The human challenger may use any AI, or none, and their original case must remain in the evidence packet.
