@@ -1,0 +1,25 @@
+name: Verify generated Systematic chapters
+on:
+  pull_request:
+    paths:
+      - LIVING_SYSTEMATIC_THEOLOGY.md
+      - THEOLOGY/CHAPTERS/**
+      - scripts/build_reading_chapters.mjs
+  push:
+    branches:
+      - main
+    paths:
+      - LIVING_SYSTEMATIC_THEOLOGY.md
+      - THEOLOGY/CHAPTERS/**
+      - scripts/build_reading_chapters.mjs
+jobs:
+  check-reading-copies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/build_reading_chapters.mjs --check
