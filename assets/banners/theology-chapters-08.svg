@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="255" viewBox="0 0 1200 255" role="img" aria-labelledby="title desc">
+<title id="title">CHAPTER 08 · 08</title><desc id="desc">Decorative navy and gold banner for THEOLOGY/CHAPTERS/08.md.</desc>
+<defs><linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17283d"/><stop offset="1" stop-color="#29435d"/></linearGradient></defs>
+<rect width="1200" height="255" fill="url(#navy)"/>
+<path d="M32 29 H1168 M32 226 H1168" fill="none" stroke="#d4a35f" stroke-width="2" opacity=".78"/>
+<path d="M34 39 h160 M1006 216 h160" fill="none" stroke="#a7d5c1" stroke-width="2" opacity=".65"/>
+<circle cx="164" cy="126" r="80.66666666666667" stroke="#d4a35f" fill="none" stroke-width="1.6" opacity=".85"/>
+<circle cx="164" cy="126" r="63.666666666666664" stroke="#a7d5c1" fill="none" stroke-width="1.6" opacity=".6"/>
+<path d="M114 104 Q141 94 164 110 V171 Q139 154 114 161 Z M214 104 Q187 94 164 110 V171 Q189 154 214 161 Z" fill="none" stroke="#a7d5c1" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M130 118 Q148 115 156 121 M130 137 Q148 134 156 140 M198 118 Q182 115 173 121 M198 137 Q182 134 173 140" fill="none" stroke="#d4a35f" stroke-width="1.6" opacity=".9"/>
+<rect x="234" y="88" width="80" height="77" rx="12" stroke="#d4a35f" stroke-width="1.5" fill="#243a52"/><text x="274" y="140" font-family="Georgia,serif" font-size="35" text-anchor="middle" fill="#a7d5c1">08</text>
+<text x="730" y="92" font-family="Georgia,'Times New Roman',serif" font-size="20" letter-spacing="6" text-anchor="middle" fill="#a7d5c1">CHAPTER 08</text>
+<text x="730" y="144" font-family="Georgia,'Times New Roman',serif" font-size="33" text-anchor="middle" fill="#f7f0e4">08</text>
+<text x="730" y="188" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" text-anchor="middle" fill="#c5d4df">THE COMPLETE LST SYSTEMATIC</text>
+</svg>
