@@ -230,6 +230,6 @@ Soli Deo Gloria.
 
 ---
 
-**[Continue → Step 4: Read the full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md#contents)**
+**[Continue → Step 4: Read the Systematic chapter by chapter](THEOLOGY/CHAPTERS/README.md)**
 
 [Return to Theology Contents ↑](THEOLOGY/README.md) · [Main Start Here ↑](README.md#start-here)
