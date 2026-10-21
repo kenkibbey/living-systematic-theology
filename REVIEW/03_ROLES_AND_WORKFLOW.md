@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">3. Four AI Roles and the Review Workflow</h1>
-<p align="center"><em>Distinct examiner, defender, adjudicator, and verifier assignments</em></p>
+<p align="center"><em>The challenger’s advocate, LST’s defender, an independent adjudicator, and a verifier</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **This is a proposed pilot. The published prompts at the end of this reading sequence are the reproducible task instructions.**
@@ -13,12 +13,12 @@
 
 | Role | Example service | Assignment | May it decide the final verdict? |
 | --- | --- | --- | --- |
-| A: Adversarial examiner | Grok | Find and strengthen the best *biblical* objections to the exact current LST proposition; steelman the challenger's actual argument | No |
+| A: **Challenger's advocate** | Grok | Present the submitter's original argument in its **strongest fair biblical form against LST**; clearly distinguish the person's claims from additional AI-developed support; acknowledge irreparable weaknesses | No |
 | B: LST defender | ChatGPT (dedicated review session) | Defend the current wording with the strongest *positive* biblical case; answer every material objection; acknowledge whatever fails | No |
 | C: Independent adjudicator | Claude | Compare the strongest cases under the same interpretive standards, including direct biblical evidence, unresolved problems, and actual doctrinal confidence | Makes a **reasoned proposed finding**, subject to verification |
 | D: Independent verifier | Gemini | Independently recheck controlling texts, sources, both sides' omissions, bias, and whether C's finding follows; flag reasons for reconsideration | No automatic rubber stamp or invisible veto |
 
-**The challenger remains a person with a voice.** They may use any AI, or none. Prompt A is an *optional or additional* adversarial examiner, not a substitute for the challenger's own words. The original challenge and subsequent rebuttals are included in the judge's case packet, not rewritten by the defender as the only record.
+**The challenger remains a person with a voice.** They may use any AI, or none. **Prompt A is assigned to advocate for the *challenge*, not argue against the challenger.** Grok must preserve the submitter's own claims and make any AI-added biblical arguments clearly attributable to Grok. Its role does not make it the submitter's authorized personal representative and is not a substitute for the challenger's own words. The original challenge and subsequent rebuttals are included in the judge's case packet, not rewritten by the defender as the only record.
 
 ## Rotation and isolation
 
@@ -45,7 +45,7 @@ The **first-stage judge comparison** may label the competing propositions A/B ra
 
 1. The issue is filed publicly; the challenger may use an AI to argue as strongly as desired.
 2. Confirm exact challenged wording, its confidence, decisive passages, and whether a clarification is needed; do not call intake a doctrinal verdict.
-3. The adversarial examiner develops challenges with full contextual evidence, **not** a volume-based quota.
+3. **The challenger's advocate** develops the best defensible form of the submitter's actual case **against LST**, with contextual biblical evidence and transparent attribution, **not** a volume-based quota. The complete public report goes to the companion review-record issue; a short **first substantive AI review comment** with the verified record link goes on the original issue when feasible.
 4. The ChatGPT defender receives the whole case and builds **Revision Resistance**: the strongest honest case for keeping the existing claim and the exact reasons that would require conceding it.
 5. The independent adjudicator reads both cases and the decisive texts, weighs positive biblical support for **both** propositions, documents misreadings and open questions, and recommends the smallest faithful correction.
 6. The independent verifier independently checks the judge's evidence, including omissions and source access. A material discrepancy goes back for another visible adjudication; **do not average contradictory verdicts into a compromise**.
