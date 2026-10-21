@@ -1,4 +1,11 @@
-# LST Independent Four-AI Review — Public Reading Guide
+
+<p align="center">
+  <img src="../assets/banners/review-readme.svg" alt="Illustrated LST banner for LST Independent Four-AI Review — Public Reading Guide" width="100%">
+</p>
+
+<h1 align="center">LST Independent Four-AI Review — Public Reading Guide</h1>
+<p align="center"><em>A public, inspectable proposal for an independent four-AI review process</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **PUBLIC DESIGN DRAFT · October 21, 2026 · Not yet the operative challenge policy**
 

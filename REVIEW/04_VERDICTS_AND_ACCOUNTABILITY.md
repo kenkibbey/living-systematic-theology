@@ -1,4 +1,11 @@
-# 4. Verdicts, Corrections, and Public Accountability
+
+<p align="center">
+  <img src="../assets/banners/review-04verdictsandaccountability.svg" alt="Illustrated LST banner for 4. Verdicts, Corrections, and Public Accountability" width="100%">
+</p>
+
+<h1 align="center">4. Verdicts, Corrections, and Public Accountability</h1>
+<p align="center"><em>Evidence-based decisions and a traceable public record</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 ## The judgment must be based on Scripture
 

@@ -1,4 +1,11 @@
-# 3. Four AI Roles and the Review Workflow
+
+<p align="center">
+  <img src="../assets/banners/review-03rolesandworkflow.svg" alt="Illustrated LST banner for 3. Four AI Roles and the Review Workflow" width="100%">
+</p>
+
+<h1 align="center">3. Four AI Roles and the Review Workflow</h1>
+<p align="center"><em>Distinct examiner, defender, adjudicator, and verifier assignments</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **This is a proposed pilot. The published prompts at the end of this reading sequence are the reproducible task instructions.**
 

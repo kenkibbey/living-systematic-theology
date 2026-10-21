@@ -1,4 +1,11 @@
-# Prompt A — Independent Adversarial Examiner
+
+<p align="center">
+  <img src="../assets/banners/review-promptaadversarialexaminer.svg" alt="Illustrated LST banner for Prompt A — Independent Adversarial Examiner" width="100%">
+</p>
+
+<h1 align="center">Prompt A — Independent Adversarial Examiner</h1>
+<p align="center"><em>Full public instructions for constructing the strongest biblical challenge</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Full proposed public task prompt · pilot version 2026-10-21-A**
 

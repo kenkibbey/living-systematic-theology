@@ -1,4 +1,11 @@
-# 1. Purpose and Safeguards
+
+<p align="center">
+  <img src="../assets/banners/review-01purposeandsafeguards.svg" alt="Illustrated LST banner for 1. Purpose and Safeguards" width="100%">
+</p>
+
+<h1 align="center">1. Purpose and Safeguards</h1>
+<p align="center"><em>Biblical truth before institutional loyalty, with clear safeguards against bias</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Status: proposed independent-review pilot, not current enacted policy.**
 
