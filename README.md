@@ -23,9 +23,9 @@ Choose **one of three paths**. Each has its own table of contents and moves forw
 
 | Your goal | Start here | What you'll find |
 | --- | --- | --- |
-| **Read the theology** | **[Read LST →](THEOLOGY/README.md)** | Five-minute introduction, a confidence map, the Creed, and the complete Systematic |
-| **Challenge a claim** | **[Challenge LST →](CHALLENGE/README.md)** | How to submit a challenge, the governing biblical method, actual rules, and the separate four-AI **pilot** |
-| **See what changed** | **[Explore the history →](HISTORY/README.md)** | Doctrinal changes, the full Revision Record, and release/version information |
+| **📖 Read the theology** | **[Read LST →](THEOLOGY/README.md)** | Five-minute introduction, a confidence map, the Creed, and the complete Systematic |
+| **⚖️ Challenge a claim** | **[Challenge LST →](CHALLENGE/README.md)** | How to submit a challenge, the governing biblical method, actual rules, and the separate four-AI **pilot** |
+| **🕮 See what changed** | **[Explore the history →](HISTORY/README.md)** | Doctrinal changes, the full Revision Record, and release/version information |
 
 The published four-AI guide is **an unadopted pilot**, not the official review procedure. Its four complete proposed AI task prompts are public. A judge's AI output is never divine authority or independent human peer review.
 
