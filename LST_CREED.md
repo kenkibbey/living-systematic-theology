@@ -31,7 +31,7 @@ LST holds together monergistic salvation, grammatical and historical interpretat
 Doctrinal claims differ in kind of support. Some are stated directly and repeatedly. Some arise from the convergence of passages. Some concern a form Scripture leaves less fully described. This Creed therefore distinguishes three things:
 
 What we confess.
-What we defend as synthesis.
+What we defend as synthesis, with remaining possibilities and questions identified.
 What remains unresolved.
 
 
@@ -100,7 +100,7 @@ Death is an enemy. The believer, after death and before resurrection, is with Ch
 Final judgment is certain. God renders to each person according to works, while Scripture also teaches present justification through faith apart from works. Their relation is named below among the syntheses and unresolved pressures, at the confidence the texts warrant.
 
 
-## II. WHAT WE DEFEND AS SYNTHESIS
+## II. FURTHER TEACHINGS: SYNTHESIS, POSSIBILITIES, AND OPEN QUESTIONS
 
 These claims are taught as LST's present reasoned account of the canon. They are not articles on which the gospel or Christian identity depends. They may not be preached as if each supporting verse already contained the whole conclusion.
 
@@ -124,7 +124,7 @@ At the same time, Scripture does not demonstrate that the physical water is a me
 
 Apostles and prophets, with Christ the cornerstone, are the Church's foundation. There are no apostles of Christ in that foundational sense now. Canonical closure is a related but distinct historical and canonical judgment. The duration of tongues, prophecy, and healing is not settled by Ephesians 2:20, and their pre-Parousia cessation is not demonstrated. First Corinthians 14:39 and 1 Thessalonians 5:19-21 remain standing commands. First Corinthians 13:8-12, Acts 2:17-18, 39, and 1 Corinthians 1:7 add real continuationist pressure, while Scripture does not demonstrate uninterrupted availability of every disputed gift in every congregation or period. What abides is testing, order, love, and refusal to place any claimed utterance beside Scripture.
 
-### 5. Final punishment
+### 5. Final judgment and unresolved duration of punishment
 
 LST confesses final, irreversible divine judgment and real conscious suffering in judgment. Eternal conscious punishment is now an argued possibility rather than a defended synthesis. Matthew 25:41, 46 places condemned humans in the eternal fire prepared for the devil and his angels and sets eternal punishment beside eternal life. Revelation 14:9-11 directly depicts human torment and no rest day or night. Revelation 20:10 expressly gives everlasting torment to the devil, beast, and false prophet.
 
@@ -207,7 +207,7 @@ God swears that He has no pleasure in the death of the wicked but in the wicked 
 
 ### 15. Baptism, forgiveness, union, and timing
 
-Scripture directly joins baptism to forgiveness, washing, union-with-Christ language, and salvation (Acts 2:38; 22:16; Romans 6:3-4; Galatians 3:26-27; Colossians 2:12-13; 1 Peter 3:21). LST therefore will not reduce baptism to a bare symbol of benefits necessarily completed beforehand. Scripture also presents Cornelius receiving the Spirit before water baptism and later describes God as cleansing Gentile hearts by faith (Acts 10:43-48; 11:15-18; 15:7-9). The exact causal and temporal relation among faith, repentance, baptism, regeneration, and saving union is not demonstrated. For justification and for forgiveness insofar as Romans 4 makes forgiveness the blessing of counted righteousness, LST defends that the verdict is received through faith and does not universally await water baptism as its first temporal moment. The precise causal or sacramental relation of baptism to justification and forgiveness remains not demonstrated. LST confesses the positive baptismal language at its full strength while refusing both a magical-water account, a bare-sign reduction, and a universal water-first timing formula the canon does not state. Immersion remains the ordinary practice, but exclusive validity of immersion is not demonstrated.
+Scripture directly joins baptism to forgiveness, washing, union-with-Christ language, and salvation (Acts 2:38; 22:16; Romans 6:3-4; Galatians 3:26-27; Colossians 2:12-13; 1 Peter 3:21). LST therefore will not reduce baptism to a bare symbol of benefits necessarily completed beforehand. Scripture also presents Cornelius receiving the Spirit before water baptism and later describes God as cleansing Gentile hearts by faith (Acts 10:43-48; 11:15-18; 15:7-9). The exact causal and temporal relation among faith, repentance, baptism, regeneration, and saving union is not demonstrated. For justification and for forgiveness insofar as Romans 4 makes forgiveness the blessing of counted righteousness, LST defends that the verdict is received through faith and does not universally await water baptism as its first temporal moment. The precise causal or sacramental relation of baptism to justification and forgiveness remains not demonstrated. LST confesses the positive baptismal language at its full strength while refusing a magical-water account, a bare-sign reduction, and a universal water-first timing formula the canon does not state. Immersion remains the ordinary practice, but exclusive validity of immersion is not demonstrated.
 
 
 ## SHORT RULE
@@ -227,3 +227,9 @@ The world will be made new.
 Scripture has the last word.
 
 Soli Deo Gloria.
+
+---
+
+**[Continue → Step 4: Read the full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md#contents)**
+
+[Return to Theology Contents ↑](THEOLOGY/README.md) · [Main Start Here ↑](README.md#start-here)

@@ -34,7 +34,8 @@ LST separates the strength of a conclusion from how strongly someone feels about
 
 - **What we confess:** Biblical conclusions LST holds as established at the stated level.
 - **What we defend as synthesis:** Conclusions drawn from Scripture that require reasoning across passages and remain open to biblical testing.
-- **What remains unresolved:** Questions for which LST does not claim a demonstrated answer.
+- **Argued possibilities:** Readings with meaningful biblical support that are not yet demonstrated as necessary.
+- **Not demonstrated / unresolved:** Claims whose precise resolution is not established by the available biblical evidence.
 
 These are guides to the **strength of the evidence**, not a ranking of which passages matter. The [Creed](LST_CREED.md) is arranged around these distinctions. For unfamiliar words, see the [plain-language glossary](LST_GLOSSARY.md).
 
@@ -58,3 +59,9 @@ You may also try the [optional official AI Auditor Prompt](LST_OFFICIAL_AI_AUDIT
 Substantive challenges are examined in public, with the strongest biblical arguments on both sides. [The Revision Record](LST_REVISION_RECORD.md) explains significant changes. AI can help examine arguments, but it does **not** have authority to determine doctrine or approve changes.
 
 **The aim is not to win a theological contest. It is to let Scripture correct our theology.**
+
+---
+
+**[Continue → Step 2: Confidence Map](THEOLOGY/CONFIDENCE_MAP.md)**
+
+[Return to Theology Contents ↑](THEOLOGY/README.md) · [Main Start Here ↑](README.md#start-here)

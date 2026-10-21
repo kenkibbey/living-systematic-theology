@@ -6,7 +6,7 @@ Every role uses the **same grammatical, historical, literary, and canonical inte
 
 ### 1. Textual basis
 
-Identify the passage, translation, textual witnesses where relevant, significant variants, and *which sources were actually examined*. No invented Hebrew/Greek, manuscripts, manuscripts variants, scholarship, or unverifiable claims of research. If evidence is missing, identify the limitation.
+Identify the passage, translation, textual witnesses where relevant, significant variants, and *which sources were actually examined*. No invented Hebrew/Greek, manuscripts, manuscript variants, scholarship, or unverifiable claims of research. If evidence is missing, identify the limitation.
 
 ### 2. Grammar and word usage
 

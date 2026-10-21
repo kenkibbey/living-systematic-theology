@@ -1,0 +1,15 @@
+title: Living Systematic Theology
+description: A Christ-centered, Scripture-governed, continuously reforming systematic theology
+theme: minima
+url: https://kenkibbey.github.io
+baseurl: /living-systematic-theology
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - node_modules
+  - vendor
+  - .github

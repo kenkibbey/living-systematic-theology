@@ -1,0 +1,27 @@
+name: Question or Correction
+description: Ask a question about LST or report a typo, broken link, or other non-doctrinal problem.
+title: "[Question / Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Questions and small corrections are welcome. If your concern is a substantive biblical challenge to a doctrine or confidence level, please use **Challenge an LST Position** instead.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of request
+      options:
+        - Question about the theology
+        - Typo or unclear wording
+        - Broken link or website problem
+        - Other public documentation problem
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like us to know?
+      description: Include the page or section when possible. Do not post private account or contact information.
+      placeholder: Describe your question or the correction you noticed.
+    validations:
+      required: true

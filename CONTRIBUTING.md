@@ -8,7 +8,7 @@ The purpose of this repository is not to crowdsource doctrine, collect votes, or
 
 Scripture is the final authority.
 
-The current governing LST documents maintained in the private Google Drive working repository are the source of truth for the project's present formulation.
+The current governing LST documents in the editable Google Drive working repository control LST's present formulation. This public repository publishes the relevant current rules and theological text so a visitor can examine them without access to the private working files.
 
 This GitHub repository is the public publication and challenge repository. It exists so people can read the current public LST documents, inspect the revision history, and challenge the system openly.
 
@@ -77,7 +77,7 @@ Only the **Living Systematic Theology** carries the project's active semantic ve
 
 A **minor version increment** records a material refinement that does not reverse an affirmatively held doctrine. Examples include clarification, qualification, evidence reweighting, confidence adjustment, adding or removing proof texts, changing an unresolved-question status, or strengthening an argument while retaining the doctrine.
 
-A **major version increment** is reserved for a genuine doctrinal overturn: Scripture requires LST to reverse or abandon in substance an affirmatively held doctrine. A positive doctrine held as confession or defended synthesis counts here. If such a doctrine is contradicted, abandoned, or reduced to `not demonstrated` because its positive claim cannot be sustained, the next release advances to the next major number and resets the minor number to zero. Lowering a defended synthesis to an argued possibility remains minor if the interpretation is still a genuine possibility rather than abandoned, as in Versions 2.1 and 2.2. The Bootstrap is the master rule; this page mirrors it.
+A **major version increment** is reserved for a genuine doctrinal overturn: Scripture requires LST to reverse or abandon in substance an affirmatively held doctrine. A positive doctrine held as confession or defended synthesis counts here. If such a doctrine is contradicted, abandoned, or reduced to `not demonstrated` because its positive claim cannot be sustained, the next release advances to the next major number and resets the minor number to zero. Lowering a defended synthesis to an argued possibility remains minor if the interpretation is still a genuine possibility rather than abandoned, as in Versions 2.1 and 2.2. These are the public operative versioning rules. The private working repository uses the same rule, and any change must be publicly documented and verified.
 
 Version **2.0** is the first release produced by the major-version rule. From here, routine non-overturning refinements proceed **2.1, 2.2**, and so on. The next genuine doctrinal overturn advances the Systematic to **3.0**.
 
