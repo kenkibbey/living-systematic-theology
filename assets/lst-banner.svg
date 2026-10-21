@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Living Systematic Theology</title>
+  <desc id="desc">A Christ-centered, Scripture-governed, continuously reforming systematic theology. Greek: ἡ γραφὴ κυριεύει, meaning Scripture governs.</desc>
+  <rect x="0" y="0" width="1200" height="260" fill="#192a3d"/>
+  <path d="M40 30 H1160 M40 230 H1160" stroke="#bf9860" stroke-width="2" opacity=".85"/>
+  <text x="600" y="106" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" text-anchor="middle" font-size="53" letter-spacing="1">Living Systematic Theology</text>
+  <text x="600" y="151" fill="#dfdfdf" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="18" letter-spacing=".7">CHRIST-CENTERED · SCRIPTURE-GOVERNED · CONTINUALLY REFORMING</text>
+  <text x="600" y="203" fill="#d8b27a" font-family="Georgia, 'Times New Roman', serif" text-anchor="middle" font-size="28" xml:lang="grc">ἡ γραφὴ κυριεύει</text>
+</svg>
