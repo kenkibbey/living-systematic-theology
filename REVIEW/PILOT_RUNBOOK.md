@@ -13,7 +13,7 @@
 
 Test whether a structured four-role review improves the quality and independence of biblical adjudication without making LST's current wording automatically favored or new theories automatically accepted.
 
-The defender is intentionally an *advocate*. The adversarial examiner is intentionally an *opponent*. The independent adjudicator must not favor either, and the verifier must test whether the decision follows from the passages. All share the same grammatical, historical, literary and canonical controls.
+**The first two roles advocate opposite cases, not against the people participating.** Prompt A is the **Challenger's Advocate**, making the best fair biblical case for the submitter's challenge against LST. Prompt B is the disclosed LST defender. The independent adjudicator must not favor either, and the verifier must test whether the decision follows from the passages. All share the same grammatical, historical, literary and canonical controls.
 
 ## Required tasks for each trial
 
