@@ -14,7 +14,7 @@ Read each chapter through, then use its **Continue** link at the *end*. To go el
 | --- | --- | --- |
 | 1 | [Purpose and safeguards](01_PURPOSE_AND_SAFEGUARDS.md) | What is independent, what is not, and what humans still do |
 | 2 | [How Scripture is interpreted](02_SCRIPTURE_INTERPRETATION.md) | Exact seven-stage grammatical, historical, literary, and canonical method |
-| 3 | [Four AI roles and the workflow](03_ROLES_AND_WORKFLOW.md) | Challenger, ChatGPT defender, independent adjudicator, separate verifier |
+| 3 | [Four AI roles and the workflow](03_ROLES_AND_WORKFLOW.md) | Adversarial examiner, ChatGPT defender, independent adjudicator, separate verifier |
 | 4 | [Verdicts, corrections, and the public record](04_VERDICTS_AND_ACCOUNTABILITY.md) | How evidence is weighed, contradictory claims handled, and findings published |
 | 5 | [Prompt A: adversarial examiner](PROMPT_A_ADVERSARIAL_EXAMINER.md) | Full reusable task prompt for Grok or another independent model |
 | 6 | [Prompt B: LST defender](PROMPT_B_LST_DEFENDER.md) | Full reusable task prompt for ChatGPT |
