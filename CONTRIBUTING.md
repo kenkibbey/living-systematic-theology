@@ -14,6 +14,10 @@ This GitHub repository is the public publication and challenge repository. It ex
 
 A GitHub issue, comment, vote, pull request, AI answer, theological tradition, or opinion does not become LST doctrine merely because it appears here.
 
+## Independent four-AI review: proposed public pilot
+
+A [step-by-step public pilot guide](REVIEW/README.md) now publishes a proposed four-role review process, the complete proposed prompts for all roles, and the shared scriptural method. **This is a transparency and testing proposal, not an amendment of the current official challenge policy.** The rules in this document still govern actual submissions and rebuttals unless and until the pilot is independently tested, approved, reflected in the current governing Drive documents, and formally synchronized here. Do not cite an older issue as having undergone a four-AI independent review unless that review actually occurred and is documented.
+
 ## Stewardship, AI assistance, and independent review
 
 **Ken Kibbey** (GitHub account [kenkibbey](https://github.com/kenkibbey)) maintains LST and is responsible for official doctrinal revision and publication decisions. AI tools, including **T.A.I.T. | The AI Theologian**, may assist with researching sources, reconstructing arguments, drafting assessments, and testing positions adversarially. These tools are **research assistants, not independent doctrinal authorities or autonomous publishers**. An AI role-playing a critic or reviewing its own analysis is **internal adversarial work, not independent peer review**. Claims of external, independent review must identify the actual reviewer or process and its limitations.
