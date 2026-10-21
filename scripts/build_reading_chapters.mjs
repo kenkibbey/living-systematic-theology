@@ -30,21 +30,16 @@ for (let i = 0; i < headings.length; i++) {
   if (end < m.index) throw Error("Missing conclusion");
   const body = src.slice(m.index + m[0].length, end)
       .replace(/\[↑ Back to Contents\]\(#contents\)/g, "").trim();
-  const n = Number(m[1]), title = titleCase(m[2]);
+  const n = Number(m[1]), title = titleCase(m[2]).replace(/ (And|Of|The|In|For|To|By)\b/g, v => v.toLowerCase());
   const next = n === 23 ? "CONCLUSION.md" : `${String(n + 1).padStart(2, "0")}.md`;
   const label = n === 23 ? "Conclusion" : `Chapter ${n + 1}`;
-  const page = `---
-layout: page
-title: "Chapter ${n}: ${title}"
----
-
-<p align="center">
+  const page = `<p align="center">
   <img src="../../assets/banners/theology-chapters-${String(n).padStart(2, "0")}.svg" alt="Illustrated banner for Chapter ${n} " width="100%">
 </p>
 
-<h1 align="center">Chapter ${n} — ${title}</h1>
-<p align="center"><em>Generated reading copy from LST Version <strong>${version}</strong>. The <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">complete current Systematic</a> governs doctrine; this page must not be edited independently.</em></p>
-<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
+<h2 align="center">${title}</h2>
+<p align="center"><em>Chapter ${n} · LST ${version} · <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">Complete authoritative Systematic</a></em></p>
+<p align="center">✦ Scripture governs · Every claim remains testable ✦</p>
 
 ${body}
 
@@ -77,18 +72,13 @@ const start = src.indexOf("## CONCLUSION");
 const stop = src.indexOf("Soli Deo Gloria.", start) + "Soli Deo Gloria.".length;
 if (start < 0 || stop <= start) throw Error("Cannot find conclusion");
 const conclusion = src.slice(start + "## CONCLUSION".length, stop).trim();
-const conclusionPage = `---
-layout: page
-title: "LST Conclusion"
----
-
-<p align="center">
+const conclusionPage = `<p align="center">
   <img src="../../assets/banners/theology-chapters-conclusion.svg" alt="Illustrated banner for the LST Conclusion " width="100%">
 </p>
 
-<h1 align="center">Conclusion</h1>
-<p align="center"><em>Generated reading copy from LST Version <strong>${version}</strong>. The <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">complete current Systematic</a> governs doctrine; this page must not be edited independently.</em></p>
-<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
+<h2 align="center">Conclusion</h2>
+<p align="center"><em>LST ${version} · <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">Complete authoritative Systematic</a></em></p>
+<p align="center">✦ Scripture governs · Every claim remains testable ✦</p>
 
 ${conclusion}
 
