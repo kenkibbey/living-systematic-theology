@@ -54,7 +54,7 @@ An actual verification can be reported only after this full prompt, the complete
 
 ---
 
-**[Reading complete → Return to Challenge Contents](../CHALLENGE/README.md)**
+**[Continue → Public Pilot Test Runbook](PILOT_RUNBOOK.md)**
 
 [Return to main Start Here ↑](../README.md#start-here) · [Return to AI review contents ↑](README.md)
 
