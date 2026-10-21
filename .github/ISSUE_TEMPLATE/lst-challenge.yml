@@ -1,5 +1,5 @@
 name: Challenge an LST Position
-description: Submit a biblical challenge to a doctrine, interpretation, confidence level, or argument in Living Systematic Theology.
+description: Submit a biblical challenge to LST's current wording, doctrine, or confidence level.
 title: "[LST Challenge] "
 labels:
   - challenge
@@ -7,61 +7,21 @@ body:
   - type: markdown
     attributes:
       value: |
-        Living Systematic Theology welcomes serious biblical challenges.
+        Anyone may challenge LST. You may write your own argument or use your favorite AI. No AI preliminary verdict can block your submission.
 
-        **Optional pre-submission test:** [Copy the Official LST AI Auditor Prompt](https://github.com/kenkibbey/living-systematic-theology/blob/main/LST_OFFICIAL_AI_AUDITOR_PROMPT.md), give your AI the current LST claim and your biblical challenge, and examine the strongest evidence on both sides. This is not required and its preliminary verdict cannot block your issue.
+        **One argument, five elements:** (1) the exact current LST claim; (2) the problem; (3) the Scripture passages and contextual reasoning; (4) the correction you propose; (5) what biblical evidence might change your mind.
 
-        You do not need to agree with LST, belong to a particular tradition, or be a theologian.
-
-        The goal is simple: if you believe LST gets something wrong, overstates something, understates something, or has not adequately demonstrated a conclusion, make the strongest biblical case you can.
-
-        **Submit one coherent argument. You do not need to answer five separate boxes.**
-
-        Please make sure your challenge includes all five of these elements:
-
-        1. **The exact LST position you are challenging.** Quote it if possible, or identify the doctrine or chapter.
-        2. **What you believe LST gets wrong.** Explain whether it is false, overstated, understated, misunderstood, or insufficiently demonstrated.
-        3. **Your strongest biblical case.** Give the Scripture passages and explain how they support your challenge.
-        4. **What you believe LST should say instead.** You do not need perfect wording. State the conclusion you believe Scripture requires.
-        5. **What would convince you the current LST position should remain.** Tell us what biblical evidence or argument would change your mind.
-
-        You may appeal to theologians, confessions, church traditions, historical sources, linguistic work, or other research as evidence and context. None of those replaces the biblical case.
-
-        **Who reviews it?** LST is maintained by Ken Kibbey. AI tools may help research and challenge arguments, but official conclusions and publications require maintainer approval. Internal AI criticism is not independent peer review.
-
-        **How can you check the result?** A formal adjudication should publish your strongest relevant arguments, LST's strongest biblical response, the evidence and sources actually checked, important objections that remain, the reason for its verdict, the human approver, and any AI involvement. An AI response instructed to defend LST does not by itself establish that your challenge fails. See [Revision Resistance: Public Evaluation Standards](https://github.com/kenkibbey/living-systematic-theology/blob/main/LST_REVISION_RESISTANCE_GUIDE.md). Private Facebook conversations and Thread Ledgers are not used as public proof.
-
-        **What happens next?** Your GitHub issue is public. The maintainer may request clarification, queue or defer review, or take up the challenge for formal examination. There is no guaranteed response or adjudication deadline. The seven-day rebuttal periods begin only after a public adjudication, not when you submit the issue. See [How Challenges and Changes Work](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#what-happens-after-a-challenge-is-submitted).
-
-        Do not include private contact information or confidential material in a public issue.
-
-        Opening an issue does not automatically mean LST should change. The challenge will be tested against Scripture, including the strongest biblical case for retaining the current position.
-
-        Challenges receive a public disposition: **Sustained, Partially Sustained, Not Sustained, or Unresolved.** The response will explain whether LST changed and why. You may answer on the same issue in up to three substantive rebuttal rounds, with seven days after each adjudication. See [the rebuttal and closure procedure](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#rebuttal-windows-and-closure).
-
+        Do not post private data. An issue is public. Review may require clarification and has **no guaranteed intake deadline**. The current public rules, including three substantive rebuttal rounds and seven-day post-adjudication windows, are in [Contributing](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md). The separate four-AI independent review is a **pilot, not yet adopted**.
   - type: textarea
     id: challenge
     attributes:
-      label: Submit your challenge
-      description: Present your complete biblical challenge here as one coherent argument. Include all five elements listed above.
+      label: Your complete biblical challenge
+      description: Write one coherent case with the five elements above. Cite the biblical texts and explain their context.
       placeholder: |
-        Identify the LST position you are challenging.
-
-        Explain what you believe is wrong with it.
-
-        Give your strongest Scripture passages and explain the argument from them.
-
-        State what you believe LST should say instead.
-
-        Explain what biblical evidence or argument would convince you the current LST position should remain.
+        Current claim:
+        What I challenge:
+        Biblical argument:
+        Suggested correction:
+        Evidence that would change my mind:
     validations:
       required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        Please argue from Scripture rather than theological labels alone.
-
-        You are welcome to explain how Calvinism, Arminianism, Dispensationalism, Covenant Theology, Catholicism, Orthodoxy, or another tradition understands the issue, but the tradition itself is not the final argument.
-
-        **Scripture is.**
