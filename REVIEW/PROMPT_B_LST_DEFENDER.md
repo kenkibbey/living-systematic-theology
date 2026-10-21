@@ -9,7 +9,7 @@
 
 **Full proposed public task prompt · pilot version 2026-10-21-B**
 
-**Suggested role:** a fresh ChatGPT session deliberately supplied with the exact public current LST text. The established T.A.I.T. project may help prepare research, but its additional private project instructions must **not** be passed off as part of this prompt, and any review run that uses them must disclose that fact.
+**Suggested role and authorized pilot mode (October 21, 2026):** ChatGPT as the disclosed LST advocate. **Project-assisted Revision Resistance is permitted** in the established LST/T.A.I.T. conversation, including for [Issue #33](https://github.com/kenkibbey/living-systematic-theology/issues/33). The complete public prompt below remains the stated Role B assignment, but the project-assisted run also has additional private governing instructions and possible project context. The case record must identify it as **project-assisted Prompt B** and may not claim a clean session, Prompt-B-only execution, fully public prompt transparency, or independent neutral adjudication. A fresh public-prompt-only ChatGPT rerun is an optional control, not a prerequisite.
 
 ## Copyable prompt — use the entire text below
 
@@ -56,7 +56,7 @@ END OF PROMPT.
 
 ## Prompt-transparency boundary
 
-For a **reproducible official pilot**, start a fresh ChatGPT chat **using this exact full task prompt**, identify the *public* governing LST material supplied, and log any other material instructions. If the defender instead uses an existing T.A.I.T. conversation carrying additional private prompt context, that is supplemental or a **partially undisclosed defender run**. Do not state that only Prompt B governed it. This matters because this repository does not publish the separate internal project instructions.
+**Project-assisted Prompt B disclosure requirement (pilot variant approved October 21, 2026):** A Role B review may run inside the LST/T.A.I.T. project rather than a fresh non-personalized ChatGPT session. Declare that the defender was **intentionally advocating for current LST**, that additional private project governing instructions/context may have influenced framing, source routing or prior familiarity, and that those instructions are not publicly reproduced. Record the public Prompt B version/link, exact LST version and dated claim, original challenge and A-series findings supplied, model/date if known, source and tool access, actual B1–B6 output, material constraints and unresolved evidence. Never expose private instructions or private participant correspondence. Call such work **project-assisted**, **not clean-room**, **not Prompt B only**, and **not completely reproducible at the prompt level**. The B-series evidence must nonetheless be independently scrutinizable against public Scripture and source records; C and D remain separately prompted, distinct-session reviewers without the private defender context. This authorizes a disclosed pilot implementation, **not a change to the official public challenge policy**.
 
 ---
 
