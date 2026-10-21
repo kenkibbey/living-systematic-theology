@@ -39,4 +39,4 @@ No technical design eliminates all model bias. Inspectable scriptural reasoning 
 
 **[Continue → 1. Purpose and safeguards](01_PURPOSE_AND_SAFEGUARDS.md)**
 
-[Return to AI review contents ↑](README.md) · [Return to main Start Here ↑](../README.md#start-here)
+[Return to AI review contents ↑](README.md) · [Return to Challenge Contents ↑](../CHALLENGE/README.md) · [Main Start Here ↑](../README.md#start-here)
