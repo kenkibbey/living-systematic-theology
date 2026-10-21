@@ -17,7 +17,7 @@ LST is a living theology because **its formulations may be corrected by Scriptur
 | 2 | [Complete Revision Record](../LST_REVISION_RECORD.md) | The full dated history and detailed biblical reasons |
 | 3 | [Operational Changes](OPERATIONS_LOG.md) | Public information about navigation and process administration |
 
-The **current theological version** is stated inside the [Systematic](../LIVING_SYSTEMATIC_THEOLOGY.md); this index reflects Version **2.7** as checked on October 21, 2026. The revision and operations records are historical, not separate doctrinal authorities. Superseded editable Drive governing states remain archived rather than overwritten.
+The **current theological version** is stated inside the [Systematic](../LIVING_SYSTEMATIC_THEOLOGY.md); this index reflects Version **2.8** as checked on October 21, 2026. The revision and operations records are historical, not separate doctrinal authorities. Superseded editable Drive governing states remain archived rather than overwritten.
 
 ---
 
