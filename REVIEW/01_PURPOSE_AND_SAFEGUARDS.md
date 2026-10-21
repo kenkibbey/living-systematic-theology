@@ -17,7 +17,7 @@ A proposed correction faces the best *positive* biblical case for retaining the 
 
 ## Separate the jobs
 
-The challenger's advocate builds the strongest fair biblical case **for the submitted challenge against LST**, while identifying weaknesses and distinguishing the submitter's words from its own additions. A dedicated **ChatGPT defender** strengthens the biblical case *for* the existing claim. The independent adjudicator weighs them under identical interpretive rules. The independent verifier then tries to break the adjudicator's reasoning. None may substitute the popularity of a reading, an AI consensus, or its assigned advocacy role for actual interpretation.
+The challenger's advocate builds the strongest fair biblical case **for the submitted challenge against LST**, while identifying weaknesses and distinguishing the submitter's words from its own additions. A separately instructed **LST defender (Prompt B)** strengthens the biblical case *for* the existing claim. The independent adjudicator weighs them under identical interpretive rules. The independent verifier then tries to break the adjudicator's reasoning. None may substitute the popularity of a reading, an AI consensus, or its assigned advocacy role for actual interpretation.
 
 The defender is intentionally one-sided in *assignment*; the adjudicator and verifier must not be. This is more honest than pretending that a single LST-tuned AI is simultaneously advocate and neutral referee.
 
@@ -27,7 +27,7 @@ No commercially trained AI is provably neutral. Fresh sessions may still share t
 
 - Use fresh sessions and separate models for adjudication and verification, with no personal theological memory or custom instructions where feasible.
 - First anonymize “LST” and “challenger” as Position A and Position B for the judge where that would not erase relevant context; then reveal the current LST claim and confidence for the final compatibility assessment.
-- Give the judge both full cases and the actual decisive texts, not a T.A.I.T.-authored summary of the critic's case.
+- Give the judge both full cases and the actual decisive texts, not a defender-authored summary standing in for the critic's case.
 - When practical, repeat an independent comparison with the positions reversed to check order effects.
 - Require source-level evidence, explicit uncertainty, a candid record of inaccessible materials, and public exposure of disagreements.
 - Never treat four agreeing models as four independent eyewitnesses to truth.
