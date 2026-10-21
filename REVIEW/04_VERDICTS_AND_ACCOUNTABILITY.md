@@ -41,6 +41,6 @@ The following four chapters are the **full proposed reusable task prompts**. Eac
 
 ---
 
-**[Continue → Prompt A: Adversarial examiner](PROMPT_A_ADVERSARIAL_EXAMINER.md)**
+**[Continue → Prompt A: Challenger's Advocate](PROMPT_A_CHALLENGE_ADVOCATE.md)**
 
 [Return to table of contents ↑](README.md)
