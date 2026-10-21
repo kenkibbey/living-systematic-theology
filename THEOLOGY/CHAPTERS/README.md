@@ -7,7 +7,7 @@
 <p align="center"><em>Twenty-three chapters, one governing Systematic, and a continuous reading path</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
-**Generated presentation copy of the current Version 2.7 Systematic.** The [single complete Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) remains the public theological source and Google Drive's current live document remains the editable authority. These smaller pages exist for easier reading on phones and should be regenerated from the master on every theological release, not independently revised.
+**Generated presentation copy of the current Version 2.8 Systematic.** The [single complete Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) remains the public theological source and Google Drive's current live document remains the editable authority. These smaller pages exist for easier reading on phones and should be regenerated from the master on every theological release, not independently revised.
 
 | Chapter | Read |
 | --- | --- |
