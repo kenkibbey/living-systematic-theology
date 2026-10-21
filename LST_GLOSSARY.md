@@ -20,9 +20,9 @@ This is a **reader's aid**, not a replacement for the [Creed](LST_CREED.md) or [
 
 **Defended synthesis:** A theological conclusion LST considers supported by multiple biblical passages and careful reasoning, but not stated in full as a single direct biblical proposition.
 
-**Unresolved:** A question on which LST does not claim that the available evidence proves one answer.
-
 **Argued possibility:** An interpretation with a positive biblical case, but without enough evidence to call it demonstrated. It is not automatically LST's settled belief.
+
+**Not demonstrated / unresolved:** A claim for which the available evidence does not currently establish the exact proposition. Some possibilities remain live, but LST does not claim a settled conclusion.
 
 **Counterevidence / countertext:** A biblical passage or argument that appears to challenge a proposed interpretation and must be taken seriously.
 
@@ -50,7 +50,7 @@ This is a **reader's aid**, not a replacement for the [Creed](LST_CREED.md) or [
 
 **Justification:** God's declaring a sinner righteous through Christ rather than on the basis of the sinner's own merit. See [salvation by sovereign grace](LIVING_SYSTEMATIC_THEOLOGY.md#9-salvation-by-sovereign-grace).
 
-**Sanctification:** The work of making believers holy in their lives and conduct. See [Christian obedience](LIVING_SYSTEMATIC_THEOLOGY.md#19-law-gospel-and-christian-obedience).
+**Sanctification:** The work of making believers holy in their lives and conduct. See the main treatment in [salvation by sovereign grace](LIVING_SYSTEMATIC_THEOLOGY.md#9-salvation-by-sovereign-grace) and its implications in [Christian obedience](LIVING_SYSTEMATIC_THEOLOGY.md#19-law-gospel-and-christian-obedience).
 
 **Perseverance:** Continuing in faith in Christ. LST defends God's preservation of His people **through** persevering faith, repentance, and obedience, while taking biblical warnings seriously. See [preservation and perseverance](LIVING_SYSTEMATIC_THEOLOGY.md#11-preservation-perseverance-and-assurance).
 
@@ -59,6 +59,22 @@ This is a **reader's aid**, not a replacement for the [Creed](LST_CREED.md) or [
 **Eschatology:** Study of what Scripture teaches about Christ's return, resurrection, judgment, and the final future. See [prophecy and the millennium](LIVING_SYSTEMATIC_THEOLOGY.md#17-prophecy-the-millennium-and-the-gathering-of-the-saints).
 
 **Millennium:** The thousand years mentioned in Revelation 20. LST does not claim to have settled every question about the nature and placement of this period. See [prophecy and the millennium](LIVING_SYSTEMATIC_THEOLOGY.md#17-prophecy-the-millennium-and-the-gathering-of-the-saints).
+
+**Recapitulation:** Reading Revelation 20 as revisiting or presenting another perspective on a period already described, rather than introducing an entirely new consecutive historical period. See [Chapter 17](LIVING_SYSTEMATIC_THEOLOGY.md#17-prophecy-the-millennium-and-the-gathering-of-the-saints).
+
+**Filioque:** The Western claim that the Holy Spirit proceeds eternally from the Father **and the Son**. LST does not confess that exact technical formula as biblically demonstrated. See [Chapter 3](LIVING_SYSTEMATIC_THEOLOGY.md#3-the-triune-god).
+
+**Monergistic salvation:** Salvation depends decisively on God's sovereign saving action rather than an independent human power to produce saving life. The precise logical ordering of new birth and faith remains unresolved. See [Chapter 9](LIVING_SYSTEMATIC_THEOLOGY.md#9-salvation-by-sovereign-grace).
+
+**Continuationist / cessationist:** Competing views about the continuance or cessation of disputed spiritual gifts. LST maintains biblical commands to test claims and does not regard all disputed duration questions as settled. See [Chapter 8](LIVING_SYSTEMATIC_THEOLOGY.md#8-the-holy-spirit-and-his-gifts).
+
+**Conditional immortality:** The proposal that the lost are finally destroyed rather than consciously tormented without end. LST regards it and everlasting conscious punishment as argued possibilities. See [Chapter 23](LIVING_SYSTEMATIC_THEOLOGY.md#23-death-judgment-resurrection-and-the-new-creation).
+
+**Pretribulational:** The proposed timing in which Christ gathers believers before a specified tribulation. LST does not teach that this schedule is required by Scripture. See [Chapter 17](LIVING_SYSTEMATIC_THEOLOGY.md#17-prophecy-the-millennium-and-the-gathering-of-the-saints).
+
+**Typology:** An earlier biblical person, event, institution, or pattern that later Scripture shows anticipating or pointing toward a greater fulfillment. See [Chapter 13](LIVING_SYSTEMATIC_THEOLOGY.md#13-promise-fulfillment-and-historical-actualization).
+
+**Canonical architecture:** A proposed way of describing how Scripture's major themes—glory, covenant, kingdom, redemption and new creation—fit together. The themes are more directly established than their exact ranking in a theological system. See [Chapter 1](LIVING_SYSTEMATIC_THEOLOGY.md#1-theological-foundation-authority-and-living-method).
 
 ---
 
