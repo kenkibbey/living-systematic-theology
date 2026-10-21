@@ -1,4 +1,11 @@
-# Step 2 — LST Confidence Map
+
+<p align="center">
+  <img src="../assets/banners/theology-confidencemap.svg" alt="Illustrated LST banner for Step 2 — LST Confidence Map" width="100%">
+</p>
+
+<h1 align="center">Step 2 — LST Confidence Map</h1>
+<p align="center"><em>An easy-to-scan guide to confession, synthesis, possibilities, and uncertainty</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Current Systematic: Version 2.7 (October 21, 2026).** This is a navigational index of selected major claims, **not a replacement for the chapter's detailed wording**. Some chapters contain different claims at different confidence levels; a grade attaches to an exact proposition, not to a whole chapter.
 

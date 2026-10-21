@@ -1,4 +1,11 @@
-# Read the Theology — Start Here
+
+<p align="center">
+  <img src="../assets/banners/theology-readme.svg" alt="Illustrated LST banner for Read the Theology — Start Here" width="100%">
+</p>
+
+<h1 align="center">Read the Theology — Start Here</h1>
+<p align="center"><em>Discover what LST teaches, how firmly it holds each claim, and why</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 This path starts with what LST actually teaches, **before** its process for handling objections. The official Systematic is the authoritative current LST formulation; this reading path is only an introduction. Scripture remains final.
 

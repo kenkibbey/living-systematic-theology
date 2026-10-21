@@ -1,4 +1,11 @@
-# Step 1 — Why Living Systematic Theology Exists
+
+<p align="center">
+  <img src="../assets/banners/guide-01whylstexists.svg" alt="Illustrated LST banner for Step 1 — Why Living Systematic Theology Exists" width="100%">
+</p>
+
+<h1 align="center">Step 1 — Why Living Systematic Theology Exists</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Living Systematic Theology (LST) is a fallible attempt to understand and express the theology of Scripture as faithfully as possible. **The Bible does not change with LST. LST must change wherever Scripture requires it.**
 

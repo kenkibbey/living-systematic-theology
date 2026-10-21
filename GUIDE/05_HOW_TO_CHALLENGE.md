@@ -1,4 +1,11 @@
-# Step 5 — How to Challenge LST
+
+<p align="center">
+  <img src="../assets/banners/guide-05howtochallenge.svg" alt="Illustrated LST banner for Step 5 — How to Challenge LST" width="100%">
+</p>
+
+<h1 align="center">Step 5 — How to Challenge LST</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **You do not need to be a professional theologian.** Any reader may challenge a claim they believe Scripture shows to be wrong, incomplete, overstated, or understated.
 

@@ -1,4 +1,11 @@
-# Step 4 — Who Runs LST and How AI Is Used
+
+<p align="center">
+  <img src="../assets/banners/guide-04stewardshipandai.svg" alt="Illustrated LST banner for Step 4 — Who Runs LST and How AI Is Used" width="100%">
+</p>
+
+<h1 align="center">Step 4 — Who Runs LST and How AI Is Used</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Living Systematic Theology is maintained by **Ken Kibbey** (GitHub account: **kenkibbey**). He is responsible for the repository, access, privacy, historical preservation, official versions, and authorized publication.
 

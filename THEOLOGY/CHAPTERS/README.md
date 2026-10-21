@@ -1,4 +1,11 @@
-# Read the Complete Systematic — 23 Chapters
+
+<p align="center">
+  <img src="../../assets/banners/theology-chapters-readme.svg" alt="Illustrated LST banner for Read the Complete Systematic — 23 Chapters" width="100%">
+</p>
+
+<h1 align="center">Read the Complete Systematic — 23 Chapters</h1>
+<p align="center"><em>Twenty-three chapters, one governing Systematic, and a continuous reading path</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Generated presentation copy of the current Version 2.7 Systematic.** The [single complete Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) remains the public theological source and Google Drive's current live document remains the editable authority. These smaller pages exist for easier reading on phones and should be regenerated from the master on every theological release, not independently revised.
 
