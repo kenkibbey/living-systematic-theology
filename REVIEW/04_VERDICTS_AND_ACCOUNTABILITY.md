@@ -28,7 +28,7 @@ An AI recommendation is not a completed file change. If approved, a governing ch
 
 ## This is a public pilot design
 
-The current official process remains the one published in the existing GitHub challenge rules until the pilot is tested, a methodology revision is examined under Revision Resistance, the user authorizes the change, the governing Drive materials are archived/updated, and the GitHub policy is synchronized and verified. Prior cases do not become independent four-model verdicts retroactively.
+The current official process remains the one published in the existing GitHub challenge rules until the pilot is tested, a methodology revision is examined under Revision Resistance, the repository owner authorizes the change, the governing Drive materials are archived/updated, and the GitHub policy is synchronized and verified. Prior cases do not become independent four-model verdicts retroactively.
 
 The following four chapters are the **full proposed reusable task prompts**. Each is public so challengers can reproduce and criticize it. In actual runs, pin the prompt version and record all further material instructions and input limitations.
 
