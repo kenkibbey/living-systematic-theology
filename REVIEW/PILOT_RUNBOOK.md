@@ -7,7 +7,7 @@
 <p align="center"><em>A reproducible plan for testing the proposed independent-review process</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
-**Status: NOT YET VALIDATED OR ADOPTED.** This document prepares reproducible external-model trials. Do not mistake this plan for a completed trial.
+**Status: NOT YET VALIDATED OR ADOPTED.** This pilot permits **project-assisted ChatGPT / T.A.I.T. as Role B**, as long as its private project context and limitations are disclosed. The public defender prompt remains published, but private additional instructions mean the actual run is not fully reproducible from public prompts alone. The existing GitHub challenge rules remain official until separately revised.
 
 ## Purpose
 
