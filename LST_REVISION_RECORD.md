@@ -1,4 +1,12 @@
-# LST REVISION RECORD
+
+<p align="center">
+  <img src="assets/banners/lstrevisionrecord.svg" alt="Illustrated LST banner for LST REVISION RECORD" width="100%">
+</p>
+
+<h1 align="center">LST REVISION RECORD</h1>
+<p align="center"><em>A transparent record of theological corrections and methodological refinement</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
+
 Current theological version: 2.7 (October 21, 2026)
 This document preserves doctrinal and methodological change history. Earlier entries reflect the formulations and operational circumstances at the time they were written; they are not independent present doctrine. The current LIVING_SYSTEMATIC_THEOLOGY governs current wording. Public presentation and housekeeping changes may be documented without automatically advancing the theological version.
 

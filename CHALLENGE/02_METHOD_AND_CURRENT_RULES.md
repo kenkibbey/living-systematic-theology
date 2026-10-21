@@ -1,4 +1,11 @@
-# Step 2 — Interpretation and Current Challenge Rules
+
+<p align="center">
+  <img src="../assets/banners/challenge-02methodandcurrentrules.svg" alt="Illustrated LST banner for Step 2 — Interpretation and Current Challenge Rules" width="100%">
+</p>
+
+<h1 align="center">Step 2 — Interpretation and Current Challenge Rules</h1>
+<p align="center"><em>The text in context comes first; both sides face the same standard</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 This is the public explanation of LST's **current** approach, not the independent four-AI pilot. The current Systematic governs theology, and [CONTRIBUTING](../CONTRIBUTING.md) contains the **binding public challenge deadlines and procedural rules**.
 

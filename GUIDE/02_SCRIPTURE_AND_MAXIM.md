@@ -1,4 +1,11 @@
-# Step 2 — Scripture and the Governing Maxim
+
+<p align="center">
+  <img src="../assets/banners/guide-02scriptureandmaxim.svg" alt="Illustrated LST banner for Step 2 — Scripture and the Governing Maxim" width="100%">
+</p>
+
+<h1 align="center">Step 2 — Scripture and the Governing Maxim</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Scripture is the final authority. LST's Systematic is the project's present theological formulation, not another rule alongside the Bible. The Creed summarizes the Systematic; it does not replace it. Historic confessions and scholarship can provide evidence, but they cannot determine in advance what a passage must say.
 

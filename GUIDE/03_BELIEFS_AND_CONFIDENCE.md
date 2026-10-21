@@ -1,4 +1,11 @@
-# Step 3 — What LST Believes and How Certain It Is
+
+<p align="center">
+  <img src="../assets/banners/guide-03beliefsandconfidence.svg" alt="Illustrated LST banner for Step 3 — What LST Believes and How Certain It Is" width="100%">
+</p>
+
+<h1 align="center">Step 3 — What LST Believes and How Certain It Is</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 LST's present teaching is stated in the **Living Systematic Theology**. A shorter **Creed** summarizes its central claims and their degrees of confidence. Those are separate documents because a short introduction cannot carry every biblical argument or qualification.
 

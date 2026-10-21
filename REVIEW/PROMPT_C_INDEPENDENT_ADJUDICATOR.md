@@ -1,4 +1,11 @@
-# Prompt C — Independent Scriptural Adjudicator
+
+<p align="center">
+  <img src="../assets/banners/review-promptcindependentadjudicator.svg" alt="Illustrated LST banner for Prompt C — Independent Scriptural Adjudicator" width="100%">
+</p>
+
+<h1 align="center">Prompt C — Independent Scriptural Adjudicator</h1>
+<p align="center"><em>Full public instructions for a neutral evaluation of competing cases</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Full proposed public task prompt · pilot version 2026-10-21-C**
 

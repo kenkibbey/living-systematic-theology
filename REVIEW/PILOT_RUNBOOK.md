@@ -1,4 +1,11 @@
-# Four-AI Independent Review — Pilot Test Register and Runbook
+
+<p align="center">
+  <img src="../assets/banners/review-pilotrunbook.svg" alt="Illustrated LST banner for Four-AI Independent Review — Pilot Test Register and Runbook" width="100%">
+</p>
+
+<h1 align="center">Four-AI Independent Review — Pilot Test Register and Runbook</h1>
+<p align="center"><em>A reproducible plan for testing the proposed independent-review process</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Status: NOT YET VALIDATED OR ADOPTED.** This document prepares reproducible external-model trials. Do not mistake this plan for a completed trial.
 

@@ -1,4 +1,11 @@
-# Prompt B — ChatGPT LST Defender / Revision Resistance
+
+<p align="center">
+  <img src="../assets/banners/review-promptblstdefender.svg" alt="Illustrated LST banner for Prompt B — ChatGPT LST Defender / Revision Resistance" width="100%">
+</p>
+
+<h1 align="center">Prompt B — ChatGPT LST Defender / Revision Resistance</h1>
+<p align="center"><em>Full public instructions for honest, Scripture-governed Revision Resistance</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Full proposed public task prompt · pilot version 2026-10-21-B**
 

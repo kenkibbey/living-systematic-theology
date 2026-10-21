@@ -3,9 +3,13 @@ layout: page
 title: "LST Conclusion"
 ---
 
-# Conclusion
+<p align="center">
+  <img src="../../assets/banners/theology-chapters-conclusion.svg" alt="Illustrated banner for the LST Conclusion " width="100%">
+</p>
 
-*Generated reading copy from LST Version **2.7**. The [complete current Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) governs doctrine; this page must not be edited independently.*
+<h1 align="center">Conclusion</h1>
+<p align="center"><em>Generated reading copy from LST Version <strong>2.7</strong>. The <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">complete current Systematic</a> governs doctrine; this page must not be edited independently.</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Living Systematic Theology exists under the authority of the living God and His written Word. Its purpose is not to construct a theological scheme that becomes too important to question, but to gather the teaching of the whole canon in a form that can be continually examined by that canon. Scripture is not revised when LST changes. LST changes because Scripture has the right to correct it.
 

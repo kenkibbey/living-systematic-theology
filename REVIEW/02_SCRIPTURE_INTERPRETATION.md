@@ -1,4 +1,11 @@
-# 2. How Scripture Is Interpreted
+
+<p align="center">
+  <img src="../assets/banners/review-02scriptureinterpretation.svg" alt="Illustrated LST banner for 2. How Scripture Is Interpreted" width="100%">
+</p>
+
+<h1 align="center">2. How Scripture Is Interpreted</h1>
+<p align="center"><em>Seven complementary stages of responsible biblical interpretation</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Every role uses the **same grammatical, historical, literary, and canonical interpretive method**. These are complementary safeguards, not four competing authorities. The method is open to better evidence and is itself open to public biblical criticism.
 

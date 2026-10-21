@@ -1,5 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/livingsystematictheology.svg" alt="Illustrated LST banner for LIVING SYSTEMATIC THEOLOGY" width="100%">
+</p>
+
 <h1 align="center">LIVING SYSTEMATIC THEOLOGY</h1>
-<p align="center"><em>A Christ-Centered, Scripture-Governed, Continuously Reforming Systematic Theology</em></p>
+<p align="center"><em>A Christ-centered, Scripture-governed, continuously reforming systematic theology</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **VERSION 2.7**
 October 21, 2026

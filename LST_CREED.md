@@ -1,5 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/lstcreed.svg" alt="Illustrated LST banner for LIVING SYSTEMATIC THEOLOGY CREEDAL SUMMARY" width="100%">
+</p>
+
 <h1 align="center">LIVING SYSTEMATIC THEOLOGY CREEDAL SUMMARY</h1>
-<p align="center"><em>A Confession Aligned with Living Systematic Theology</em></p>
+<p align="center"><em>A confession aligned with the current Living Systematic Theology</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 This Creed summarizes the current Living Systematic Theology and is subordinate to Scripture. It is not a second authority. The LST Systematic governs this Creed; Scripture governs both. It names what LST presently believes the Scriptures teach, at the confidence the texts warrant. Where LST uses a systematic term, it says so. Where a text remains underdetermined, the Creed leaves the pressure visible.
 

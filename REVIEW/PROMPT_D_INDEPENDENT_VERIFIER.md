@@ -1,4 +1,11 @@
-# Prompt D — Independent Adjudication Verifier
+
+<p align="center">
+  <img src="../assets/banners/review-promptdindependentverifier.svg" alt="Illustrated LST banner for Prompt D — Independent Adjudication Verifier" width="100%">
+</p>
+
+<h1 align="center">Prompt D — Independent Adjudication Verifier</h1>
+<p align="center"><em>Full public instructions for independently checking an AI verdict</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Full proposed public task prompt · pilot version 2026-10-21-D**
 

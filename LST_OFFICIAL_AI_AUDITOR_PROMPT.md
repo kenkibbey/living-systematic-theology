@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/lstofficialaiauditorprompt.svg" alt="Illustrated LST banner for Official LST AI Auditor Prompt" width="100%">
+</p>
+
 <h1 align="center">Official LST AI Auditor Prompt</h1>
+<p align="center"><em>Public Revision Resistance pre-submission examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 <p align="center"><strong>Public Revision Resistance Pre-Submission Examination</strong></p>
 

@@ -1,8 +1,11 @@
-# Living Systematic Theology
 
-![Living Systematic Theology — Scripture governs](assets/lst-banner.svg)
+<p align="center">
+  <img src="assets/banners/readme.svg" alt="Illustrated LST banner for Living Systematic Theology" width="100%">
+</p>
 
-*A Christ-centered, Scripture-governed, continuously reforming systematic theology*
+<h1 align="center">Living Systematic Theology</h1>
+<p align="center"><em>A Christ-centered, Scripture-governed, continuously reforming systematic theology</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Current theological version: 2.7 · October 21, 2026**
 
@@ -20,9 +23,9 @@ Choose **one of three paths**. Each has its own table of contents and moves forw
 
 | Your goal | Start here | What you'll find |
 | --- | --- | --- |
-| **Read the theology** | **[Read LST →](THEOLOGY/README.md)** | Five-minute introduction, a confidence map, the Creed, and the complete Systematic |
-| **Challenge a claim** | **[Challenge LST →](CHALLENGE/README.md)** | How to submit a challenge, the governing biblical method, actual rules, and the separate four-AI **pilot** |
-| **See what changed** | **[Explore the history →](HISTORY/README.md)** | Doctrinal changes, the full Revision Record, and release/version information |
+| **📖 Read the theology** | **[Read LST →](THEOLOGY/README.md)** | Five-minute introduction, a confidence map, the Creed, and the complete Systematic |
+| **⚖️ Challenge a claim** | **[Challenge LST →](CHALLENGE/README.md)** | How to submit a challenge, the governing biblical method, actual rules, and the separate four-AI **pilot** |
+| **🕮 See what changed** | **[Explore the history →](HISTORY/README.md)** | Doctrinal changes, the full Revision Record, and release/version information |
 
 The published four-AI guide is **an unadopted pilot**, not the official review procedure. Its four complete proposed AI task prompts are public. A judge's AI output is never divine authority or independent human peer review.
 

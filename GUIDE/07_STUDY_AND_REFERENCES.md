@@ -1,4 +1,11 @@
-# Step 7 — Study and Reference Library
+
+<p align="center">
+  <img src="../assets/banners/guide-07studyandreferences.svg" alt="Illustrated LST banner for Step 7 — Study and Reference Library" width="100%">
+</p>
+
+<h1 align="center">Step 7 — Study and Reference Library</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 You've reached the reference shelf. The earlier chapters walked through the project without requiring detours; **the links are gathered here so you can now explore as much or as little as you wish**.
 

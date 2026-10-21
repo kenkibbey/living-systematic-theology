@@ -1,4 +1,11 @@
-# Step 8 — Revision History and Licensing
+
+<p align="center">
+  <img src="../assets/banners/guide-08historyandlicense.svg" alt="Illustrated LST banner for Step 8 — Revision History and Licensing" width="100%">
+</p>
+
+<h1 align="center">Step 8 — Revision History and Licensing</h1>
+<p align="center"><em>A Scripture-governed reading path: clear, careful, and open to examination</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 A theology that can change should make those changes visible. LST uses a **Revision Record** to explain material doctrinal and methodological developments, including the biblical reasons, the kind of change, and unresolved evidence. Historical versions of governing Drive documents are preserved rather than silently replaced. GitHub also preserves public commit history.
 

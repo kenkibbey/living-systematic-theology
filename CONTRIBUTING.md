@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/contributing.svg" alt="Illustrated LST banner for Contributing to Living Systematic Theology" width="100%">
+</p>
+
 <h1 align="center">Contributing to Living Systematic Theology</h1>
+<p align="center"><em>How to ask questions, challenge claims, and participate constructively</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Living Systematic Theology welcomes serious biblical challenge.
 

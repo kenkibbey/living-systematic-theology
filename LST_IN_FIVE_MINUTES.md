@@ -1,6 +1,11 @@
-<h1 align="center">Living Systematic Theology in Five Minutes</h1>
 
-*A short introduction for readers who are new to LST*
+<p align="center">
+  <img src="assets/banners/lstinfiveminutes.svg" alt="Illustrated LST banner for Living Systematic Theology in Five Minutes" width="100%">
+</p>
+
+<h1 align="center">Living Systematic Theology in Five Minutes</h1>
+<p align="center"><em>A short introduction for readers who are new to LST</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **The short version:** Living Systematic Theology (LST) is a Christian theology that is meant to be corrected whenever Scripture requires it. The Bible is the authority; LST is a human attempt to understand it faithfully.
 
