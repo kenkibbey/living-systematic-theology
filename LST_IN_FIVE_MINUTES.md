@@ -51,7 +51,7 @@ These are guides to the **strength of the evidence**, not a ranking of which pas
 
 **You are invited to challenge it.** You do not have to agree with LST or be a professional theologian.
 
-Identify the position, explain what you think Scripture establishes instead, and show the biblical evidence. LST asks challengers to explain what evidence might change their minds, too. The [short challenge instructions in the README](README.md#how-to-challenge-lst) show the five requested elements; [CONTRIBUTING](CONTRIBUTING.md#how-to-challenge-lst) explains the full public process.
+Identify the position, explain what you think Scripture establishes instead, and show the biblical evidence. LST asks challengers to explain what evidence might change their minds, too. The [short challenge instructions in Step 5](GUIDE/05_HOW_TO_CHALLENGE.md) show the five requested elements; [CONTRIBUTING](CONTRIBUTING.md#how-to-challenge-lst) explains the full public process.
 
 You may also try the [optional official AI Auditor Prompt](LST_OFFICIAL_AI_AUDITOR_PROMPT.md) before submitting, but an AI verdict cannot prevent you from challenging LST. You need a GitHub account to open an issue.
 

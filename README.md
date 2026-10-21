@@ -6,108 +6,29 @@
 
 <p align="center"><em>A Christ-centered, Scripture-governed, continuously reforming systematic theology</em></p>
 
-Living Systematic Theology, or **LST**, is a fallible attempt to state the theology of Scripture as faithfully and accurately as possible.
-
-It is not built around loyalty to Calvinism, Arminianism, Covenant Theology, Dispensationalism, or any other theological camp. Those traditions may contain important truths and important arguments, but none of them is allowed to decide beforehand what Scripture must say.
-
-**Scripture has the final word.**
-
-**This is where LST currently stands—not necessarily where it will remain.** The positions in this repository reflect our present understanding of Scripture, not a finished system whose conclusions are protected from correction. If you can show from Scripture that a position is wrong, incomplete, overstated, or understated, **we welcome your challenge**. We will examine the strongest biblical case for keeping the current position and the strongest case for changing it. Where Scripture requires a correction, LST must change. Where Scripture sustains a conclusion, LST should state it with the confidence the evidence warrants.
-
-## Proposed Independent Four-AI Review — Public, Full-Prompt Pilot
-
-**[Start the complete step-by-step guide →](REVIEW/README.md)**
-
-We are publicly testing a proposed independent review arrangement in which **a challenger or adversarial AI** builds the strongest case for correction, **ChatGPT** builds the strongest honest case for retaining the current LST wording, **another AI** independently adjudicates, and **a fourth AI** verifies the judgment. Grok, Claude, and Gemini can rotate through the independent roles. **All four complete proposed task prompts and the seven-stage biblical interpretive method are published in that guide.**
-
-**Status: design/pilot, not yet adopted.** This is not a claim that prior GitHub judgments were independently reviewed by four AIs, or that any AI is unbiased. The existing challenge procedure remains the operative policy until the pilot is tested and formally adopted in governing documents.
+Living Systematic Theology (**LST**) is a fallible attempt to state the theology of Scripture as faithfully as possible. **Scripture has the final word.** This repository records what LST currently holds, how it is tested, and why it changes when the biblical evidence requires correction.
 
 ## Start Here
 
-**New to LST? You do not need to read the whole Systematic to begin.** Pick the path that fits you:
+### Your table of contents
 
-1. **[LST in Five Minutes](LST_IN_FIVE_MINUTES.md)** — A plain-language introduction to the purpose, beliefs, confidence levels, and challenge process.
-2. **[Read the Creed](LST_CREED.md)** — A shorter summary of what LST confesses, what it defends as synthesis, and what it leaves unresolved.
-3. **[Explore the full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md#contents)** — Choose a chapter using its clickable contents list, then examine the biblical arguments and counterevidence.
+**Read straight through, one page at a time.** Start with Step 1. At the bottom of each page choose **Continue** for the next step, or **Return to Start Here** for this table of contents. Links to optional reference documents are gathered near the end of the journey, so you do not need to jump between documents just to understand the project.
 
-**Need help with the terminology?** See the [plain-language glossary](LST_GLOSSARY.md). **Wonder how LST compares with familiar traditions?** See the [Theological Labels Guide](LST_THEOLOGICAL_LABELS_GUIDE.md). Neither guide replaces the current Systematic.
+| Step | Read | What you'll learn |
+| --- | --- | --- |
+| **1** | **[Why LST Exists](GUIDE/01_WHY_LST_EXISTS.md)** | Purpose, history, and why Scripture governs the project |
+| **2** | **[Scripture and the Governing Maxim](GUIDE/02_SCRIPTURE_AND_MAXIM.md)** | What the project must say—and must not claim |
+| **3** | **[What LST Believes](GUIDE/03_BELIEFS_AND_CONFIDENCE.md)** | Beliefs, careful confidence levels, and unsettled questions |
+| **4** | **[Who Runs LST and How AI Is Used](GUIDE/04_STEWARDSHIP_AND_AI.md)** | Human stewardship, T.A.I.T., and honest limits on AI independence |
+| **5** | **[How to Challenge LST](GUIDE/05_HOW_TO_CHALLENGE.md)** | How to submit a biblical objection and how review currently works |
+| **6** | **[The Proposed Four-AI Review](REVIEW/README.md)** | The full step-by-step pilot, interpretive method, and **all four public prompts** |
+| **7** | **[Study and Reference Library](GUIDE/07_STUDY_AND_REFERENCES.md)** | Where to read the Creed, full Systematic, explanatory guides, and official rules |
+| **8** | **[Revision History and Licensing](GUIDE/08_HISTORY_AND_LICENSE.md)** | How changes are documented, historical states preserved, and material reused |
 
-**Disagree with a position?** Go straight to [How to Challenge LST](#how-to-challenge-lst). Serious questions and corrections are welcome.
+**[Begin reading → Step 1: Why LST Exists](GUIDE/01_WHY_LST_EXISTS.md)**
 
-## Who runs LST and how AI is used
+---
 
-Living Systematic Theology is maintained by **Ken Kibbey** ([GitHub: kenkibbey](https://github.com/kenkibbey)), who controls official revisions and publication decisions.
+**Reading guide status:** The four-AI independent-review method in Step 6 is a **published pilot design, not the currently adopted challenge policy**. Its prompts are openly available for inspection; previous reviews must not be described as four-AI adjudications unless they really were. The current rules remain in force until formally changed and verified.
 
-**T.A.I.T. | The AI Theologian** is a prompt-based AI theologian that works from the **current version of Living Systematic Theology (LST)** and its governing documents. It assists with Scripture-based research, comparing interpretations, testing arguments, and examining possible corrections. T.A.I.T. is not an independent source of doctrine: **Scripture is the final authority, and AI does not decide LST doctrine or authorize publication.** Criticism generated by the same AI-led research workflow is internal scrutiny, **not independent peer review**. Any genuinely external review should be identified as such, with its scope and limitations.
-
-## The Governing Maxim
-
-> **Living Systematic Theology seeks to state the theology of Scripture as nearly as fallible interpreters can, speaking with the certainty Scripture gives, refusing certainty Scripture does not give, adding nothing the text cannot sustain, and surrendering nothing the text requires us to confess.**
-
-Where Scripture speaks clearly, LST should speak clearly.
-
-Where Scripture does not settle a question, LST should not pretend that it has.
-
-The goal is not caution for its own sake, compromise between theological camps, or a permanent middle position.
-
-The goal is **faithfulness**.
-
-## How to Challenge LST
-
-**You do not need to be a theologian to challenge a claim.** If you think LST has something wrong, says too much, says too little, or has not shown enough biblical evidence, you are welcome to make that case.
-
-To submit a challenge, open the [GitHub Issues page](https://github.com/kenkibbey/living-systematic-theology/issues) and select **Challenge an LST Position**. You will need a GitHub account. **On mobile**, use the **+** button on the Issues page to start an issue when that option is shown.
-
-You can write **one clear argument**; there is no need for five separate essays. Please include:
-
-1. **The claim:** Which LST passage or doctrine are you challenging?
-2. **The concern:** What, specifically, do you think it gets wrong or has not established?
-3. **The biblical evidence:** Which passages make your case, and why?
-4. **The proposed correction:** What do you believe LST should say instead?
-5. **A fair test:** What biblical evidence or argument would lead you to keep the current position?
-
-**What happens next?** The challenge may need clarification or wait for examination; opening an issue does not start a guaranteed response deadline. During formal review LST examines the strongest biblical case **for the present position and for the challenge**. The written public result explains whether the challenge is sustained, partly sustained, not sustained, or unresolved. After a published adjudication, there can be up to three substantive rebuttal rounds, with a seven-day reply window after each adjudication while rounds remain. Silence does not prove that LST is right.
-
-For the exact rules, read [How Challenges and Changes Work](CONTRIBUTING.md), the [Revision Resistance Guide](LST_REVISION_RESISTANCE_GUIDE.md), and the [Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md). You can also use the [optional Official AI Auditor Prompt](LST_OFFICIAL_AI_AUDITOR_PROMPT.md) before posting. **An AI verdict cannot block your challenge.**
-
-The [Revision Record](LST_REVISION_RECORD.md) documents important changes. **Scripture is the final authority; AI assistance and public comments do not themselves decide doctrine.** Private Facebook conversations, correspondence, and participant Thread Ledgers are not published as part of the challenge record.
-
-## Why This Project Exists
-
-Christians have spent centuries studying Scripture, building theological systems, debating difficult passages, preserving important insights, and correcting serious errors.
-
-Living Systematic Theology does not dismiss that history. We stand downstream from an enormous amount of faithful human work.
-
-What has changed is the **scale and speed of the tools now available to us**.
-
-Modern artificial intelligence can search and compare enormous amounts of biblical, linguistic, historical, and theological material. It can place competing interpretations beside one another, locate neglected passages, expose hidden assumptions, trace arguments across Scripture, and deliberately construct strong challenges to an existing theological position in a fraction of the time such work once required.
-
-That creates an opportunity previous generations did not possess.
-
-Not an opportunity to let AI decide theology.
-
-An opportunity to **test theology harder than ever before**.
-
-AI has no theological authority.
-
-Neither does any individual theologian, church tradition, confession, denomination, or version of LST itself.
-
-The authority remains the written Word of God.
-
-LST seeks to use modern tools alongside the accumulated work of the historic Church to subject a systematic theology to continual examination under Scripture.
-
-If a Calvinist, Arminian, Catholic, Orthodox Christian, Lutheran, Baptist, dispensationalist, covenant theologian, scholar, pastor, ordinary believer, skeptic, or AI system can expose an error in LST from Scripture, that challenge deserves to be heard.
-
-If Scripture requires LST to change, **LST should change**.
-
-If a challenge fails after its strongest biblical case has been examined, the existing position should emerge better understood and better defended.
-
-The aim is not to create another theological tribe.
-
-It is to keep asking one question:
-
-> **What did God actually reveal, and how closely can our theology conform to it?**
-
-## License
-
-Original LST material is made available under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE), except where otherwise noted. Give appropriate credit and indicate modifications. Third-party Bible translations, images, and other externally owned content are not automatically covered. Reuse or adaptation does not make a work an official LST formulation.
+**[Return to Start Here ↑](#start-here)**
