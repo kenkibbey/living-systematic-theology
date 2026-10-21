@@ -54,7 +54,24 @@ ${body}
 
 [Chapter Contents ↑](README.md) · [Theology Contents ↑](../README.md) · [Main Start Here ↑](../../README.md#start-here)
 `;
-  write(`${String(n).padStart(2, "0")}.md`, page);
+  // GitHub Mobile renders Chapter 1 blank with the illustrated HTML/YAML
+  // header, while this plain-Markdown variant has been tested successfully.
+  // Preserve the exact doctrinal body and keep one governing Systematic.
+  const mobilePage = n === 1 ? [
+    "# Chapter 1 — Theological Foundation, Authority, and Living Method",
+    "",
+    "*Mobile-compatible reading copy of LST Version **" + version + "**. The [complete current Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) governs doctrine; this page is generated from it and must not be edited independently.*",
+    "",
+    body,
+    "",
+    "---",
+    "",
+    "**[Continue → Chapter 2](02.md)**",
+    "",
+    "[Chapter Contents ↑](README.md) · [Theology Contents ↑](../README.md) · [Main Start Here ↑](../../README.md#start-here)",
+    ""
+  ].join("\n") : page;
+  write(`${String(n).padStart(2, "0")}.md`, mobilePage);
 }
 const start = src.indexOf("## CONCLUSION");
 const stop = src.indexOf("Soli Deo Gloria.", start) + "Soli Deo Gloria.".length;
