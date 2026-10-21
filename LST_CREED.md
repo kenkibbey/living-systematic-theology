@@ -227,3 +227,9 @@ The world will be made new.
 Scripture has the last word.
 
 Soli Deo Gloria.
+
+---
+
+**[Continue → Step 4: Read the full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md#contents)**
+
+[Return to Theology Contents ↑](THEOLOGY/README.md) · [Main Start Here ↑](README.md#start-here)
