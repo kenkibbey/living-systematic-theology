@@ -54,7 +54,7 @@ An actual verification can be reported only after this full prompt, the complete
 
 ---
 
-**[Continue → Step 7: Study and Reference Library](../GUIDE/07_STUDY_AND_REFERENCES.md)**
+**[Reading complete → Return to Challenge Contents](../CHALLENGE/README.md)**
 
 [Return to main Start Here ↑](../README.md#start-here) · [Return to AI review contents ↑](README.md)
 
