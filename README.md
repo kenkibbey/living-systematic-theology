@@ -1,34 +1,33 @@
-<h1 align="center">Living Systematic Theology</h1>
+# Living Systematic Theology
 
-<p align="center">
-  <img src="assets/living_systematic_theology.png" alt="Living Systematic Theology" width="900">
-</p>
+*A Christ-centered, Scripture-governed, continuously reforming systematic theology*
 
-<p align="center"><em>A Christ-centered, Scripture-governed, continuously reforming systematic theology</em></p>
+**Current theological version: 2.7 · October 21, 2026**
 
-Living Systematic Theology (**LST**) is a fallible attempt to state the theology of Scripture as faithfully as possible. **Scripture has the final word.** This repository records what LST currently holds, how it is tested, and why it changes when the biblical evidence requires correction.
+Living Systematic Theology (**LST**) is a fallible attempt to state what the Bible teaches as faithfully as possible. **Scripture is final authority; LST can and must be corrected.** The project is maintained by **Ken Kibbey** with AI-assisted research and openly documented challenges.
+
+### LST at a glance
+
+> We confess the Triune God, the written Word, the eternal Son incarnate, the finished work of Christ, salvation by sovereign grace, Christ's present reign and return, the resurrection of the dead, final judgment, and the new creation. We distinguish what Scripture establishes from what requires inference and from questions Scripture has not yet settled for us.
+
+*This is a brief orientation derived from the Creed's Short Rule, not a substitute for the current Creed or Systematic.*
 
 ## Start Here
 
-### Your table of contents
+Choose **one of three paths**. Each has its own table of contents and moves forward with **Continue → Next** and **Return to Contents ↑** at the end of each chapter.
 
-**Read straight through, one page at a time.** Start with Step 1. At the bottom of each page choose **Continue** for the next step, or **Return to Start Here** for this table of contents. Links to optional reference documents are gathered near the end of the journey, so you do not need to jump between documents just to understand the project.
-
-| Step | Read | What you'll learn |
+| Your goal | Start here | What you'll find |
 | --- | --- | --- |
-| **1** | **[Why LST Exists](GUIDE/01_WHY_LST_EXISTS.md)** | Purpose, history, and why Scripture governs the project |
-| **2** | **[Scripture and the Governing Maxim](GUIDE/02_SCRIPTURE_AND_MAXIM.md)** | What the project must say—and must not claim |
-| **3** | **[What LST Believes](GUIDE/03_BELIEFS_AND_CONFIDENCE.md)** | Beliefs, careful confidence levels, and unsettled questions |
-| **4** | **[Who Runs LST and How AI Is Used](GUIDE/04_STEWARDSHIP_AND_AI.md)** | Human stewardship, T.A.I.T., and honest limits on AI independence |
-| **5** | **[How to Challenge LST](GUIDE/05_HOW_TO_CHALLENGE.md)** | How to submit a biblical objection and how review currently works |
-| **6** | **[The Proposed Four-AI Review](REVIEW/README.md)** | The full step-by-step pilot, interpretive method, and **all four public prompts** |
-| **7** | **[Study and Reference Library](GUIDE/07_STUDY_AND_REFERENCES.md)** | Where to read the Creed, full Systematic, explanatory guides, and official rules |
-| **8** | **[Revision History and Licensing](GUIDE/08_HISTORY_AND_LICENSE.md)** | How changes are documented, historical states preserved, and material reused |
+| **Read the theology** | **[Read LST →](THEOLOGY/README.md)** | Five-minute introduction, a confidence map, the Creed, and the complete Systematic |
+| **Challenge a claim** | **[Challenge LST →](CHALLENGE/README.md)** | How to submit a challenge, the governing biblical method, actual rules, and the separate four-AI **pilot** |
+| **See what changed** | **[Explore the history →](HISTORY/README.md)** | Doctrinal changes, the full Revision Record, and release/version information |
 
-**[Begin reading → Step 1: Why LST Exists](GUIDE/01_WHY_LST_EXISTS.md)**
+The published four-AI guide is **an unadopted pilot**, not the official review procedure. Its four complete proposed AI task prompts are public. A judge's AI output is never divine authority or independent human peer review.
+
+**Project principle:** Say what Scripture establishes, at the confidence it gives; do not claim more, and do not surrender what the text actually requires.
+
+**License:** [CC BY 4.0](LICENSE) for original LST materials, with third-party rights excluded. **Contact or questions:** use [GitHub Issues](https://github.com/kenkibbey/living-systematic-theology/issues) and the challenge/question options explained in the second reading path.
 
 ---
 
-**Reading guide status:** The four-AI independent-review method in Step 6 is a **published pilot design, not the currently adopted challenge policy**. Its prompts are openly available for inspection; previous reviews must not be described as four-AI adjudications unless they really were. The current rules remain in force until formally changed and verified.
-
-**[Return to Start Here ↑](#start-here)**
+[Return to Start Here ↑](#start-here)
