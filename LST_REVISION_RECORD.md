@@ -8,6 +8,31 @@ October 21, 2026
 Supersedes Version 2.6
 
 
+## REVISION 48
+Public repository usability, interpretive-method presentation, and audit traceability
+
+
+October 21, 2026
+
+
+Scope: NON-DOCTRINAL publication and documentation improvements made following an independent public-repository critique. The active theological version remains 2.7. These changes are not a four-AI doctrinal adjudication and do not themselves enact the still-proposed independent AI review system.
+
+
+Strongest case for retaining the prior presentation: The established README, CONTRIBUTING document, Revision Resistance guide, review prompts and chapter indexes already preserved working links, the essential biblical hierarchy, and the substantive challenge safeguards. Multiple summaries can legitimately communicate one method at differing levels of detail. Moving governing files or shortening them aggressively could disrupt existing references and bury necessary nuance.
+
+
+Case for improvement: New readers were routed through extensive AI/process material before being shown the theology, confidence grades were scattered, and public material used unexplained private-workflow references. Several reader-aid labels or editing slips conflicted with current Systematic precision. The public needs a single entrance with separate paths to read the theology, challenge a claim, and review the history, and plain confirmation that the four-AI process is still a proposed pilot.
+
+
+Authorized design: Keep stable current governing filenames and private archival sources. Give GitHub a theology-first front page with three guided paths; produce a confidence map that points back to exact paragraphs rather than acting as doctrine; explain the five-movement interpretive summary and seven detailed checks as one method; offer a separate non-doctrinal question form; shorten the challenge form without changing substantive rights; clarify copy-ready role prompts and material-access limitations; retain history and operations distinctly for future publication; provide a lightweight accessible banner correcting the Greek motto; prepare a Jekyll/GitHub Pages front page where public hosting is configured; and a reproducible four-AI pilot runbook without claiming any outside AI has actually completed it.
+
+
+Historical cleanup: The current Systematic's Conclusion retains its essential current theological summary but no longer recounts superseded Versions 1.1–2.1 inline. Those accounts are preserved in the Revision Record and dated historical archives. The new release and web navigation must be verified on GitHub separately from these Drive operations.
+
+
+Disposition: Methodological explanation and public architecture improved without changing interpretation rules, the present official GitHub rebuttal limits, confidence grades, or any prior challenge verdict. A Jekyll site configuration file is not evidence that hosting is live. Missing external-model runs, GitHub Pages activation, and GitHub administrative settings must be reported as outstanding when not actually completed.
+
+
 ## REVISION 47
 Public audit: clarify disputed propositions, evidence grades, and references
 
