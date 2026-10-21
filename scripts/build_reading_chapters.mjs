@@ -38,9 +38,13 @@ layout: page
 title: "Chapter ${n}: ${title}"
 ---
 
-# Chapter ${n} — ${title}
+<p align="center">
+  <img src="../../assets/banners/theology-chapters-${String(n).padStart(2, "0")}.svg" alt="Illustrated banner for Chapter ${n} " width="100%">
+</p>
 
-*Generated reading copy from LST Version **${version}**. The [complete current Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) governs doctrine; this page must not be edited independently.*
+<h1 align="center">Chapter ${n} — ${title}</h1>
+<p align="center"><em>Generated reading copy from LST Version <strong>${version}</strong>. The <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">complete current Systematic</a> governs doctrine; this page must not be edited independently.</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 ${body}
 
@@ -61,9 +65,13 @@ layout: page
 title: "LST Conclusion"
 ---
 
-# Conclusion
+<p align="center">
+  <img src="../../assets/banners/theology-chapters-conclusion.svg" alt="Illustrated banner for the LST Conclusion " width="100%">
+</p>
 
-*Generated reading copy from LST Version **${version}**. The [complete current Systematic](../../LIVING_SYSTEMATIC_THEOLOGY.md) governs doctrine; this page must not be edited independently.*
+<h1 align="center">Conclusion</h1>
+<p align="center"><em>Generated reading copy from LST Version <strong>${version}</strong>. The <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">complete current Systematic</a> governs doctrine; this page must not be edited independently.</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 ${conclusion}
 
