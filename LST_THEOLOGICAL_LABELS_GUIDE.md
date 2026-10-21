@@ -64,7 +64,7 @@ These labels are not a package deal.
 
 LST may agree strongly with a tradition in one area and reject one of its characteristic conclusions in another. It may also share a conclusion with a system while rejecting the argument that system commonly uses to reach it.
 
-So when LST is called "Reformed," "Baptist," "Progressive Covenantal," "continuationist," or "historic premillennial," that does **not** mean:
+So when LST is called "Reformed," "Baptist," "Progressive Covenantal," "continuationist," or "undecided on the millennium," that does **not** mean:
 
 - every doctrine normally associated with that label is accepted;
 - the label has interpretive authority;
