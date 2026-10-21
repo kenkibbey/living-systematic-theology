@@ -33,6 +33,14 @@ Test whether a structured four-role review improves the quality and independence
 | #23: Father–Son relations, order and equal deity | Previously sustained *partial wording correction*, useful for testing whether the board can recognize legitimate limited change | [Issue #23](https://github.com/kenkibbey/living-systematic-theology/issues/23) |
 | A submitted weak or speculative criticism of a well-established direct claim | Checks whether the board can refuse change **for the right contextual reasons**, not by inertia | To be selected and disclosed before test |
 
+## Public archive and original-issue comment routing
+
+**One substantive issue per challenge. Do not open a companion issue for full AI examinations.** The public GitHub issue remains the challenger's submission and the venue for status notices, official adjudication, rebuttals, and closure. For each admitted review create a folder `REVIEW/CASES/ISSUE-XXXX/` (padded issue number), with `README.md` and **complete, separately attributed Markdown files** for Prompt A, B, C and D reports as each is verified. The current example is [Issue #33's case archive](CASES/ISSUE-0033/README.md).
+
+**First substantive AI response:** After human intake and after the Prompt A **Challenger's Advocate** report is actually completed and archived, post a **short, respectful first substantive AI response** under the original public challenge, describing Grok's task as advocating the issue in its best biblical form against LST and linking to the **verified complete report**. Administrative intake comments may precede it; do not make a false chronological claim. Subsequent B/C/D outputs each receive a brief notice and a verified link in the **same original issue**.
+
+**Preserve provenance:** Full reports and their prompt IDs/model information remain immutable in substance; publish later corrections as separately attributed amendments or version-controlled changes with visible explanations. Earlier A runs under **Adversarial Examiner** remain historically labeled, even though the current proposed role is **Challenger's Advocate**. The case archive does not establish a new issue, peer-reviewed human finding, doctrinal verdict or new official policy. Do not report an unrun role as complete.
+
 ## What a report must contain
 
 - Exact public prompt version or commit SHA, full input list, actual model assignments, and what each model truly had available.
