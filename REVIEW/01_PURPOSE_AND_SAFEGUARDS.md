@@ -17,7 +17,7 @@ A proposed correction faces the best *positive* biblical case for retaining the 
 
 ## Separate the jobs
 
-An adversarial examiner strengthens the biblical case *against* the challenged claim. A dedicated **ChatGPT defender** strengthens the biblical case *for* the existing claim. The independent adjudicator weighs them under identical interpretive rules. The independent verifier then tries to break the adjudicator's reasoning. None may substitute the popularity of a reading, an AI consensus, or its assigned advocacy role for actual interpretation.
+The challenger's advocate builds the strongest fair biblical case **for the submitted challenge against LST**, while identifying weaknesses and distinguishing the submitter's words from its own additions. A dedicated **ChatGPT defender** strengthens the biblical case *for* the existing claim. The independent adjudicator weighs them under identical interpretive rules. The independent verifier then tries to break the adjudicator's reasoning. None may substitute the popularity of a reading, an AI consensus, or its assigned advocacy role for actual interpretation.
 
 The defender is intentionally one-sided in *assignment*; the adjudicator and verifier must not be. This is more honest than pretending that a single LST-tuned AI is simultaneously advocate and neutral referee.
 
