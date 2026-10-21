@@ -1,0 +1,69 @@
+# Chapter 1 — Theological Foundation, Authority, and Living Method
+
+*Plain-Markdown mobile display test. This is an exact reading copy of Chapter 1's body from LST 2.7, without any SVG image, inline HTML, or YAML front matter. The current complete Systematic remains authoritative.*
+
+God is not subordinate to theology. He is the living and true God, the Creator and Lord of all things. Human theological systems are acts of creaturely understanding. They may truly confess what God has revealed, but they possess no authority independent of that revelation. LST therefore begins not with loyalty to a theological tradition, model, school, confession, or organizing axiom, but with submission to God through His written Word.
+
+The sixty-six books of the Old and New Testaments constitute LST's final written authority. No confession, creed, council, philosophical system, theological tradition, human teacher, artificial intelligence system, or formulation of LST itself may stand beside Scripture as a second final rule. Theological claims are accepted only to the degree that the biblical text warrants them. The system is servant. The Word is judge.
+
+LST is called living because it is intentionally open to correction while Scripture remains fixed. Its task is never finished in the sense of becoming immune to further testing. A formulation may be strengthened when its biblical case survives serious examination, qualified when counterevidence narrows what can responsibly be claimed, lowered in confidence when an inference proves weaker than expected, or surrendered when Scripture contradicts it. Revision is not failure when revision is demanded by the text. Refusing correction in order to preserve the system would be failure.
+
+The method is ordered: Text, Grammar, Context, Meaning, Theology. The interpreter first establishes the author's words, syntax, discourse, genre, audience, historical circumstances, and covenantal setting. The local argument is followed to its conclusion before a systematic category is allowed to organize it. Only then is the passage placed within the wider canon and brought into systematic synthesis. A competing verse is not an answer to the verse presently under examination.
+
+A systematic theology may use terms not found verbatim in any verse, but those terms must describe relations demonstrated from Scripture rather than supply relations the biblical author never wrote. Internal coherence cannot establish the meaning of a disputed passage. Tradition cannot decide beforehand what Scripture is permitted to say. Neither can an attractive new model. LST therefore asks of every major doctrine: What does the passage actually state? What does the proposed reading infer? What counter-texts place pressure upon it? What evidence would require the conclusion to change?
+
+LST distinguishes the strength of its claims. Some doctrines are established by direct and repeated biblical testimony. Others are defended by the convergence of multiple passages and require genuine theological inference. Still others remain biblically possible without being demonstrated as necessary. Where adequate textual proof is lacking, LST says that the matter is not demonstrated. Theological confidence must rise and fall with the evidence rather than with the importance a doctrine has acquired inside the system. The same rule applies in both directions. Inflating a conclusion beyond the text is error, but habitual understatement is also error when Scripture has actually established the claim. LST does not aim at a compromise position between traditions; it aims at the strongest conclusion the biblical evidence warrants and no stronger.
+
+A difficult passage must be allowed to remain difficult. Apparent tensions are studied rather than concealed. A text is not neutralized merely because it causes trouble for a preferred synthesis. LST seeks the strongest biblical case against its own positions, not merely the easiest case to answer. Compatibility with Scripture is not enough to establish a doctrine; the question is whether the doctrine is what the inspired authors actually teach.
+
+### THE PRESENT CANONICAL ARCHITECTURE
+
+LST presently judges the following broad architecture to account best for the canonical evidence: God sovereignly purposes to make His holy name and glory known by bringing creation to its appointed fulfillment in Jesus Christ, through whom He redeems and gathers a holy people with whom He will dwell under His righteous reign in renewed creation. Covenant is the pledged historical structure through which that purpose unfolds. Redemption, atonement, resurrection, the gift of the Spirit, proclamation, obedience, judgment, and providence are ordained means within its accomplishment. God's eternal purpose guarantees that rebellion, suffering, death, and every creaturely contingency will not finally defeat what He has appointed. The new creation is the historical consummation in which the curse is gone, death is destroyed, God and the Lamb are present with the redeemed, and God's servants see His face and reign (Exodus 29:45-46; Ezekiel 36:22-28; 37:24-28; Ephesians 1:3-14; 2:18-22; 1 Corinthians 15:20-28; Revelation 21-22).
+
+The components of this architecture answer different questions and should not be forced into competition. God's holy name and glory answer the question of ultimate divine purpose. God's dwelling with a holy, living, image-bearing people in renewed creation describes the concrete relational goal. Jesus Christ is the indispensable personal center and Mediator through whom creation, revelation, redemption, kingship, priesthood, resurrection, and consummation converge. God's kingdom names the righteous royal order of the goal. Covenant names the pledged historical structure through which God binds Himself to His promises and people. Redemption answers how fallen creatures are reconciled and restored. The eternal decree, election, and providence name the causal ground and certainty of the purpose. Historical accomplishment names what God actually brings to pass in time. Resurrection, judgment, and the new creation name the final historical consummation.
+
+This ordering is a systematic synthesis. Scripture states its major realities much more explicitly than it states their complete taxonomy. LST therefore holds the broad architecture more firmly than the precise ranking of every component. No biblical verse presents this hierarchy as a table, and no part of the system may be used to silence a passage that does not fit comfortably within it.
+
+### THE UPPER-LEVEL QUESTION
+
+LST presently regards God's glory, divine-human communion, and God's kingdom as inseparably related at the highest level of the canonical purpose. Scripture gives strong grounds for distinguishing them without giving equal grounds for a final technical ranking. Ezekiel emphasizes God's holy name and His being known among the nations. Ephesians repeatedly directs election and redemption to the praise of God's glory while also locating God's plan in Christ and the Church as His dwelling by the Spirit. First Corinthians 15 moves from Christ's reign to the defeat of death and to God being all in all. Revelation 21-22 joins glory, throne, divine presence, renewed creation, and human reign in the same consummated scene.
+
+LST therefore presently uses this working distinction: glory answers why God's purpose terminates in God rather than in an independent creaturely end; communion or presence describes the relational reality God brings about with His redeemed people; kingdom describes the holy and righteous order under which that communion exists. This distinction is useful, but the exact ordering remains open to correction. LST will not promote it into an article of faith unless Scripture warrants greater precision.
+
+### SOVEREIGN ACTUALIZATION WITHIN LST
+
+Sovereign Actualization remains an important doctrinal synthesis within LST, but it no longer names the whole canonical architecture. It names the certainty and historical accomplishment of God's purpose: the one eternal God does not discover outcomes or revise His plan; He ordains both ends and means, and what He purposes is progressively accomplished in actual history through genuine creaturely causes until His appointed end is reached (Isaiah 46:9-11; Acts 2:23; Romans 8:28-30; Ephesians 1:9-11).
+
+Sovereign Actualization therefore answers primarily why God's purpose certainly succeeds and how an eternal purpose is accomplished in time without becoming a changing divine plan. It does not, by itself, identify the ultimate purpose for which creation exists. The decree points beyond itself to what God purposes in Christ, through covenant and redemption, toward His glory, His righteous reign, His dwelling with His people, and the renewal of creation.
+
+Actualization is descriptive, not hermeneutical. It may summarize relations already demonstrated from Scripture, but it may never supply a relation the biblical author did not write. If continued exegesis shows that any present formulation of Sovereign Actualization exceeds or distorts the text, that formulation must be qualified or surrendered.
+
+### THE ROLE OF THE HOLY SPIRIT, THE CHURCH, AND HUMAN REASON
+
+LST confesses that the Holy Spirit inspired the biblical writings and that believers depend upon God as they seek to understand and obey them. The Spirit's work does not make any particular human interpretation infallible. LST therefore never claims that the Holy Spirit has authenticated one of its disputed conclusions. A theological conclusion stands or falls by the biblical evidence and argument offered for it.
+
+Theology is not pursued as though no one has read Scripture before. LST listens to the historic Church, ancient creeds, confessions, exegetes, theologians, linguistic scholarship, historical study, and serious critics. Their testimony can expose blind spots, preserve hard-won distinctions, and uncover forgotten arguments. None of them becomes the final rule. Agreement across centuries is significant evidence of how Christians have read a text, but it is not inspiration.
+
+Human reasoning is necessary because systematic theology necessarily compares, distinguishes, infers, and synthesizes. Reason is a servant receiving and organizing revelation, not an autonomous court standing above God. Philosophical language may clarify what Scripture teaches, but it must never manufacture certainty where Scripture has not supplied it.
+
+### THE ROLE OF ARTIFICIAL INTELLIGENCE
+
+Artificial intelligence may be used as an instrument of theological research. It can assist with searching large bodies of material, comparing interpretations, tracing cross-references, mapping arguments, identifying hidden assumptions, locating counterevidence, testing internal consistency, summarizing historical positions, and generating questions a human interpreter may not have considered. Properly used, these abilities make AI especially useful for adversarial testing of a systematic theology.
+
+AI possesses no theological authority by virtue of computation, scale, fluency, or agreement with other AI systems. An AI answer is not revelation, inspiration, illumination, or a vote from the Church. Repeated AI agreement may only reveal repeated training patterns. Every AI-generated claim must therefore be treated as a proposal to be tested against Scripture and, where relevant, the underlying linguistic, historical, and textual evidence.
+
+LST deliberately uses AI against itself. The tool should not merely search for support for the current system. It should be asked to construct the strongest rival reading, identify passages the system finds difficult, expose where a conclusion depends on an unstated premise, distinguish explicit statements from inference, and state what evidence would falsify the present formulation. An AI that only confirms the system is being used poorly.
+
+### THE LIVING REVISION RULE
+
+Every substantial LST position remains open to external examination. When a challenge exposes a passage the system has mishandled, the passage must be settled before the system is defended. When a position changes, the reason for the change should be stated rather than hidden. When an issue remains unresolved, the pressure should remain visible rather than being buried beneath a confident heading.
+
+Formal versions of LST should preserve a visible revision discipline. Material changes should identify what changed, which biblical evidence required or justified the change, and whether the revision strengthens, qualifies, lowers confidence in, or abandons the earlier formulation. That record is kept in a companion document rather than inside this one, so that the systematic reads as a statement of what LST presently holds while the history of its corrections remains open to anyone who wants to check it. Versioning records the fallibility of the theology; it does not imply development in Scripture itself.
+
+LST therefore seeks continuity without rigidity. Earlier conclusions are not discarded merely because novelty is possible, and novelty is not resisted merely because a conclusion is old. The question is always the same: Is this what the inspired author intended, and does the whole counsel of Scripture sustain it?
+
+The goal of LST is not to become infallible. That status belongs to Scripture, not to a theological project. Its goal is to become increasingly faithful by being increasingly corrigible: to confess plainly where Scripture speaks plainly, to reason carefully where synthesis is necessary, to remain modest where the evidence is incomplete, and to change whenever God's written Word requires change.
+
+---
+
+[Return to complete Systematic](../LIVING_SYSTEMATIC_THEOLOGY.md)
