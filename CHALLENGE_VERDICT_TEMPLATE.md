@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/challengeverdicttemplate.svg" alt="Illustrated LST banner for LST Challenge Verdict Template" width="100%">
+</p>
+
 <h1 align="center">LST Challenge Verdict Template</h1>
+<p align="center"><em>A public framework for reasoned, Scripture-based challenge decisions</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 This template governs the public disposition of challenges submitted through the Living Systematic Theology GitHub repository.
 

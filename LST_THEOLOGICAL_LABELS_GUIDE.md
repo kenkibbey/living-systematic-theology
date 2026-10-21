@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/lsttheologicallabelsguide.svg" alt="Illustrated LST banner for LST Theological Labels Guide" width="100%">
+</p>
+
 <h1 align="center">LST Theological Labels Guide</h1>
+<p align="center"><em>Where LST aligns with traditions—and where Scripture requires distinctions</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 ## What This Guide Is
 

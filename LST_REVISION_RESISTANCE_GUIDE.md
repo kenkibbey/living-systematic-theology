@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="assets/banners/lstrevisionresistanceguide.svg" alt="Illustrated LST banner for LST Revision Resistance" width="100%">
+</p>
+
 <h1 align="center">LST Revision Resistance</h1>
+<p align="center"><em>The strongest biblical case for retention tested before any proposed revision</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 ## Purpose
 

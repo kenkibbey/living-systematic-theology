@@ -1,8 +1,11 @@
-# Living Systematic Theology
 
-![Living Systematic Theology — Scripture governs](assets/lst-banner.svg)
+<p align="center">
+  <img src="assets/banners/readme.svg" alt="Illustrated LST banner for Living Systematic Theology" width="100%">
+</p>
 
-*A Christ-centered, Scripture-governed, continuously reforming systematic theology*
+<h1 align="center">Living Systematic Theology</h1>
+<p align="center"><em>A Christ-centered, Scripture-governed, continuously reforming systematic theology</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 **Current theological version: 2.7 · October 21, 2026**
 

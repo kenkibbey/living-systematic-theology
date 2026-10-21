@@ -1,6 +1,11 @@
-# LST Plain-Language Glossary
 
-*Short explanations of words you may encounter while reading Living Systematic Theology*
+<p align="center">
+  <img src="assets/banners/lstglossary.svg" alt="Illustrated LST banner for LST Plain-Language Glossary" width="100%">
+</p>
+
+<h1 align="center">LST Plain-Language Glossary</h1>
+<p align="center"><em>Plain-language explanations for careful theological reading</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 This is a **reader's aid**, not a replacement for the [Creed](LST_CREED.md) or [full Systematic](LIVING_SYSTEMATIC_THEOLOGY.md). Some words have different meanings across Christian traditions. The linked sections show what LST actually argues.
 
