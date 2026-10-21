@@ -7,7 +7,7 @@
 <p align="center"><em>A reproducible plan for testing the proposed independent-review process</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
-**Status: NOT YET VALIDATED OR ADOPTED.** This pilot permits **project-assisted ChatGPT / T.A.I.T. as Role B**, as long as its private project context and limitations are disclosed. The public defender prompt remains published, but private additional instructions mean the actual run is not fully reproducible from public prompts alone. The existing GitHub challenge rules remain official until separately revised.
+**Status: PILOT NOT YET FULLY VERIFIED OR ADOPTED.** The owner now uses a standalone **LST Defender Revision Resistance** project configured with the published Prompt B instead of the earlier T.A.I.T.-assisted defender arrangement. The actual October 21 Issue #33 Role B report remains historically labeled project-assisted. All new reports identify their real inputs, access, and limitations; a separate project does not establish guaranteed independence. The current GitHub challenge rules remain official unless separately revised and verified.
 
 ## Purpose
 
@@ -18,8 +18,8 @@ Test whether a structured four-role review improves the quality and independence
 ## Required tasks for each trial
 
 1. **Freeze the case.** Identify exact LST version and disputed words, original public challenge (including rebuttals), complete defender response, proposed correction, source-access limitations, and a citation to the issue's exact GitHub state. Do not rely on a single partisan summary.
-2. **Record assignments.** Example: Grok = examiner; project-assisted ChatGPT / T.A.I.T. = disclosed LST defender (Prompt B); Claude = separate adjudicator; Gemini = separate verifier. A, C and D roles may rotate, but neither adjudicator nor verifier may inherit Role B's private LST project context; never reuse the same session as both judge and verifier.
-3. **Record public role prompts and disclose project-assisted B context.** Current pilot prompts: [A — Challenger's Advocate](PROMPT_A_CHALLENGE_ADVOCATE.md) (earlier reports may cite the [historical A examiner prompt](PROMPT_A_ADVERSARIAL_EXAMINER.md)), [B](PROMPT_B_LST_DEFENDER.md), [C](PROMPT_C_INDEPENDENT_ADJUDICATOR.md), [D](PROMPT_D_INDEPENDENT_VERIFIER.md). Record provider/model, date, customization/memory status, and any additional constraints. Any additional private LST project context for Role B must be disclosed as a limitation of exact reproducibility; the complete B-series reasoning and public source inputs remain reviewable.
+2. **Record assignments.** Example: Grok = challenger's advocate; a separately instructed AI = LST defender (Prompt B); Claude = independent adjudicator; Gemini = independent verifier. All four provider assignments may vary. Separate the advocate, defender, judge, and verifier conversations, and document any actual additional context instead of presuming the new defender uses T.A.I.T. instructions. For historical Issue #33, retain its original project-assisted B attribution.
+3. **Record public role prompts and actual context.** Current reusable prompts: [A — Challenger's Advocate](PROMPT_A_CHALLENGE_ADVOCATE.md) (historical reports may name [the earlier A examiner prompt](PROMPT_A_ADVERSARIAL_EXAMINER.md)), [B](PROMPT_B_LST_DEFENDER.md), [C](PROMPT_C_INDEPENDENT_ADJUDICATOR.md), [D](PROMPT_D_INDEPENDENT_VERIFIER.md). For every run record its real prompt/version, provider/model (if known), date, source packet, memory/customization limits, and additional instructions **if any**. Do not invent private T.A.I.T. instructions in a standalone B run; do not erase those instructions from the historical #33 report.
 4. **Do not decide from prose alone.** Each reviewer must access the passages used as actual evidence, disclose source limitations, and distinguish the challenge's merit from the current doctrine's affirmative biblical warrant.
 5. **Test position-order effects.** When practical, blind A/B party labels for the initial adjudication and perform a fresh swapped-order rerun. Record any changed conclusions.
 6. **Publish the disagreement.** The verifier must identify material problems, not invent agreement. A major discrepancy means adjudication is not verified; a second visible examination may be necessary.
@@ -41,6 +41,8 @@ Test whether a structured four-role review improves the quality and independence
 
 **Preserve provenance:** Full reports and their prompt IDs/model information remain immutable in substance; publish later corrections as separately attributed amendments or version-controlled changes with visible explanations. Earlier A runs under **Adversarial Examiner** remain historically labeled, even though the current proposed role is **Challenger's Advocate**. The case archive does not establish a new issue, peer-reviewed human finding, doctrinal verdict or new official policy. Do not report an unrun role as complete.
 
+**Publishing a read-only AI's results:** The owner reports Gemini can now read relevant Google Drive and GitHub sources, but cannot post to GitHub. Once Gemini produces its **complete original report**, the owner may transfer it to an authorized Project Engineer publishing session. Record **Gemini** as report author/examiner and **ChatGPT / Project Engineer** solely as publishing intermediary; preserve Gemini's substantive wording and all stated source limits, report version/date, and available provenance. Do not convert a Gemini access claim into verified source checking without the actual report's evidence. Publish a separately attributed complete Markdown report under the existing case folder, read it back, then link it in a brief notice on the **same original GitHub issue** when authorized. Never create a companion issue or mislabel the publisher as the examiner.
+
 ## What a report must contain
 
 - Exact public prompt version or commit SHA, full input list, actual model assignments, and what each model truly had available.
@@ -49,7 +51,7 @@ Test whether a structured four-role review improves the quality and independence
 - Verifier's truly independent critique, supporting and opposing passages checked, omissions, bias checks, and disagreement.
 - Whether a proposal to change LST was made, and the difference between a *recommendation*, *approved change*, *verified Drive edit*, and *verified GitHub public release*.
 
-**Not a completed run:** This repository presently publishes only the workflow and exact prompts. No completed Grok/Claude/Gemini independent review should be claimed until those actual outputs and provenance have been obtained and checked.
+**Pilot record as of October 21, 2026:** [Issue #33](CASES/ISSUE-0033/README.md) contains Grok A, ChatGPT B, Claude C and a Gemini D report. The owner adopted Claude's **PARTIALLY SUSTAINED** conclusion for that limited pilot, but Gemini D expressly lacked access to decisive original sources. Thus **the four-AI independent source-verification requirement was not met**, and no fully validated four-role examination or permanently adopted new challenge method is claimed. Future completed source checks must be evidenced by actual access and reviewed against the full case packet.
 
 ---
 
