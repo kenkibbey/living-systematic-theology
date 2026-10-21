@@ -54,5 +54,7 @@ An actual verification can be reported only after this full prompt, the complete
 
 ---
 
-**Reading complete. [Return to table of contents ↑](README.md)**
+**[Continue → Step 7: Study and Reference Library](../GUIDE/07_STUDY_AND_REFERENCES.md)**
+
+[Return to main Start Here ↑](../README.md#start-here) · [Return to AI review contents ↑](README.md)
 
