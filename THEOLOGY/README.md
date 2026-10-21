@@ -9,7 +9,7 @@ This path starts with what LST actually teaches, **before** its process for hand
 | 1 | [LST in Five Minutes](../LST_IN_FIVE_MINUTES.md) | The basic theology without technical detail |
 | 2 | [Confidence Map](CONFIDENCE_MAP.md) | Which important claims are confessed, inferred, possible, or unsettled |
 | 3 | [The LST Creed](../LST_CREED.md) | Full confessional summary with qualifications |
-| 4 | [The Living Systematic Theology](../LIVING_SYSTEMATIC_THEOLOGY.md#contents) | Complete 23-chapter argument and counterevidence |
+| 4 | [Read the Systematic chapter by chapter](CHAPTERS/README.md) | Generated mobile-friendly pages for all 23 chapters and the conclusion; [complete governing source](../LIVING_SYSTEMATIC_THEOLOGY.md#contents) |
 
 Read each page all the way through. At the end, use **Continue** or **Return to this contents page**.
 

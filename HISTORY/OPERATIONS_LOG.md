@@ -11,6 +11,7 @@ This log concerns the **public website/repository presentation and review admini
 - Kept the proposed four-AI independent-review prompts **open for public inspection but not yet in force**; no old challenge is represented as having received a four-model independent finding.
 - Preserved current history and revision records. Navigation redesigns and a new website do not themselves advance the theological version.
 - Prepared future GitHub site/release support and a simpler non-challenge feedback channel, subject to platform permissions and verification.
+- Generated 23 separate chapter reading copies plus the conclusion from the current public Version 2.7 Systematic. These are presentation outputs, not additional doctrinal authorities. A deterministic generator and automatic parity-check workflow protect against future drift.
 
 ## Accuracy and privacy
 
