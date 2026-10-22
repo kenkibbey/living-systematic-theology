@@ -9,6 +9,14 @@
 
 This log concerns the **public website/repository presentation and review administration**, not independent doctrinal authority. Material theological revisions belong in the Systematic and complete Revision Record; older mixed historical entries in that record are preserved rather than rewritten away.
 
+## October 22, 2026 — Synchronization of Version 2.9 reading pages and navigation
+
+- Regenerated all 23 non-governing chapter reading pages and the Conclusion from the current public Version 2.9 Systematic, restoring paragraph separation in the phone-friendly copies without altering their doctrinal claims.
+- Corrected stale current-version labels in the Confidence Map, chapter index, history index and website entrypoint; kept historical version references in the changelog and earlier examinations unchanged.
+- Gave the Conclusion a clearly labeled route back to “Read the Theology — Start Here,” in addition to its chapter and homepage navigation.
+- Strengthened the deterministic generator's consistency check so future theological releases fail publication checks if those current-version navigation labels or the newest change-overview row fall behind the governing source.
+- These are presentation and consistency repairs only, not a new theological version or doctrinal revision.
+
 ## October 21, 2026 — Public repository clarity work
 
 - Revised GitHub navigation to give visitors three clear choices: read the theology, challenge a claim, or inspect changes.

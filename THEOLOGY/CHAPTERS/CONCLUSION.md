@@ -3,12 +3,12 @@
 </p>
 
 <h2 align="center">Conclusion</h2>
-<p align="center"><em>LST 2.8 · <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">Complete authoritative Systematic</a></em></p>
+<p align="center"><em>LST 2.9 · <a href="../../LIVING_SYSTEMATIC_THEOLOGY.md">Complete authoritative Systematic</a></em></p>
 <p align="center">✦ Scripture governs · Every claim remains testable ✦</p>
 
 Living Systematic Theology exists under the authority of the living God and His written Word. Its purpose is not to construct a theological scheme that becomes too important to question, but to gather the teaching of the whole canon in a form that can be continually examined by that canon. Scripture is not revised when LST changes. LST changes because Scripture has the right to correct it.
 
-Version 2.8 presently confesses the Triune God; creation by His Word; humanity's fall in Adam; the incarnation, obedience, substitutionary death, bodily resurrection, ascension, intercession, present reign, and return of Jesus Christ; the Spirit's life-giving and sanctifying work; salvation by sovereign grace; the universal proclamation of the gospel; the preservation and perseverance of those united to Christ; the unity and development of God's covenant purposes; the one reconciled people of believing Jew and Gentile in Christ without erasing ethnic Israel's continuing significance, including the future corporate saving mercy confessed from Romans 11; bodily resurrection; final judgment; and the new creation.
+Version 2.9 presently confesses the Triune God; creation by His Word; humanity's fall in Adam; the incarnation, obedience, substitutionary death, bodily resurrection, ascension, intercession, present reign, and return of Jesus Christ; the Spirit's life-giving and sanctifying work; salvation by sovereign grace; the universal proclamation of the gospel; the preservation and perseverance of those united to Christ; the unity and development of God's covenant purposes; the one reconciled people of believing Jew and Gentile in Christ without erasing ethnic Israel's continuing significance, including the future corporate saving mercy confessed from Romans 11; bodily resurrection; final judgment; and the new creation.
 
 LST's present canonical architecture understands these truths as parts of one larger purpose. God sovereignly purposes to make His holy name and glory known by bringing creation to its appointed fulfillment in Jesus Christ. Through the Son He redeems and gathers a holy people with whom He will dwell under His righteous reign in renewed creation. Covenant is the pledged historical structure of promise and relationship. Redemption, atonement, resurrection, the Spirit, proclamation, obedience, judgment, and providence are ordained means. God's decree supplies the causal certainty that His purpose will not fail. The new creation is the final historical consummation in which death and curse are removed, God and the Lamb dwell with the redeemed, and His servants see His face and reign.
 
@@ -31,6 +31,8 @@ LST is therefore not a finished theology claiming to have mastered Scripture. It
 Soli Deo Gloria.
 
 ---
+
+**[← Return to Read the Theology — Start Here](../README.md)**
 
 **[Reading complete → How to Challenge LST](../../CHALLENGE/README.md)**
 

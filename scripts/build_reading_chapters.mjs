@@ -29,7 +29,7 @@ for (let i = 0; i < headings.length; i++) {
   const end = i < 22 ? headings[i + 1].index : src.indexOf("## CONCLUSION", m.index);
   if (end < m.index) throw Error("Missing conclusion");
   const body = src.slice(m.index + m[0].length, end)
-      .replace(/\[↑ Back to Contents\]\(#contents\)/g, "").trim();
+      .replace(/\[↑ Back to Contents\]\(#contents\)/g, "").trim().split(/\n+/).join("\n\n");
   const n = Number(m[1]), title = titleCase(m[2]).replace(/ (And|Of|The|In|For|To|By)\b/g, v => v.toLowerCase());
   const next = n === 23 ? "CONCLUSION.md" : `${String(n + 1).padStart(2, "0")}.md`;
   const label = n === 23 ? "Conclusion" : `Chapter ${n + 1}`;
@@ -54,7 +54,7 @@ ${body}
 const start = src.indexOf("## CONCLUSION");
 const stop = src.indexOf("Soli Deo Gloria.", start) + "Soli Deo Gloria.".length;
 if (start < 0 || stop <= start) throw Error("Cannot find conclusion");
-const conclusion = src.slice(start + "## CONCLUSION".length, stop).trim();
+const conclusion = src.slice(start + "## CONCLUSION".length, stop).trim().split(/\n+/).join("\n\n");
 const conclusionPage = `<p align="center">
   <img src="../../assets/banners/theology-chapters-conclusion.svg" alt="Illustrated banner for the LST Conclusion " width="100%">
 </p>
@@ -67,9 +67,24 @@ ${conclusion}
 
 ---
 
+**[← Return to Read the Theology — Start Here](../README.md)**
+
 **[Reading complete → How to Challenge LST](../../CHALLENGE/README.md)**
 
 [Chapter Contents ↑](README.md) · [Theology Contents ↑](../README.md) · [Main Start Here ↑](../../README.md#start-here)
 `;
 write("CONCLUSION.md", conclusionPage);
+if (check) {
+  const expectations = [
+    ["THEOLOGY/CONFIDENCE_MAP.md", `Current Systematic: Version ${version}`],
+    ["THEOLOGY/CHAPTERS/README.md", `current Version ${version} Systematic`],
+    ["HISTORY/README.md", `index reflects Version **${version}**`],
+    ["index.md", `Current version: ${version}`],
+    ["HISTORY/CHANGELOG.md", `**${version} —`],
+  ];
+  for (const [name, required] of expectations) {
+    if (!fs.readFileSync(name, "utf8").includes(required))
+      throw Error(`Navigation or history version is out of sync with LST ${version}: ${name}`);
+  }
+}
 console.log(`${check ? "Verified" : "Generated"} 23 chapters and conclusion for LST ${version}`);

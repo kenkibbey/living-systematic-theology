@@ -11,7 +11,7 @@ title: Living Systematic Theology
 <p align="center"><em>A Christ-centered, Scripture-governed, continuously reforming systematic theology</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
-**Current version: 2.7 — October 21, 2026**
+**Current version: 2.9 — October 21, 2026**
 
 LST is a fallible attempt to state Scripture's theology faithfully. The Bible is final authority; LST can be corrected. The project is maintained by Ken Kibbey with AI-assisted research and public biblical challenges.
 
