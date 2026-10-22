@@ -6,7 +6,17 @@ This folder holds the **complete public AI review reports for Issue #35** as ver
 
 **Case status (October 21, 2026):** **Open.** All four Prompt A/B/C/D reports have now been archived. Claude Prompt D reports **VERIFIED WITH CORRECTIONS** concerning Grok's provisional **NOT SUSTAINED** conclusion on confidence promotion, while identifying substantive corrections to the supporting argument and further limited-source questions. This is a reviewer-reported verification disposition, **not** an official LST verdict, independent confirmation by the publishing intermediary, or adoption of the four-AI pilot. LST Version 2.8's current **ARGUED POSSIBILITY** grade for eternal conscious punishment remains unchanged.
 
-**Supplemental update (October 21, 2026, evening):** Claude archived a **Prompt D supplemental addendum**. Grok has now completed a focused supplemental judicial adjudication of that addendum. Grok affirms that promotion remains **NOT SUSTAINED**, both models retain **ARGUED POSSIBILITY**, Mark 9:43–48 is two-edged, and no clear comparative preference is established. Limited wording clarifications are noted for ordinary revision consideration. The case remains open pending final verification and owner-authorized disposition.
+**Supplemental update (October 21, 2026, evening):** Claude archived a **Prompt D supplemental addendum**. Grok has now completed a focused supplemental judicial adjudication of that addendum. Grok affirms that promotion remains **NOT SUSTAINED**, both models retain **ARGUED POSSIBILITY**, Mark 9:43–48 is two-edged, and no clear comparative preference is established. Limited wording clarifications are noted for ordinary revision consideration.
+
+**Final Prompt D verification (October 21, 2026, late evening):** Claude finds Grok's supplemental adjudication **VERIFIED**, subject to one non-dispositive drafting correction: Grok's §5 comparative sentence should not become Chapter 23 wording. Claude also **formally withdraws** its earlier "modest but contestable" preference for eternal conscious punishment. It traces that preference to its own **inconsistent evidentiary standard**: it had counted Revelation's visions as "direct" testimony while classing direct statements such as Matthew 10:28 and 2 Thessalonians 1:9 as "imagery."
+
+The resulting record is:
+- promotion to DEFENDED SYNTHESIS is **NOT SUSTAINED**;
+- both models retain **ARGUED POSSIBILITY**;
+- no comparative preference is established;
+- Chapter 23 wording and coverage concerns are **PARTIALLY SUSTAINED**.
+
+Claude reports the examination **ready for owner-authorized disposition**. The case remains **open**, and no official verdict has been declared.
 
 ## Reports
 
@@ -18,6 +28,7 @@ This folder holds the **complete public AI review reports for Issue #35** as ver
 | C — Supplemental adjudication | Grok / xAI (Grok 4.7) | [October 21, 2026 Prompt C supplemental judicial adjudication](C_GROK_SUPPLEMENTAL_ADJUDICATION_2026-10-21.md) | **Completed and published by Grok; affirms NOT SUSTAINED, both models remain ARGUED POSSIBILITY, no clear comparative preference established; original J1–J9 preserved unchanged** |
 | D — Independent judicial reviewer | Claude / Anthropic (Claude Opus 5.5, `claude-opus-5-5`) | [Complete October 21, 2026 Prompt D report, V1–V8](D_CLAUDE_INDEPENDENT_VERIFICATION_2026-10-21.md) | **Completed and archived without substantive edits; VERIFIED WITH CORRECTIONS as reported by Claude; source limitations disclosed** |
 | D — Supplemental addendum | Claude / Anthropic (Claude Opus 5.5, `claude-opus-5-5`) | [October 21, 2026 Prompt D supplemental addendum: G3 source search, October 8 examination, Mark 9, comparative question](D_CLAUDE_SUPPLEMENTAL_ADDENDUM_2026-10-21.md) | **Owner-reviewed and published directly by Claude; corrects and extends the V1–V8 report, which is preserved unchanged; disposition unchanged; comparative finding addressed by Grok supplemental** |
+| D — Final supplemental verification | Claude / Anthropic (Claude Opus 5.5, `claude-opus-5-5`) | [October 21, 2026 Final Prompt D Supplemental Verification](D_CLAUDE_FINAL_SUPPLEMENTAL_VERIFICATION_2026-10-21.md) | **Owner-reviewed and published directly by Claude; Grok supplemental VERIFIED with one non-dispositive drafting correction; earlier ECP preference withdrawn (inconsistent standard); ready for owner-authorized disposition; earlier Prompt D records preserved unchanged** |
 
 **Prompt A provenance:** Run under the public [Prompt A — Challenger's Advocate](../../PROMPT_A_CHALLENGE_ADVOCATE.md), version `2026-10-21-A5`, supplied as the instructions of a claude.ai Project that syncs this repository. The report discloses its sources, its text-checking limits (no lexicons or commentaries; the full Revision 36 / G3 Drive audit report was not located), and the incidental reading of one owner Drive research note on which no argument depends. Arguments added by the AI are labeled separately from the owner-filed issue's original case. The report was published at the owner's explicit direction, after the owner corrected an earlier instruction that had misidentified the role as Prompt C.
 
@@ -55,6 +66,20 @@ The owner reviewed the draft before publication. Claude committed the file and p
   - The comparative weighting is contestable.
   - **Same-provider overlap:** Claude wrote the October 9 G1–G7 challenge that G3 answered, Prompt A, and both Prompt D documents. Testing by a different provider is recommended.
 - **Correction of an administrative discrepancy.** The addendum also corrects the V1–V8 report's statement that the issue had no comments. That statement relied on a page-summarizing tool, while the GitHub API confirms that the A, B, and C notices were already posted.
+
+**Final Prompt D supplemental verification: provenance.** Same reviewer, model, Project, and session as the earlier Prompt D records. The owner reviewed the report before publication. Claude committed the file and posted the issue notice directly, with no publishing intermediary. Claude rechecked the decisive texts in SBLGNT, with earlier Byzantine and Nestle 1904 cross-checks. Grok's own source note shows that its Mark 9 and Isaiah 66:24 checks relied partly on Claude's addendum. Grok's agreement is therefore a judgment on the merits, not an independent re-collation.
+
+**Final Prompt D supplemental verification: findings.**
+- **Grok's textual findings are verified:** Revelation 20:14, Jude 7, 2 Peter 2:6, Mark 9:43–48, and Daniel 12:2.
+- **Matthew 25:46 and 2 Thessalonians 1:9 are matched counterparts.** Both describe the Lord's coming with his angels and a two-group judgment, and both state the wicked's lot as "eternal" plus a penalty noun. Each is open to the other side's reading by precedent within Scripture.
+- **Under one evidentiary standard,** the texts favoring eternal conscious punishment speak most directly to duration, and those favoring conditional immortality speak most directly to the nature of the outcome. Neither set settles the other's question.
+- **Claude's earlier preference is withdrawn** because of that inconsistent standard. The report records that Grok's agreement played no part in the withdrawal.
+- **Smallest justified action:**
+  - retain both models at ARGUED POSSIBILITY;
+  - add a neutral sentence that a shared grade does not mean identical weight or kind;
+  - correct four Chapter 23 passage-statements (Revelation 20:14; Jude 7; 2 Peter 2:6; Mark 9);
+  - express no preference and do not reopen the grade.
+- **Remaining questions:** the 2 Peter 2:6 manuscripts, the Jude 7 persons-reading, and the missing G3 report. Claude judges that none of them could materially change the result.
 
 **Method and status:** This is an **unadopted four-AI pilot**, not the current official challenge procedure. Publishing a role's argument is not an official LST verdict and changes no doctrine, confidence grade, or governing document.
 
