@@ -29,6 +29,16 @@ Choose **one of three paths**. Each has its own table of contents and moves forw
 
 The published four-AI guide is **an unadopted pilot**, not the official review procedure. Its four complete proposed AI task prompts are public. A judge's AI output is never divine authority or independent human peer review.
 
+## What makes LST different?
+
+Other Christian projects have pursued open-source theological discussion, revisable confessions, collaborative scriptural research, and publicly accountable revisions. LST does not claim to have invented those ideas.
+
+What distinguishes its **documented working approach** is the **combination** of a continuously maintained systematic theology, explicit distinctions in doctrinal confidence, a strongest-case-for-retention test before revision, preserved superseded versions, public biblical challenges, and a traceable Revision Record. The four-AI judicial-style review remains a **pilot**, not the adopted challenge policy.
+
+**[Read the source-checked comparison: How Distinctive Is Living Systematic Theology? →](RESEARCH/COMPARATIVE_STUDY_OF_REVISABLE_THEOLOGY_2026-10-21.md)**
+
+The study compares **eight** historical, denominational and digital projects and clearly distinguishes established precedents from features for which no exact analogue was verified. It is an AI-assisted **research note, not independent theological peer review or proof of worldwide uniqueness**. [Research index →](RESEARCH/README.md)
+
 **Project principle:** Say what Scripture establishes, at the confidence it gives; do not claim more, and do not surrender what the text actually requires.
 
 **License:** [CC BY 4.0](LICENSE) for original LST materials, with third-party rights excluded. **Contact or questions:** use [GitHub Issues](https://github.com/kenkibbey/living-systematic-theology/issues) and the challenge/question options explained in the second reading path.
