@@ -9,6 +9,8 @@
 
 Everyone may challenge LST without being a theologian or using AI. Scripture, not the number of comments or the popularity of a viewpoint, supplies the evidence.
 
+**Not ready to file a formal challenge?** You're welcome to join the [Bible Questions & Discussion! welcome thread](https://github.com/kenkibbey/living-systematic-theology/discussions/38) or explore [all community Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions). Questions, explorations, and disagreement can happen there without entering the formal adjudication queue. If discussion develops into a specific testable objection, use the challenge steps below to submit an Issue.
+
 ## Table of contents
 
 | Step | Reading | Purpose |
