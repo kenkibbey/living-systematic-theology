@@ -57,6 +57,10 @@ The purpose of the fifth item is to make the challenge testable rather than mere
 
 You may appeal to theologians, confessions, church traditions, historical sources, linguistic work, or other research as evidence and context. None of those authorities can replace the biblical case.
 
+## Recognition of contributors
+
+Submitting a public biblical challenge is itself a meaningful contribution to LST, regardless of whether the argument is ultimately sustained. We recognize verified public issue openers by their GitHub usernames and issue links on the [Contributors & Acknowledgments page](CONTRIBUTORS.md). Inclusion records participation, **not endorsement or theological agreement**. The public issue history remains the definitive record as additional contributors participate. AI research assistants receive their own separately labeled credit rather than false commit attribution.
+
 ## What Happens After a Challenge Is Submitted
 
 A challenge is treated as a claim to examine, not as a verdict.
