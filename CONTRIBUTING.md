@@ -9,6 +9,8 @@
 
 Living Systematic Theology welcomes serious biblical challenge.
 
+**Open discussion is welcome too.** [GitHub Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions) is a place for biblical questions, theological conversation and shared sources; [start with the pinned welcome thread](https://github.com/kenkibbey/living-systematic-theology/discussions/38). **Discussions are not formal LST challenges** and do not initiate the adjudication or rebuttal timetable. For a precise doctrinal or methodological challenge requiring a documented verdict, follow the Issue process below.
+
 The purpose of this repository is not to crowdsource doctrine, collect votes, or reward the most popular theological tradition. The purpose is to expose LST to arguments strong enough to correct it where Scripture requires correction and strong enough to strengthen it where its present formulation survives examination.
 
 ## The Authority Structure
