@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banners/readme.svg" alt="Illustrated LST banner for Living Systematic Theology" width="100%">
+  <img src="assets/banners/lst-readme-banner.jpg" alt="Living Systematic Theology — an open Bible at sunrise; Christ-centered, Scripture-governed, continuously reforming" width="100%">
 </p>
 
 <h1 align="center">Living Systematic Theology</h1>
