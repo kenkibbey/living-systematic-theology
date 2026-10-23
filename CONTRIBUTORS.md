@@ -1,4 +1,10 @@
-# Contributors and Acknowledgments
+<p align="center">
+  <img src="assets/banners/contributors.svg" alt="Illustrated navy-and-gold banner for LST Contributors and Acknowledgments" width="100%">
+</p>
+
+<h1 align="center">Contributors &amp; Acknowledgments</h1>
+<p align="center"><em>Recognizing biblical challenges, thoughtful collaboration, and transparently credited research</em></p>
+<p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
 Living Systematic Theology (LST) welcomes people who contribute **biblical questions, challenges, corrections, research, review, writing, software work, and careful criticism**. A contribution does not have to agree with LST or result in a doctrinal change to deserve acknowledgment.
 
