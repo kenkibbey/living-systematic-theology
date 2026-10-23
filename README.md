@@ -39,6 +39,14 @@ What distinguishes its **documented working approach** is the **combination** of
 
 The study compares **eight** historical, denominational and digital projects and clearly distinguishes established precedents from features for which no exact analogue was verified. It is an AI-assisted **research note, not independent theological peer review or proof of worldwide uniqueness**. [Research index →](RESEARCH/README.md)
 
+## Contributors & Acknowledgments
+
+**Questions and biblical challenges are real contributions.** We recognize the public GitHub members who have opened issues, alongside the distinct roles of Claude, ChatGPT, Grok, and other documented AI research assistants.
+
+**[Meet the contributors and see the acknowledgments →](CONTRIBUTORS.md)**
+
+A person is thanked for challenging LST whether or not their argument is adopted. AI tools are credited for the tasks they actually performed, without treating them as independent human scholars or confusing acknowledgments with GitHub's commit-based Contributors graph.
+
 **Project principle:** Say what Scripture establishes, at the confidence it gives; do not claim more, and do not surrender what the text actually requires.
 
 **License:** [CC BY 4.0](LICENSE) for original LST materials, with third-party rights excluded. **Contact or questions:** use [GitHub Issues](https://github.com/kenkibbey/living-systematic-theology/issues) and the challenge/question options explained in the second reading path.
