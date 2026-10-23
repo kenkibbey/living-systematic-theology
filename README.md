@@ -19,13 +19,16 @@ Living Systematic Theology (**LST**) is a fallible attempt to state what the Bib
 
 ## Start Here
 
-Choose **one of three paths**. Each has its own table of contents and moves forward with **Continue → Next** and **Return to Contents ↑** at the end of each chapter.
+Choose **one of four paths**. Each has its own table of contents and moves forward with **Continue → Next** and **Return to Contents ↑** at the end of each chapter.
 
 | Your goal | Start here | What you'll find |
 | --- | --- | --- |
 | **📖 Read the theology** | **[Read LST →](THEOLOGY/README.md)** | Five-minute introduction, a confidence map, the Creed, and the complete Systematic |
 | **⚖️ Challenge a claim** | **[Challenge LST →](CHALLENGE/README.md)** | How to submit a challenge, the governing biblical method, actual rules, and the separate four-AI **pilot** |
 | **🕮 See what changed** | **[Explore the history →](HISTORY/README.md)** | Doctrinal changes, the full Revision Record, and release/version information |
+| **💬 Join the conversation** | **[Discuss Scripture →](https://github.com/kenkibbey/living-systematic-theology/discussions)** | Ask Bible questions, explore interpretations, and share ideas without filing a formal challenge |
+
+**New to the community?** [Begin with our pinned welcome discussion](https://github.com/kenkibbey/living-systematic-theology/discussions/38). Discussions are for open conversation; formal challenges are handled through the separate **Challenge a claim** path.
 
 The published four-AI guide is **an unadopted pilot**, not the official review procedure. Its four complete proposed AI task prompts are public. A judge's AI output is never divine authority or independent human peer review.
 
@@ -49,7 +52,7 @@ A person is thanked for challenging LST whether or not their argument is adopted
 
 **Project principle:** Say what Scripture establishes, at the confidence it gives; do not claim more, and do not surrender what the text actually requires.
 
-**License:** [CC BY 4.0](LICENSE) for original LST materials, with third-party rights excluded. **Contact or questions:** use [GitHub Issues](https://github.com/kenkibbey/living-systematic-theology/issues) and the challenge/question options explained in the second reading path.
+**License:** [CC BY 4.0](LICENSE) for original LST materials, with third-party rights excluded. **Questions and conversation:** join [GitHub Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions). **Formal biblical challenges:** follow the [Challenge LST path](CHALLENGE/README.md) and submit through GitHub Issues.
 
 ---
 
