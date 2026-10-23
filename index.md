@@ -19,10 +19,15 @@ LST is a fallible attempt to state Scripture's theology faithfully. The Bible is
 
 ## Choose a path
 
-| Read | Challenge | See changes |
-| --- | --- | --- |
-| [Read the Theology](THEOLOGY/README.md) | [Challenge an LST Claim](CHALLENGE/README.md) | [Revision and Release History](HISTORY/README.md) |
+| Your goal | Start here |
+| --- | --- |
+| 📖 Read the Theology | [Read LST](THEOLOGY/README.md) |
+| ⚖️ Challenge a Claim | [Formal biblical challenge process](CHALLENGE/README.md) |
+| 🕮 See What Changed | [Revision and Release History](HISTORY/README.md) |
+| 💬 Join the Conversation | [Browse GitHub Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions) |
+
+**New here?** [Welcome to Bible Questions & Discussion!](https://github.com/kenkibbey/living-systematic-theology/discussions/38) — ask questions, discuss interpretations, and share insights. Discussions are for conversation; formal doctrinal challenges follow the Issues process.
 
 The four-AI independent adjudication process is currently **a published experimental design, not operative challenge policy**. Its exact proposed prompts are published so they can be tested publicly. AI has no theological authority.
 
-**[Full GitHub repository](https://github.com/kenkibbey/living-systematic-theology)** · **[License](LICENSE)** · **[Public questions and issues](https://github.com/kenkibbey/living-systematic-theology/issues)**
+**[Full GitHub repository](https://github.com/kenkibbey/living-systematic-theology)** · **[License](LICENSE)** · **[Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions)** · **[Formal issues](https://github.com/kenkibbey/living-systematic-theology/issues)**
