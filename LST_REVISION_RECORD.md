@@ -11,6 +11,21 @@ Current theological version: 2.9 (October 21, 2026)
 This document preserves doctrinal and methodological change history. Earlier entries reflect the formulations and operational circumstances at the time they were written; they are not independent present doctrine. The current LIVING_SYSTEMATIC_THEOLOGY governs current wording. Public presentation and housekeeping changes may be documented without automatically advancing the theological version.
 
 
+## REVISION 55
+Open-ended public challenge review and issue continuity
+October 26, 2026 (owner's local date; authorization October 27 UTC)
+Classification: NON-DOCTRINAL METHODOLOGICAL AND OPERATIONAL REVISION. The owner authorized an open-ended issue system for the LST GitHub repository and alignment of current Drive documentation. LIVING_SYSTEMATIC_THEOLOGY remains theological Version 2.9. No doctrine, confidence grade, biblical interpretation, or prior challenge verdict changes.
+
+Strongest case for retaining the previous procedure: The three-round and seven-day process provided a clear endpoint, a defined opportunity to rebut, a public closing reason, and protection against indefinitely repetitive review. It already rejected silence as biblical proof and allowed materially new evidence to reopen examination. Closed but unlocked issues could still receive comments, and GitHub Discussions offered a separate conversational space. Those safeguards and the practical limits on review capacity remain valid; the old procedure is not characterized as theologically false or as inherently suppressing correction.
+
+Case for the authorized refinement: A continuing issue gives later readers and contributors one visible place to examine the evidence and identify overlooked arguments without a reply-count or time cutoff. The owner chose to remove both limits, not merely to leave issues open after a scheduled rebuttal period. This is an administrative choice intended to support corrigibility, not a claim that Scripture commands a particular GitHub workflow.
+
+Adopted policy: Substantive challenge issues remain open and unlocked by default, with a maintained summary of the present position and version, current verdict or review status, main evidence, verified changes, and unresolved questions. Any contributor may add relevant arguments, corrections, sources, or questions. Theological verdict, review stage, and issue state are distinct; an open issue does not imply unsettled doctrine. The maintainer or an authorized human reviewer assesses new contributions and renews Revision Resistance when materially new or previously overlooked evidence or a material error warrants it. There is no three-round limit, seven-day deadline, guaranteed immediate response, or duty to repeat a full adjudication for repetitive comments. Public reasoning, human authorization, historical preservation, and verified implementation remain required.
+
+Administrative and moderation safeguards: Before closing a duplicate, check for distinct evidence or argument, preserve material contributions, and link the continuing issue. Misplaced issues may be redirected and an explicit request to close a resolved or withdrawn case may be honored with a recorded reason. Acceptance alone, disagreement, silence, or diminishing returns do not automatically close a substantive issue. Spam, harassment, privacy violations, and persistent off-topic disruption are moderation questions; locking needs a distinct recorded reason and must not be used to avoid theological disagreement. Comment or participant counts record participation, never biblical proof.
+
+History and release scope: Previously closed issues, historical closure notices, earlier policy entries including Revision 30, and archived examination reports are preserved. Reopening a closed issue is a separate maintainer decision. Current governing and supporting policy cross-references are aligned without rewriting historical evidence. Superseded current-document states are preserved before editing, and Drive and GitHub changes are verified independently. The four-AI workflow remains an unadopted pilot; this issue-policy change does not adopt it.
+
 ## VERSION 2.9
 October 21, 2026
 Supersedes Version 2.8
@@ -490,12 +505,9 @@ Case for the targeted change and outcome. Requiring a format agreement can obstr
 ## REVISION 30
 Public challenge rebuttals and final disposition
 
-
 At Ken's direction, the public GitHub adjudication procedure now gives each challenger up to three substantive rebuttal rounds per challenge, with a seven-day response window after the initial adjudication and each renewed adjudication while rounds remain. A timely rebuttal must be examined before closure; the third rebuttal receives a reasoned final adjudication. Earlier resolution by acceptance or withdrawal is permitted. Absence of rebuttal within an announced window makes the initial or latest adjudication final for that challenge, without treating silence as biblical proof. An unresolved outcome remains unresolved, and materially new evidence can reopen review. Existing open challenges receive fresh notice rather than retroactive expiry.
 
-
 The Prompt and Engagement Module carry this procedure; the public contribution guide and verdict template are aligned. This is an operational revision, not a theological overturn.
-
 
 ## REVISION 29
 GitHub Issues #23 and #24 — Revision Resistance and targeted clarification

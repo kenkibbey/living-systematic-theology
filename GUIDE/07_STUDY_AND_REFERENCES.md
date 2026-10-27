@@ -20,7 +20,7 @@ You've reached the reference shelf. The earlier chapters walked through the proj
 ## Examine or challenge the process
 
 - **[Open GitHub Issues](https://github.com/kenkibbey/living-systematic-theology/issues)** — Submit or read a public challenge. Choose *Challenge an LST Position* to open the available issue form.
-- **[Complete current challenge rules](../CONTRIBUTING.md)** — The currently governing public procedure, deadlines, statuses, and publication responsibilities.
+- **[Complete current challenge rules](../CONTRIBUTING.md)** — Continuing public review, issue status, administrative exceptions, moderation, and publication responsibilities.
 - **[Revision Resistance Guide](../LST_REVISION_RESISTANCE_GUIDE.md)** — Public explanation of the evidence needed to resist an unsupported revision without preserving an unsupported doctrine.
 - **[Optional public AI Auditor Prompt](../LST_OFFICIAL_AI_AUDITOR_PROMPT.md)** — A prompt challengers may run themselves. It cannot reject a challenge.
 - **[Public challenge verdict template](../CHALLENGE_VERDICT_TEMPLATE.md)** — The record format for an adjudication.

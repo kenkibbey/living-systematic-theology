@@ -11,7 +11,9 @@
 
 The reviewer must determine whether (a) a challenge demonstrates a fault, (b) the current LST doctrine has *positive biblical warrant at its claimed confidence*, and (c) the challenger’s replacement is itself warranted. These are three different questions. Failure of the attack is not proof of the defense; a valid criticism is not automatic proof of a replacement.
 
-Possible dispositions are **SUSTAINED, PARTIALLY SUSTAINED, NOT SUSTAINED, or UNRESOLVED**. Appropriate recommendations can include retain, strengthen arguments, qualify language, adjust confidence, revise, abandon, or keep an issue open. No theory is added just because it sounds plausible; contradictions with other teachings require further Scripture-based testing.
+Possible dispositions are **SUSTAINED, PARTIALLY SUSTAINED, NOT SUSTAINED, or UNRESOLVED**. Appropriate recommendations can include retain, strengthen arguments, qualify language, adjust confidence, revise, abandon, or identify a question for further examination. No theory is added just because it sounds plausible; contradictions with other teachings require further Scripture-based testing.
+
+Substantive challenge issues remain open and unlocked by default under the [continuing review rules](../CONTRIBUTING.md#continuing-review-and-issue-status). A maintained summary identifies the present position and version, verdict or review status, evidence considered, verified changes, and unresolved questions separately from GitHub open/closed state. Any contributor may add relevant evidence, arguments, or corrections without a fixed reply limit or response deadline. The maintainer or an authorized human reviewer assesses those contributions; a material error or previously overlooked evidence can warrant renewed Revision Resistance. Participation counts and issue state establish no theological conclusion.
 
 ## Required public evidence
 

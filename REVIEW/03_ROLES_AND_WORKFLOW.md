@@ -51,16 +51,18 @@ The **first-stage judge comparison** may label the competing propositions A/B ra
 4. The assigned defender receives the whole case and builds **Revision Resistance**: the strongest honest case for keeping the existing claim and the exact reasons that would require conceding it.
 5. The independent adjudicator reads both cases and the decisive texts, weighs positive biblical support for **both** propositions, documents misreadings and open questions, and recommends the smallest faithful correction.
 6. The independent verifier independently checks the judge's evidence, including omissions and source access. A material discrepancy goes back for another visible adjudication; **do not average contradictory verdicts into a compromise**.
-7. Publish the exact role record, case map, finding, verification, limitations, and any unresolved dissent. Apply the adopted rebuttal/closure procedures; do not confuse an AI reply with administrative approval.
+7. Publish the exact role record, case map, finding, verification, limitations, and any unresolved dissent. Maintain the issue summary under the [continuing review procedure](../CONTRIBUTING.md#continuing-review-and-issue-status), keeping the substantive issue open and unlocked by default; do not confuse an AI reply with administrative approval.
 8. Only an authorized, verified change to the **current Drive governing files**, with historical preservation and revision record, may become a new official LST version; then independently publish and verify the GitHub counterpart. A written recommendation is not an edit.
 
 ### Two decisions, not one
 
 For each disputed proposition the adjudicator must decide **(a) what the challenge established** and **(b) what positive biblical warrant the existing claim actually retains**. It must separately evaluate the proposed replacement. “The challenger failed to prove X” is *not* “LST proved Y.” “Both readings are possible” is *not* permission to append two contradictory doctrinal statements.
 
-### Existing challenge policy during pilot
+### Continuing review during the pilot
 
-The official GitHub process currently provides up to **three substantive rebuttal rounds** and a seven-day window after published adjudications where rounds remain. These rules are not rewritten merely by publishing this pilot. Changes to intake, deadlines, procedural disputes, and who manages the queue require a separate proposed governance revision and official verification.
+Substantive challenge issues remain **open and unlocked by default** as continuing topic records. Any contributor may add relevant biblical arguments, objections, corrections, sources, or questions on the same issue without a fixed rebuttal-round limit or response deadline. The maintained summary records the present LST position and version, verdict or review status, evidence considered, verified changes, and unresolved questions separately from GitHub open/closed state.
+
+Human intake and owner approval for substantive revisions apply. The maintainer or an authorized human reviewer assesses later contributions; previously overlooked evidence or a material error can warrant renewed review and Revision Resistance. No immediate response or repeated full adjudication of repetitive comments is guaranteed. Link related issues and preserve distinct contributions before redirecting a duplicate. Administrative closure requires a recorded reason, and locking requires a separate moderation reason; theological disagreement does not justify either action. Acceptance alone does not close a topic, while an explicit closure request may be honored. Participation counts prove no doctrine. The [official procedure](../CONTRIBUTING.md#continuing-review-and-issue-status) governs these safeguards and preserves previously closed cases; reopening is a separate maintainer decision. The four-AI workflow remains an unadopted pilot.
 
 ---
 

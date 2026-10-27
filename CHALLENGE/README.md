@@ -9,6 +9,8 @@
 
 Everyone may challenge LST without being a theologian or using AI. Scripture, not the number of comments or the popularity of a viewpoint, supplies the evidence.
 
+Substantive challenge issues remain **open and unlocked by default** as continuing topic records. Any contributor may add relevant arguments, evidence, corrections, sources, or questions without a fixed reply limit or response deadline. The maintained position and review summary is separate from GitHub open/closed state. Human review, Revision Resistance, and owner approval for substantive changes apply; no immediate response is guaranteed. See the [continuing review rules](../CONTRIBUTING.md#continuing-review-and-issue-status), including administrative exceptions and moderation.
+
 **Not ready to file a formal challenge?** You're welcome to join the [Bible Questions & Discussion! welcome thread](https://github.com/kenkibbey/living-systematic-theology/discussions/38) or explore [all community Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions). Questions, explorations, and disagreement can happen there without entering the formal adjudication queue. If discussion develops into a specific testable objection, use the challenge steps below to submit an Issue.
 
 ## Table of contents

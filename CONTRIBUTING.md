@@ -9,7 +9,7 @@
 
 Living Systematic Theology welcomes serious biblical challenge.
 
-**Open discussion is welcome too.** [GitHub Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions) is a place for biblical questions, theological conversation and shared sources; [start with the pinned welcome thread](https://github.com/kenkibbey/living-systematic-theology/discussions/38). **Discussions are not formal LST challenges** and do not initiate the adjudication or rebuttal timetable. For a precise doctrinal or methodological challenge requiring a documented verdict, follow the Issue process below.
+**Open discussion is welcome too.** [GitHub Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions) is a place for biblical questions, theological conversation and shared sources; [start with the pinned welcome thread](https://github.com/kenkibbey/living-systematic-theology/discussions/38). **Discussions are not formal LST challenges** and do not initiate formal review. For a precise doctrinal or methodological challenge requiring a documented verdict, follow the Issue process below.
 
 The purpose of this repository is not to crowdsource doctrine, collect votes, or reward the most popular theological tradition. The purpose is to expose LST to arguments strong enough to correct it where Scripture requires correction and strong enough to strengthen it where its present formulation survives examination.
 
@@ -69,7 +69,7 @@ A challenge is treated as a claim to examine, not as a verdict.
 
 **Initial handling.** Opening an issue puts it in the public submission queue. The maintainer reviews the issue, possibly with AI help, to identify the precise proposition, supporting passages, and whether it belongs in this challenge process. The maintainer may request clarification or sources, accept it for substantive review, queue or defer the examination because more work or available capacity is needed, or redirect a non-challenge to the appropriate discussion. If review is deferred, the issue should be marked accordingly and the reason explained when practicable. **Deferred and awaiting-clarification are administrative intake states, not rulings on biblical truth.** Neither a newly opened issue nor an automated issue alert is a completed theological review.
 
-**Timing and responsibility.** There is no guaranteed time to initial response or to a full adjudication. The issue itself is the place to check for progress; GitHub notifications depend on the submitter's settings. Ken retains responsibility for approving official results, changes to current governing documents, and publication. The separate seven-day windows are opportunities to rebut an **already published initial or renewed adjudication**; they do not start when an issue is submitted.
+**Timing and responsibility.** There is no guaranteed time to initial response or to a full adjudication. The issue itself is the place to check for progress; GitHub notifications depend on the submitter's settings. Ken retains responsibility for approving official results, changes to current governing documents, and publication.
 
 The normal process is:
 
@@ -82,7 +82,7 @@ The normal process is:
 7. **Approve and version any real change.** No public challenge directly edits the governing theology. An approved change is first incorporated into the private working repository under LST's versioning rules, with superseded snapshots preserved and the Revision Record updated when appropriate.
 8. **Synchronize the approved public version to GitHub.** Only after the governing documents have been updated is the corresponding public copy changed here.
 
-When possible, the GitHub issue that prompted a change should remain part of the public record so readers can see what was challenged, how it was examined, and why LST changed or did not change.
+The GitHub issue that prompted a change remains a continuing public record so readers can see what was challenged, how it was examined, and why LST changed or did not change. Substantive challenge issues remain open and unlocked by default.
 
 ## Versioning Policy
 
@@ -100,9 +100,11 @@ Stable current filenames do not erase history. Before a stable governing file is
 
 ## Challenge Status and Public Verdict
 
-Every submitted challenge should have a visible status.
+Every submitted challenge should have a clearly identified, maintained summary of the present LST position and version, the current challenge verdict or review status, the main evidence and reasoning, any verified changes, and the strongest unresolved questions. Update it when substantive review changes the record, with links to the relevant adjudication and revision. Distinguish that summary from the preserved history of earlier arguments and decisions.
 
-The normal lifecycle is:
+Theological verdict, review stage, and GitHub open/closed state are separate: an open issue does not mean the doctrine is unsettled, and an adjudication marked complete does not make its conclusion immune from correction.
+
+Review stages and verdicts include:
 
 1. **SUBMITTED** — The issue has been opened and is awaiting review.
 2. **AWAITING CLARIFICATION / DEFERRED** — An administrative pre-review state when information or review capacity is lacking; this is not a theological verdict.
@@ -112,19 +114,31 @@ The normal lifecycle is:
 6. **NOT SUSTAINED** — The present LST position survives the challenge at its current doctrinal level, though its wording or argument may still be clarified or strengthened.
 7. **UNRESOLVED** — The challenge creates substantial biblical pressure that cannot yet be responsibly settled in either direction.
 
-Post a self-contained adjudication on the same GitHub issue using the [LST Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md). Invite correction and rebuttal in that issue; run Revision Resistance again when a rebuttal supplies materially new evidence or exposes a material error.
+Post a self-contained adjudication on the same GitHub issue using the [LST Challenge Verdict Template](CHALLENGE_VERDICT_TEMPLATE.md). Invite correction and rebuttal from any contributor in that issue; run Revision Resistance again when a contribution supplies materially new or previously overlooked evidence, exposes a material error, or identifies a substantive defect in the reasoning.
 
-The public verdict should identify the controlling passages, summarize the strongest case on both sides, state the Revision Resistance result, explain whether LST changed, and point to any resulting revision or version number.
+The public verdict should identify the controlling passages, explain the strongest case for retaining the current formulation before weighing the strongest case for revision, address material objections, identify source limitations, state the Revision Resistance result and what evidence or reasoning could change it, explain whether LST changed, and point to any resulting revision or version number.
 
 The person who submitted the challenge should therefore be able to see how the objection was handled. GitHub will provide issue notifications according to that user’s own notification settings.
 
 New challenge Issues may be monitored and surfaced to the maintainer automatically, but the theological verdict itself is not automatic. A challenge must actually be examined, and no governing document changes without maintainer approval.
 
-## Rebuttal Windows and Closure
+## Continuing Review and Issue Status
 
-Each challenger may submit up to three substantive rebuttal rounds to each challenge on the same issue. Several comments developing one reply count as one round; clarification questions do not consume a round. After the initial public adjudication, allow seven days from its GitHub timestamp for a rebuttal; publish the UTC deadline and rounds used. A timely rebuttal pauses closure while it is examined. After each renewed adjudication, allow another seven-day response window for any remaining rounds. Administrative comments do not reset the clock. Address the third rebuttal before posting the final decision and closing. Earlier closure is permitted when the challenger accepts the resolution or withdraws the challenge. If no rebuttal arrives within an announced seven-day window, the initial decision (or the latest decision after a rebuttal) becomes final for that challenge. Close only after the public reasoning and authorized changes are verified, recording the verdict and reason for closure. Silence establishes no biblical proof or victory; an unresolved verdict remains unresolved. Materially new evidence can reopen review. Apply this procedure going forward; an already-open challenge receives a fresh seven-day window when this policy is announced on its issue.
+Substantive challenge issues remain open and unlocked by default. Each issue is a continuing public record for examining and refining LST. There is no fixed rebuttal-round limit or response deadline. Any contributor may add relevant biblical arguments, objections, corrections, sources, or questions on the same issue. Link related issues; a genuinely distinct challenge may receive its own linked issue.
 
-The final notice records the issue's verdict, rounds used, and reason for closure. Closing an issue ends that challenge's current process; it does not make LST immune from biblical correction.
+Acceptance or withdrawal can end the original challenger's participation without closing the issue or preventing others from contributing. Human approval, historical preservation, appropriate versioning, and independent verification of governing and public changes remain required.
+
+The maintainer or an authorized human reviewer assesses later contributions. Materially new or previously overlooked evidence, a misread passage, a material factual or source error, or a substantive defect in the reasoning can warrant renewed review and Revision Resistance. An argument need not be newly discovered to expose an error that the existing decision did not adequately address. Relevant contributions are not rejected merely because a prior decision was posted, time passed, or a reply count was reached. Repetition alone does not require another full adjudication. There is no guaranteed immediate response or obligation to prolong repetitive exchanges; a review may be queued or deferred with its status and reason made clear when practicable.
+
+### Administrative closure
+
+Administrative closure is exceptional and must have a recorded reason. A duplicate may be closed only after checking for distinct arguments or evidence, preserving any material contribution in the continuing issue or a linked public record, and linking the canonical issue with the reason for redirection. A misplaced issue may be redirected with a link or explanation, and an explicit request to close a resolved or withdrawn case may be honored. None of these actions establishes a theological verdict or justifies discarding substantive evidence. Do not close an issue merely because LST disagrees with the challenge, the original challenger accepts a result, or an exchange has reached diminishing returns.
+
+### Moderation
+
+Moderation is separate from adjudication. Spam, harassment, privacy violations, and persistent off-topic disruption may be moderated proportionately; locking requires a distinct, recorded moderation reason and is not a response to theological disagreement. Open issues do not promise unrestricted off-topic posting. Silence, acceptance, the number of comments or participants, and issue state prove no doctrine. Participation counts describe participation, not the strength or truth of a biblical case.
+
+Previously closed cases retain their recorded history; reopening is a separate maintainer decision. Preserve archived reports, historical policy entries, and closure notices. The proposed four-AI workflow remains a separate, unadopted pilot.
 
 ## Pull Requests
 

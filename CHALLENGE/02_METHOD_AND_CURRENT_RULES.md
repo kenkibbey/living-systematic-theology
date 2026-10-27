@@ -7,7 +7,7 @@
 <p align="center"><em>The text in context comes first; both sides face the same standard</em></p>
 <p align="center">✦ <strong>Scripture governs</strong> · Evidence matters · Every claim remains testable ✦</p>
 
-This is the public explanation of LST's **current** approach, not the independent four-AI pilot. The current Systematic governs theology, and [CONTRIBUTING](../CONTRIBUTING.md) contains the **binding public challenge deadlines and procedural rules**.
+This is the public explanation of LST's **current** approach, not the independent four-AI pilot. The current Systematic governs theology, and [CONTRIBUTING](../CONTRIBUTING.md) contains the **binding public challenge and continuing review rules**.
 
 ## How Scripture is interpreted
 
@@ -31,7 +31,11 @@ Distinguish: proven doctrine with a weak argument; overconfident but still possi
 
 ## The official public procedure
 
-The maintainer handles issue intake and official publishing. Reasoned adjudications are published with sources, limitations, objections, and a verdict: **sustained, partially sustained, not sustained, or unresolved**. The current procedure allows **three substantive rebuttal rounds** and seven days to answer a published adjudication while rounds remain. Clarifications do not automatically use a round. Silence does not prove a doctrine.
+The maintainer handles issue intake and official publishing. Reasoned adjudications are published with sources, limitations, objections, and a verdict: **sustained, partially sustained, not sustained, or unresolved**. Substantive challenge issues remain **open and unlocked by default** as continuing topic records. Any contributor may add relevant biblical arguments, objections, corrections, sources, or questions on the same issue, without a fixed rebuttal-round limit or response deadline. Link related issues and give a genuinely distinct challenge its own linked issue when needed.
+
+Maintain a clearly identified summary of the present LST position and version, verdict or review status, evidence considered, verified changes, and unresolved questions. Theological verdict, review stage, and GitHub open/closed state are separate. Later contributions receive human assessment; materially new or previously overlooked evidence or a material error can warrant renewed review and Revision Resistance. There is no guaranteed immediate response or duty to repeat a full adjudication for repetitive comments. Human approval is required for substantive LST revisions.
+
+Administrative closure requires a recorded reason. Before closing a duplicate, inspect it for distinct arguments or evidence, preserve material contributions in the continuing issue or a linked record, and link the canonical issue with the reason for redirection. Misplaced matters may be redirected, and explicit requests to close resolved or withdrawn cases may be honored. Acceptance alone does not close the issue. Locking requires a separate recorded moderation reason; theological disagreement does not justify it. Silence, acceptance, participation counts, and issue state prove no doctrine. Previously closed cases retain their history; reopening is a separate maintainer decision.
 
 The established detailed rules, optional tools, and public response structure are gathered at the end rather than interrupting the reading:
 

@@ -11,6 +11,8 @@
 
 This is the proposed next generation of Living Systematic Theology (LST) challenge review. It is published **before adoption**, so anyone can inspect the complete reasoning rules and the **full task prompts for all four AI roles**. The independent board has not yet been demonstrated in live, reproducible trials. Existing GitHub challenge rules remain effective until LST formally changes them and verifies the resulting publication.
 
+The [official continuing review policy](../CONTRIBUTING.md#continuing-review-and-issue-status) keeps substantive challenge issues open and unlocked by default, with a maintained summary of the present position, verdict or review status, evidence, and unresolved questions. Any contributor may add relevant arguments or corrections without a fixed reply limit or response deadline. Issue state is separate from theological judgment; human intake, Revision Resistance, and owner approval for substantive changes apply. The policy also governs exceptional administrative closure and separate moderation.
+
 **The goal:** Scripture corrects the theology; the theology must not control Scripture. We want rigorous resistance to *unsupported change*, not resistance to *biblically warranted correction*. No AI or human is promised to be completely unbiased.
 
 ## Start here — copy-and-paste courtroom workflow (role-only prompts)

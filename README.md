@@ -30,6 +30,8 @@ Choose **one of four paths**. Each has its own table of contents and moves forwa
 
 **New to the community?** [Begin with our pinned welcome discussion](https://github.com/kenkibbey/living-systematic-theology/discussions/38). Discussions are for open conversation; formal challenges are handled through the separate **Challenge a claim** path.
 
+**Challenge issues are continuing topic records.** Substantive issues remain open and unlocked by default. Any contributor may add relevant evidence, arguments, questions, or corrections without a fixed reply limit or response deadline. A maintained summary records the present position, review status or verdict, evidence, and unresolved questions separately from the issue's open state. See the [continuing review rules](CONTRIBUTING.md#continuing-review-and-issue-status) for human review, administrative exceptions, and moderation.
+
 The published four-AI guide is **an unadopted pilot**, not the official review procedure. Its four complete proposed AI task prompts are public. A judge's AI output is never divine authority or independent human peer review.
 
 ## What makes LST different?

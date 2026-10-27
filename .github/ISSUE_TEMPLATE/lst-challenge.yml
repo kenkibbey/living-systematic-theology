@@ -11,7 +11,9 @@ body:
 
         **One argument, five elements:** (1) the exact current LST claim; (2) the problem; (3) the Scripture passages and contextual reasoning; (4) the correction you propose; (5) what biblical evidence might change your mind.
 
-        Do not post private data. An issue is public. Review may require clarification and has **no guaranteed intake deadline**. The current public rules, including three substantive rebuttal rounds and seven-day post-adjudication windows, are in [Contributing](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md). The separate four-AI independent review is a **pilot, not yet adopted**.
+        Do not post private data. An issue is public. Substantive challenges remain **open and unlocked by default** as continuing topic records. Any contributor may add relevant arguments, evidence, corrections, sources, or questions without a fixed reply limit or response deadline. Review may require clarification or be deferred; there is **no guaranteed immediate response**. The maintained position, verdict or review status, evidence, and unresolved questions are separate from GitHub open/closed state.
+
+        Search for related issues and contribute to the existing topic when appropriate; link a genuinely distinct challenge. Duplicates are checked for distinct contributions before redirection. Human intake, Revision Resistance, and owner approval for substantive revisions apply. See [Contributing](https://github.com/kenkibbey/living-systematic-theology/blob/main/CONTRIBUTING.md#continuing-review-and-issue-status) for continuing review, administrative exceptions, and moderation. Participation counts prove no doctrine. The separate four-AI independent review is a **pilot, not yet adopted**.
   - type: textarea
     id: challenge
     attributes:

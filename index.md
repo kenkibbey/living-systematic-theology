@@ -28,6 +28,8 @@ LST is a fallible attempt to state Scripture's theology faithfully. The Bible is
 
 **New here?** [Welcome to Bible Questions & Discussion!](https://github.com/kenkibbey/living-systematic-theology/discussions/38) — ask questions, discuss interpretations, and share insights. Discussions are for conversation; formal doctrinal challenges follow the Issues process.
 
+Substantive challenge issues remain **open and unlocked by default** as continuing topic records. Anyone may add relevant evidence, arguments, or corrections without a fixed reply limit or response deadline. A maintained summary records the present position, review status, evidence, and unresolved questions separately from the issue's open state. [Read the continuing review rules](CONTRIBUTING.md#continuing-review-and-issue-status).
+
 The four-AI independent adjudication process is currently **a published experimental design, not operative challenge policy**. Its exact proposed prompts are published so they can be tested publicly. AI has no theological authority.
 
 **[Full GitHub repository](https://github.com/kenkibbey/living-systematic-theology)** · **[License](LICENSE)** · **[Discussions](https://github.com/kenkibbey/living-systematic-theology/discussions)** · **[Formal issues](https://github.com/kenkibbey/living-systematic-theology/issues)**
